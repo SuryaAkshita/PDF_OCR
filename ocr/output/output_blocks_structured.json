@@ -1,0 +1,288 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "sections": [
+        {
+          "title": "TECHNICAL REPORT",
+          "content": [
+            {
+              "text": "Prepared Date: January by: Research 12, 2026 Department",
+              "confidence": 95.75,
+              "bbox": {
+                "Left": 0.13220475614671504,
+                "Top": 0.12685290763968074,
+                "Width": 0.2700523982265215,
+                "Height": 0.025370581527936142
+              }
+            },
+            {
+              "text": "Document ID: RPT-2026-DEMO-001",
+              "confidence": 93.0,
+              "bbox": {
+                "Left": 0.13220475614671504,
+                "Top": 0.15507411630558723,
+                "Width": 0.275292220878678,
+                "Height": 0.009122006841505131
+              }
+            }
+          ]
+        },
+        {
+          "title": "EXECUTIVE SUMMARY",
+          "content": [
+            {
+              "text": "This text extraction, report demonstrates key-value detection, a full range table of document recognition, understanding and logical section capabilities grouping. including The structured objective is",
+              "confidence": 95.96,
+              "bbox": {
+                "Left": 0.13139862958484483,
+                "Top": 0.2266248574686431,
+                "Width": 0.7335751713018944,
+                "Height": 0.025370581527936115
+              }
+            },
+            {
+              "text": "to showcase a Textract-like document analysis pipeline using open-source tools.",
+              "confidence": 95.4,
+              "bbox": {
+                "Left": 0.13139862958484483,
+                "Top": 0.25513112884834666,
+                "Width": 0.5953244659411528,
+                "Height": 0.011117445838084383
+              }
+            }
+          ]
+        },
+        {
+          "title": "KEY FINDINGS",
+          "content": [
+            {
+              "text": "- Customer Revenue increased retention improved by 22% year-over-year to 95%",
+              "confidence": 95.36363636363636,
+              "bbox": {
+                "Left": 0.13180169286577992,
+                "Top": 0.32639680729760545,
+                "Width": 0.32849657396211207,
+                "Height": 0.025370581527936198
+              }
+            },
+            {
+              "text": "- - Digital adoption grew across all regions",
+              "confidence": 95.0,
+              "bbox": {
+                "Left": 0.13180169286577992,
+                "Top": 0.34549600912200684,
+                "Width": 0.3010882708585248,
+                "Height": 0.020524515393386566
+              }
+            },
+            {
+              "text": "- Operational Employee satisfaction costs reduced by reached 11% 8.9/10",
+              "confidence": 94.8,
+              "bbox": {
+                "Left": 0.13180169286577992,
+                "Top": 0.36887115165336376,
+                "Width": 0.33454252317613864,
+                "Height": 0.025655644241733166
+              }
+            },
+            {
+              "text": "- score",
+              "confidence": 94.5,
+              "bbox": {
+                "Left": 0.13180169286577992,
+                "Top": 0.38568985176738885,
+                "Width": 0.2176541717049577,
+                "Height": 0.006556442417331831
+              }
+            },
+            {
+              "text": "Tauarr| PERFORMANCE METRICS [ NPS",
+              "confidence": 68.4,
+              "bbox": {
+                "Left": 0.1301894397420395,
+                "Top": 0.427309007981756,
+                "Width": 0.44981862152357927,
+                "Height": 0.05159635119726341
+              }
+            },
+            {
+              "text": "[Projects Score",
+              "confidence": 52.0,
+              "bbox": {
+                "Left": 0.4498186215235792,
+                "Top": 0.45210946408209807,
+                "Width": 0.19064893188230558,
+                "Height": 0.019954389965792463
+              }
+            },
+            {
+              "text": "|",
+              "confidence": 41.0,
+              "bbox": {
+                "Left": 0.3619508262797259,
+                "Top": 0.4868871151653364,
+                "Width": 0.00201531640467556,
+                "Height": 0.002850627137970352
+              }
+            }
+          ]
+        },
+        {
+          "title": "REGIONAL BREAKDOWN",
+          "content": [
+            {
+              "text": "North Europe: America: 30% of 45% total of total revenue",
+              "confidence": 95.6,
+              "bbox": {
+                "Left": 0.13220475614671504,
+                "Top": 0.5972063854047891,
+                "Width": 0.2688432083837162,
+                "Height": 0.025370581527936142
+              }
+            },
+            {
+              "text": "Asia Pacific: 20% of total revenue revenue",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.13139862958484483,
+                "Top": 0.613740022805017,
+                "Width": 0.249093107617896,
+                "Height": 0.020809578107183646
+              }
+            },
+            {
+              "text": "Other: 5% of total revenue",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.13180169286577992,
+                "Top": 0.6396807297605474,
+                "Width": 0.19427650141072145,
+                "Height": 0.009122006841505104
+              }
+            }
+          ]
+        },
+        {
+          "title": "RECOMMENDATIONS",
+          "content": [
+            {
+              "text": "2. 1. Continue Expand investment in digital infrastructure by 20%",
+              "confidence": 95.6,
+              "bbox": {
+                "Left": 0.13180169286577992,
+                "Top": 0.7203534777651083,
+                "Width": 0.33897621926642485,
+                "Height": 0.025655644241733278
+              }
+            },
+            {
+              "text": "3. Launch customer product success line in team Q2 2026",
+              "confidence": 94.6,
+              "bbox": {
+                "Left": 0.13139862958484483,
+                "Top": 0.7354618015963512,
+                "Width": 0.2861749294639258,
+                "Height": 0.024800456100342094
+              }
+            },
+            {
+              "text": "4. Strengthen new partnerships in APAC region",
+              "confidence": 95.0,
+              "bbox": {
+                "Left": 0.13139862958484483,
+                "Top": 0.7514253135689852,
+                "Width": 0.31559854897218864,
+                "Height": 0.02309007981755984
+              }
+            },
+            {
+              "text": "5. Increase R&D; budget by 15%",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.13180169286577992,
+                "Top": 0.7776510832383124,
+                "Width": 0.24304715840386942,
+                "Height": 0.011117445838084383
+              }
+            },
+            {
+              "text": "Confidential — Internal Use Only",
+              "confidence": 90.6,
+              "bbox": {
+                "Left": 0.13301088270858524,
+                "Top": 0.8343785632839225,
+                "Width": 0.23619508262797262,
+                "Height": 0.011402508551881407
+              }
+            }
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "rows": [
+            [
+              "Document",
+              "ID:",
+              "RPT-2026-DEMO-001"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Asia",
+              "Pacific:",
+              "20%",
+              "of",
+              "total",
+              "revenue",
+              "revenue"
+            ],
+            [
+              "Other:",
+              "5%",
+              "of",
+              "total",
+              "revenue"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "3.",
+              "Launch",
+              "customer",
+              "product",
+              "success",
+              "line",
+              "in",
+              "team",
+              "Q2",
+              "2026"
+            ],
+            [
+              "4.",
+              "Strengthen",
+              "new",
+              "partnerships",
+              "in",
+              "APAC",
+              "region"
+            ],
+            [
+              "5.",
+              "Increase",
+              "R&D;",
+              "budget",
+              "by",
+              "15%"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

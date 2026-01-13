@@ -1,0 +1,3694 @@
+{
+    "DocumentMetadata": {
+        "Pages": 1
+    },
+    "Blocks": [
+        {
+            "Id": "PAGE_c750aa66",
+            "BlockType": "PAGE",
+            "Page": 1
+        },
+        {
+            "Id": "SECTION_d5e47a41",
+            "BlockType": "SECTION",
+            "Title": "TECHNICAL REPORT",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "LINE_9624f275",
+                        "LINE_86d0efec"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "SECTION_8f7e5a8b",
+            "BlockType": "SECTION",
+            "Title": "EXECUTIVE SUMMARY",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "LINE_ef956660",
+                        "LINE_4a815983"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "SECTION_168f627c",
+            "BlockType": "SECTION",
+            "Title": "KEY FINDINGS",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "LINE_2c16587e",
+                        "LINE_5c5e921e",
+                        "LINE_e4280587",
+                        "LINE_02590ed4",
+                        "LINE_632b10b2",
+                        "LINE_056cb4c1",
+                        "LINE_4d1da724"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "SECTION_60cf5d6d",
+            "BlockType": "SECTION",
+            "Title": "REGIONAL BREAKDOWN",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "LINE_b79dfb64",
+                        "LINE_2de1c72e",
+                        "LINE_294a0744"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "SECTION_327bcdfe",
+            "BlockType": "SECTION",
+            "Title": "RECOMMENDATIONS",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "LINE_d7e3ebf3",
+                        "LINE_f0c8d68e",
+                        "LINE_2d1a55b1",
+                        "LINE_7944b5b5",
+                        "LINE_ff8b94ad"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "CELL_89ad9300",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 1,
+            "Text": "Document",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_04883797",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 2,
+            "Text": "ID:",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_a2144abb",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 3,
+            "Text": "RPT-2026-DEMO-001",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "TABLE_2091eda8",
+            "BlockType": "TABLE",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "CELL_89ad9300",
+                        "CELL_04883797",
+                        "CELL_a2144abb"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "CELL_f6e241c6",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 1,
+            "Text": "Asia",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_0e24dddf",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 2,
+            "Text": "Pacific:",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_fe896bd5",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 3,
+            "Text": "20%",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_6b66d4ff",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 4,
+            "Text": "of",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_913dd5aa",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 5,
+            "Text": "total",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_750a867a",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 6,
+            "Text": "revenue",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_adf76601",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 7,
+            "Text": "revenue",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_b3630d8f",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 1,
+            "Text": "Other:",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_348b4c42",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 2,
+            "Text": "5%",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_f3dfde8b",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 3,
+            "Text": "of",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_ffc8bfbe",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 4,
+            "Text": "total",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_bb3145fb",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 5,
+            "Text": "revenue",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "TABLE_7a276779",
+            "BlockType": "TABLE",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "CELL_f6e241c6",
+                        "CELL_0e24dddf",
+                        "CELL_fe896bd5",
+                        "CELL_6b66d4ff",
+                        "CELL_913dd5aa",
+                        "CELL_750a867a",
+                        "CELL_adf76601",
+                        "CELL_b3630d8f",
+                        "CELL_348b4c42",
+                        "CELL_f3dfde8b",
+                        "CELL_ffc8bfbe",
+                        "CELL_bb3145fb"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "CELL_7fd55967",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 1,
+            "Text": "3.",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_50634441",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 2,
+            "Text": "Launch",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_507cf5cc",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 3,
+            "Text": "customer",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_e50b33ec",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 4,
+            "Text": "product",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_28cba960",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 5,
+            "Text": "success",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_7b96d769",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 6,
+            "Text": "line",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_783e811b",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 7,
+            "Text": "in",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_d4aa2bd0",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 8,
+            "Text": "team",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_8db8d54b",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 9,
+            "Text": "Q2",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_32551e9b",
+            "BlockType": "CELL",
+            "RowIndex": 1,
+            "ColumnIndex": 10,
+            "Text": "2026",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_3f3e5561",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 1,
+            "Text": "4.",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_900d16c0",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 2,
+            "Text": "Strengthen",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_4986e281",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 3,
+            "Text": "new",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_5a5ca8a3",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 4,
+            "Text": "partnerships",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_d6653884",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 5,
+            "Text": "in",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_3033cba1",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 6,
+            "Text": "APAC",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_feb64427",
+            "BlockType": "CELL",
+            "RowIndex": 2,
+            "ColumnIndex": 7,
+            "Text": "region",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_5d78fd1e",
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 1,
+            "Text": "5.",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_4975a64a",
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 2,
+            "Text": "Increase",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_dc6023d7",
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 3,
+            "Text": "R&D;",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_3c76ac6e",
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 4,
+            "Text": "budget",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_97577821",
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 5,
+            "Text": "by",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "CELL_f96c2492",
+            "BlockType": "CELL",
+            "RowIndex": 3,
+            "ColumnIndex": 6,
+            "Text": "15%",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": []
+                }
+            ]
+        },
+        {
+            "Id": "TABLE_7dceaefb",
+            "BlockType": "TABLE",
+            "Page": 1,
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "CELL_7fd55967",
+                        "CELL_50634441",
+                        "CELL_507cf5cc",
+                        "CELL_e50b33ec",
+                        "CELL_28cba960",
+                        "CELL_7b96d769",
+                        "CELL_783e811b",
+                        "CELL_d4aa2bd0",
+                        "CELL_8db8d54b",
+                        "CELL_32551e9b",
+                        "CELL_3f3e5561",
+                        "CELL_900d16c0",
+                        "CELL_4986e281",
+                        "CELL_5a5ca8a3",
+                        "CELL_d6653884",
+                        "CELL_3033cba1",
+                        "CELL_feb64427",
+                        "CELL_5d78fd1e",
+                        "CELL_4975a64a",
+                        "CELL_dc6023d7",
+                        "CELL_3c76ac6e",
+                        "CELL_97577821",
+                        "CELL_f96c2492"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_b056f266",
+            "BlockType": "LINE",
+            "Text": "TECHNICAL REPORT",
+            "Confidence": 95.5,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.34784361144699716,
+                    "Top": 0.09806157354618016,
+                    "Width": 0.3047158403869408,
+                    "Height": 0.01653363740022805
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_b0964ef0",
+                        "WORD_d699c005"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_9624f275",
+            "BlockType": "LINE",
+            "Text": "Prepared Date: January by: Research 12, 2026 Department",
+            "Confidence": 95.75,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13220475614671504,
+                    "Top": 0.12685290763968074,
+                    "Width": 0.2700523982265215,
+                    "Height": 0.025370581527936142
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_a9938e45",
+                        "WORD_506195ce",
+                        "WORD_be75943c",
+                        "WORD_d224046f",
+                        "WORD_d79c6374",
+                        "WORD_d18f5056",
+                        "WORD_f8df4385",
+                        "WORD_73ac03b3"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_86d0efec",
+            "BlockType": "LINE",
+            "Text": "Document ID: RPT-2026-DEMO-001",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13220475614671504,
+                    "Top": 0.15507411630558723,
+                    "Width": 0.275292220878678,
+                    "Height": 0.009122006841505131
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_33f27a09",
+                        "WORD_9ee0a9e0",
+                        "WORD_e2bf5f7f"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_7c1fbc86",
+            "BlockType": "LINE",
+            "Text": "EXECUTIVE SUMMARY",
+            "Confidence": 94.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.19925883694412772,
+                    "Width": 0.25836356307940345,
+                    "Height": 0.01254275940706956
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_be7fa574",
+                        "WORD_ea11748f"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_ef956660",
+            "BlockType": "LINE",
+            "Text": "This text extraction, report demonstrates key-value detection, a full range table of document recognition, understanding and logical section capabilities grouping. including The structured objective is",
+            "Confidence": 95.96,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.7335751713018944,
+                    "Height": 0.025370581527936115
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_9b2de492",
+                        "WORD_1dbd65e0",
+                        "WORD_00b988b6",
+                        "WORD_c339f623",
+                        "WORD_71abdd0f",
+                        "WORD_04dd7c64",
+                        "WORD_d6f8e55d",
+                        "WORD_00fa9043",
+                        "WORD_50cedb82",
+                        "WORD_b1ca84c5",
+                        "WORD_046746c9",
+                        "WORD_a927f46c",
+                        "WORD_e4ed218f",
+                        "WORD_480a7387",
+                        "WORD_e33ac149",
+                        "WORD_5f15419b",
+                        "WORD_bcdd3555",
+                        "WORD_03334637",
+                        "WORD_589e582e",
+                        "WORD_b62ac397",
+                        "WORD_883ea333",
+                        "WORD_d9ce1456",
+                        "WORD_d19837ac",
+                        "WORD_d480d04c",
+                        "WORD_bf52bb64"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_4a815983",
+            "BlockType": "LINE",
+            "Text": "to showcase a Textract-like document analysis pipeline using open-source tools.",
+            "Confidence": 95.4,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.5953244659411528,
+                    "Height": 0.011117445838084383
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_fb502748",
+                        "WORD_1e470cb3",
+                        "WORD_062605a0",
+                        "WORD_3836ec72",
+                        "WORD_16ee4d69",
+                        "WORD_0b99c208",
+                        "WORD_506d689f",
+                        "WORD_b26833a8",
+                        "WORD_f94f33d5",
+                        "WORD_0ef67135"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_8259ddd6",
+            "BlockType": "LINE",
+            "Text": "KEY FINDINGS",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13260781942765015,
+                    "Top": 0.2990307867730901,
+                    "Width": 0.16485288190245867,
+                    "Height": 0.01254275940706956
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_48baf7f6",
+                        "WORD_6948d8ac"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_2c16587e",
+            "BlockType": "LINE",
+            "Text": "- Customer Revenue increased retention improved by 22% year-over-year to 95%",
+            "Confidence": 95.36363636363636,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.32639680729760545,
+                    "Width": 0.32849657396211207,
+                    "Height": 0.025370581527936198
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_73c7dc4b",
+                        "WORD_676d0d21",
+                        "WORD_abd6e758",
+                        "WORD_0e68562f",
+                        "WORD_f734b8b8",
+                        "WORD_7a0be962",
+                        "WORD_05d9c697",
+                        "WORD_0dbace9c",
+                        "WORD_f62b1d18",
+                        "WORD_99daf146",
+                        "WORD_4a02316d"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_5c5e921e",
+            "BlockType": "LINE",
+            "Text": "- - Digital adoption grew across all regions",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.34549600912200684,
+                    "Width": 0.3010882708585248,
+                    "Height": 0.020524515393386566
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_b7f2c6ed",
+                        "WORD_d77c597a",
+                        "WORD_e8931b43",
+                        "WORD_3ac98043",
+                        "WORD_59f56407",
+                        "WORD_45497453",
+                        "WORD_4ea962fc",
+                        "WORD_0166348a"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_e4280587",
+            "BlockType": "LINE",
+            "Text": "- Operational Employee satisfaction costs reduced by reached 11% 8.9/10",
+            "Confidence": 94.8,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.36887115165336376,
+                    "Width": 0.33454252317613864,
+                    "Height": 0.025655644241733166
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_074bde4a",
+                        "WORD_d4b39619",
+                        "WORD_31885fc3",
+                        "WORD_d34180a1",
+                        "WORD_627ec6c1",
+                        "WORD_ff314648",
+                        "WORD_f5b89f96",
+                        "WORD_e774ec19",
+                        "WORD_a524b1ea",
+                        "WORD_7f643e50"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_02590ed4",
+            "BlockType": "LINE",
+            "Text": "- score",
+            "Confidence": 94.5,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.38568985176738885,
+                    "Width": 0.2176541717049577,
+                    "Height": 0.006556442417331831
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_452d3d51",
+                        "WORD_07c505bc"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_632b10b2",
+            "BlockType": "LINE",
+            "Text": "Tauarr| PERFORMANCE METRICS [ NPS",
+            "Confidence": 68.4,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.1301894397420395,
+                    "Top": 0.427309007981756,
+                    "Width": 0.44981862152357927,
+                    "Height": 0.05159635119726341
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_10e62302",
+                        "WORD_03204267",
+                        "WORD_25aa1b08",
+                        "WORD_24b4d573",
+                        "WORD_179312a7"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_056cb4c1",
+            "BlockType": "LINE",
+            "Text": "[Projects Score",
+            "Confidence": 52.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.4498186215235792,
+                    "Top": 0.45210946408209807,
+                    "Width": 0.19064893188230558,
+                    "Height": 0.019954389965792463
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_c7852813",
+                        "WORD_9b633c7f"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_4d1da724",
+            "BlockType": "LINE",
+            "Text": "|",
+            "Confidence": 41.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3619508262797259,
+                    "Top": 0.4868871151653364,
+                    "Width": 0.00201531640467556,
+                    "Height": 0.002850627137970352
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_0504fe1b"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_495d9132",
+            "BlockType": "LINE",
+            "Text": "REGIONAL BREAKDOWN",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.5698403648802737,
+                    "Width": 0.28536880290205563,
+                    "Height": 0.012542759407069504
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_3be44be8",
+                        "WORD_6aba9448"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_b79dfb64",
+            "BlockType": "LINE",
+            "Text": "North Europe: America: 30% of 45% total of total revenue",
+            "Confidence": 95.6,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13220475614671504,
+                    "Top": 0.5972063854047891,
+                    "Width": 0.2688432083837162,
+                    "Height": 0.025370581527936142
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_8eff54d7",
+                        "WORD_81a72629",
+                        "WORD_e07e5524",
+                        "WORD_02e5a04a",
+                        "WORD_f00fe24e",
+                        "WORD_5f2a622b",
+                        "WORD_55bda5ac",
+                        "WORD_2862132d",
+                        "WORD_f8daba12",
+                        "WORD_9667cb06"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_2de1c72e",
+            "BlockType": "LINE",
+            "Text": "Asia Pacific: 20% of total revenue revenue",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.613740022805017,
+                    "Width": 0.249093107617896,
+                    "Height": 0.020809578107183646
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_18954ae1",
+                        "WORD_cc3a0bd8",
+                        "WORD_6c8286ad",
+                        "WORD_da370cfd",
+                        "WORD_f4f475b5",
+                        "WORD_c03f8e36",
+                        "WORD_9766f3ac"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_294a0744",
+            "BlockType": "LINE",
+            "Text": "Other: 5% of total revenue",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.6396807297605474,
+                    "Width": 0.19427650141072145,
+                    "Height": 0.009122006841505104
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_1e51dfad",
+                        "WORD_bd52975e",
+                        "WORD_c64476c1",
+                        "WORD_859ac5bf",
+                        "WORD_1a1b34a3"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_60e63f77",
+            "BlockType": "LINE",
+            "Text": "RECOMMENDATIONS",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.69327251995439,
+                    "Width": 0.24264409512293433,
+                    "Height": 0.012542759407069504
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_c7a348d5"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_d7e3ebf3",
+            "BlockType": "LINE",
+            "Text": "2. 1. Continue Expand investment in digital infrastructure by 20%",
+            "Confidence": 95.6,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.7203534777651083,
+                    "Width": 0.33897621926642485,
+                    "Height": 0.025655644241733278
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_fec9490b",
+                        "WORD_62352ddf",
+                        "WORD_93fbf1ea",
+                        "WORD_e2fc04cb",
+                        "WORD_dd03bb58",
+                        "WORD_d7d1adb3",
+                        "WORD_4c6b8e84",
+                        "WORD_3a271cd8",
+                        "WORD_4f818840",
+                        "WORD_78844f6b"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_f0c8d68e",
+            "BlockType": "LINE",
+            "Text": "3. Launch customer product success line in team Q2 2026",
+            "Confidence": 94.6,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.7354618015963512,
+                    "Width": 0.2861749294639258,
+                    "Height": 0.024800456100342094
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_b1f10771",
+                        "WORD_cadc5752",
+                        "WORD_96111a53",
+                        "WORD_abe211ce",
+                        "WORD_4fa418ba",
+                        "WORD_e0bbbac0",
+                        "WORD_e5560b36",
+                        "WORD_f79cded9",
+                        "WORD_f31b5679",
+                        "WORD_25cb952c"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_2d1a55b1",
+            "BlockType": "LINE",
+            "Text": "4. Strengthen new partnerships in APAC region",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.7514253135689852,
+                    "Width": 0.31559854897218864,
+                    "Height": 0.02309007981755984
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_9861b24c",
+                        "WORD_a9527455",
+                        "WORD_e43d5d24",
+                        "WORD_2106267a",
+                        "WORD_511fd411",
+                        "WORD_8572be6b",
+                        "WORD_93f5b28f"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_7944b5b5",
+            "BlockType": "LINE",
+            "Text": "5. Increase R&D; budget by 15%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.7776510832383124,
+                    "Width": 0.24304715840386942,
+                    "Height": 0.011117445838084383
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_6437070f",
+                        "WORD_c22df1fb",
+                        "WORD_bc5e1ef0",
+                        "WORD_d77253c1",
+                        "WORD_b70d7eaf",
+                        "WORD_550f896a"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "LINE_ff8b94ad",
+            "BlockType": "LINE",
+            "Text": "Confidential \u2014 Internal Use Only",
+            "Confidence": 90.6,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.8343785632839225,
+                    "Width": 0.23619508262797262,
+                    "Height": 0.011402508551881407
+                }
+            },
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "WORD_0ce46dc9",
+                        "WORD_7aeab911",
+                        "WORD_97cf5ee3",
+                        "WORD_6cb755de",
+                        "WORD_eb6deda1"
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "WORD_b0964ef0",
+            "BlockType": "WORD",
+            "Text": "TECHNICAL",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.34784361144699716,
+                    "Top": 0.09806157354618016,
+                    "Width": 0.16968964127367997,
+                    "Height": 0.01653363740022805
+                }
+            }
+        },
+        {
+            "Id": "WORD_d699c005",
+            "BlockType": "WORD",
+            "Text": "REPORT",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.5296251511487303,
+                    "Top": 0.09806157354618016,
+                    "Width": 0.12293430068520758,
+                    "Height": 0.01653363740022805
+                }
+            }
+        },
+        {
+            "Id": "WORD_a9938e45",
+            "BlockType": "WORD",
+            "Text": "Prepared",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13220475614671504,
+                    "Top": 0.12685290763968074,
+                    "Width": 0.07053607416364369,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_d224046f",
+            "BlockType": "WORD",
+            "Text": "by:",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.20918984280532044,
+                    "Top": 0.12685290763968074,
+                    "Width": 0.023377670294236194,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_d79c6374",
+            "BlockType": "WORD",
+            "Text": "Research",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.23982265215638857,
+                    "Top": 0.12685290763968074,
+                    "Width": 0.06932688432083838,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_73ac03b3",
+            "BlockType": "WORD",
+            "Text": "Department",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3164046755340588,
+                    "Top": 0.12685290763968074,
+                    "Width": 0.08585247883917775,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_506195ce",
+            "BlockType": "WORD",
+            "Text": "Date:",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13220475614671504,
+                    "Top": 0.1411060433295325,
+                    "Width": 0.039500201531640466,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_be75943c",
+            "BlockType": "WORD",
+            "Text": "January",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.17815397017331722,
+                    "Top": 0.1411060433295325,
+                    "Width": 0.058444175735590485,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_d18f5056",
+            "BlockType": "WORD",
+            "Text": "12,",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.24385328496573963,
+                    "Top": 0.1411060433295325,
+                    "Width": 0.02015316404675534,
+                    "Height": 0.010262257696693273
+                }
+            }
+        },
+        {
+            "Id": "WORD_f8df4385",
+            "BlockType": "WORD",
+            "Text": "2026",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2708585247883918,
+                    "Top": 0.1411060433295325,
+                    "Width": 0.035872632003224506,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_33f27a09",
+            "BlockType": "WORD",
+            "Text": "Document",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13220475614671504,
+                    "Top": 0.15535917901938426,
+                    "Width": 0.08061265618702136,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_9ee0a9e0",
+            "BlockType": "WORD",
+            "Text": "ID:",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.218863361547763,
+                    "Top": 0.15535917901938426,
+                    "Width": 0.02015316404675534,
+                    "Height": 0.00855188141391106
+                }
+            }
+        },
+        {
+            "Id": "WORD_e2bf5f7f",
+            "BlockType": "WORD",
+            "Text": "RPT-2026-DEMO-001",
+            "Confidence": 90.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.24627166465135025,
+                    "Top": 0.15507411630558723,
+                    "Width": 0.16122531237404272,
+                    "Height": 0.009122006841505131
+                }
+            }
+        },
+        {
+            "Id": "WORD_be7fa574",
+            "BlockType": "WORD",
+            "Text": "EXECUTIVE",
+            "Confidence": 94.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.19925883694412772,
+                    "Width": 0.1301894397420395,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_ea11748f",
+            "BlockType": "WORD",
+            "Text": "SUMMARY",
+            "Confidence": 94.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.27166465135026197,
+                    "Top": 0.19925883694412772,
+                    "Width": 0.11970979443772672,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_9b2de492",
+            "BlockType": "WORD",
+            "Text": "This",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.030632809351068116,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_c339f623",
+            "BlockType": "WORD",
+            "Text": "report",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.16848045143087464,
+                    "Top": 0.22719498289623719,
+                    "Width": 0.04232164449818621,
+                    "Height": 0.010547320410490307
+                }
+            }
+        },
+        {
+            "Id": "WORD_71abdd0f",
+            "BlockType": "WORD",
+            "Text": "demonstrates",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.21644498186215236,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.1007658202337767,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_00fa9043",
+            "BlockType": "WORD",
+            "Text": "a",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.32285368802902054,
+                    "Top": 0.22890535917901939,
+                    "Width": 0.008464328899637243,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_50cedb82",
+            "BlockType": "WORD",
+            "Text": "full",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3365578395808142,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.02015316404675534,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_b1ca84c5",
+            "BlockType": "WORD",
+            "Text": "range",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3635630794034663,
+                    "Top": 0.22890535917901939,
+                    "Width": 0.041112454655380895,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_a927f46c",
+            "BlockType": "WORD",
+            "Text": "of",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.41072148327287383,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.012898024989923419,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_e4ed218f",
+            "BlockType": "WORD",
+            "Text": "document",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.42926239419588874,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.07295445384925434,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_e33ac149",
+            "BlockType": "WORD",
+            "Text": "understanding",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.5082627972591697,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.10399032648125756,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_589e582e",
+            "BlockType": "WORD",
+            "Text": "capabilities",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.6187021362353889,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.08182184602982669,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_883ea333",
+            "BlockType": "WORD",
+            "Text": "including",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.7069729947601774,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.06408706166868199,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_d19837ac",
+            "BlockType": "WORD",
+            "Text": "structured",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.777509068923821,
+                    "Top": 0.2266248574686431,
+                    "Width": 0.07295445384925434,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_1dbd65e0",
+            "BlockType": "WORD",
+            "Text": "text",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.24144811858608894,
+                    "Width": 0.026199113260781944,
+                    "Height": 0.008266818700114024
+                }
+            }
+        },
+        {
+            "Id": "WORD_00b988b6",
+            "BlockType": "WORD",
+            "Text": "extraction,",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.16364369205965337,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.07537283353486497,
+                    "Height": 0.010262257696693273
+                }
+            }
+        },
+        {
+            "Id": "WORD_04dd7c64",
+            "BlockType": "WORD",
+            "Text": "key-value",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.24586860137041516,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.07013301088270858,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_d6f8e55d",
+            "BlockType": "WORD",
+            "Text": "detection,",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.32204756146715036,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.0709391374445788,
+                    "Height": 0.010262257696693273
+                }
+            }
+        },
+        {
+            "Id": "WORD_046746c9",
+            "BlockType": "WORD",
+            "Text": "table",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.39903264812575573,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.0354695687222894,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_480a7387",
+            "BlockType": "WORD",
+            "Text": "recognition,",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.44095122934300685,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.08464328899637243,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_5f15419b",
+            "BlockType": "WORD",
+            "Text": "and",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.532043530834341,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.026602176541717048,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_bcdd3555",
+            "BlockType": "WORD",
+            "Text": "logical",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.5650947198710198,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.04554615074566707,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_03334637",
+            "BlockType": "WORD",
+            "Text": "section",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.6170898831116485,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.051189036678758564,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_b62ac397",
+            "BlockType": "WORD",
+            "Text": "grouping.",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.6747279322853688,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.06811769447803305,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_d9ce1456",
+            "BlockType": "WORD",
+            "Text": "The",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.7492946392583636,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.02781136638452237,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_d480d04c",
+            "BlockType": "WORD",
+            "Text": "objective",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.7831519548569126,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.06489318823055219,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_bf52bb64",
+            "BlockType": "WORD",
+            "Text": "is",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.8544941555824265,
+                    "Top": 0.24087799315849487,
+                    "Width": 0.010479645304312777,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_fb502748",
+            "BlockType": "WORD",
+            "Text": "to",
+            "Confidence": 97.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.2557012542759407,
+                    "Width": 0.012898024989923419,
+                    "Height": 0.008266818700114024
+                }
+            }
+        },
+        {
+            "Id": "WORD_1e470cb3",
+            "BlockType": "WORD",
+            "Text": "showcase",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.15034260378879485,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.07335751713018944,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_062605a0",
+            "BlockType": "WORD",
+            "Text": "a",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.22974607013301088,
+                    "Top": 0.2574116305587229,
+                    "Width": 0.008061265618702136,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_3836ec72",
+            "BlockType": "WORD",
+            "Text": "Textract-like",
+            "Confidence": 92.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2434502216848045,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.09028617492946392,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_16ee4d69",
+            "BlockType": "WORD",
+            "Text": "document",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.33978234582829503,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.07255139056831923,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_0b99c208",
+            "BlockType": "WORD",
+            "Text": "analysis",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.4183796856106409,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.0592503022974607,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_506d689f",
+            "BlockType": "WORD",
+            "Text": "pipeline",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.4836759371221282,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.05642885933091495,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_b26833a8",
+            "BlockType": "WORD",
+            "Text": "using",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.5465538089480049,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.03788794840790004,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_f94f33d5",
+            "BlockType": "WORD",
+            "Text": "open-source",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.5908907698508666,
+                    "Top": 0.2574116305587229,
+                    "Width": 0.09189842805320435,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_0ef67135",
+            "BlockType": "WORD",
+            "Text": "tools.",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.6884320838371625,
+                    "Top": 0.25513112884834666,
+                    "Width": 0.03829101168883515,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_48baf7f6",
+            "BlockType": "WORD",
+            "Text": "KEY",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13260781942765015,
+                    "Top": 0.2990307867730901,
+                    "Width": 0.045949214026602174,
+                    "Height": 0.01225769669327252
+                }
+            }
+        },
+        {
+            "Id": "WORD_6948d8ac",
+            "BlockType": "WORD",
+            "Text": "FINDINGS",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.18742442563482467,
+                    "Top": 0.2990307867730901,
+                    "Width": 0.11003627569528417,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_73c7dc4b",
+            "BlockType": "WORD",
+            "Text": "-",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.3312428734321551,
+                    "Width": 0.004030632809351068,
+                    "Height": 0.0008551881413911061
+                }
+            }
+        },
+        {
+            "Id": "WORD_abd6e758",
+            "BlockType": "WORD",
+            "Text": "Revenue",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.14268440145102781,
+                    "Top": 0.32639680729760545,
+                    "Width": 0.06489318823055219,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_0e68562f",
+            "BlockType": "WORD",
+            "Text": "increased",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.21442966545747683,
+                    "Top": 0.32639680729760545,
+                    "Width": 0.07053607416364369,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_05d9c697",
+            "BlockType": "WORD",
+            "Text": "by",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2914147521160822,
+                    "Top": 0.32639680729760545,
+                    "Width": 0.016122531237404272,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_0dbace9c",
+            "BlockType": "WORD",
+            "Text": "22%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3135832325675131,
+                    "Top": 0.32639680729760545,
+                    "Width": 0.032648125755743655,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_f62b1d18",
+            "BlockType": "WORD",
+            "Text": "year-over-year",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3518742442563482,
+                    "Top": 0.32867730900798175,
+                    "Width": 0.10842402257154374,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_b7f2c6ed",
+            "BlockType": "WORD",
+            "Text": "-",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.34549600912200684,
+                    "Width": 0.004030632809351068,
+                    "Height": 0.0008551881413911061
+                }
+            }
+        },
+        {
+            "Id": "WORD_676d0d21",
+            "BlockType": "WORD",
+            "Text": "Customer",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.1422813381700927,
+                    "Top": 0.3403648802736602,
+                    "Width": 0.07134220072551391,
+                    "Height": 0.009122006841505131
+                }
+            }
+        },
+        {
+            "Id": "WORD_f734b8b8",
+            "BlockType": "WORD",
+            "Text": "retention",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.21966948810963322,
+                    "Top": 0.34064994298745727,
+                    "Width": 0.06328093510681176,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_7a0be962",
+            "BlockType": "WORD",
+            "Text": "improved",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2898024989923418,
+                    "Top": 0.34064994298745727,
+                    "Width": 0.06690850463522773,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_99daf146",
+            "BlockType": "WORD",
+            "Text": "to",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.36275695284159615,
+                    "Top": 0.3412200684150513,
+                    "Width": 0.012898024989923419,
+                    "Height": 0.008266818700114024
+                }
+            }
+        },
+        {
+            "Id": "WORD_4a02316d",
+            "BlockType": "WORD",
+            "Text": "95%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.38170092704554615,
+                    "Top": 0.34064994298745727,
+                    "Width": 0.032648125755743655,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_d77c597a",
+            "BlockType": "WORD",
+            "Text": "-",
+            "Confidence": 92.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.3597491448118586,
+                    "Width": 0.004030632809351068,
+                    "Height": 0.0008551881413911061
+                }
+            }
+        },
+        {
+            "Id": "WORD_e8931b43",
+            "BlockType": "WORD",
+            "Text": "Digital",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.14268440145102781,
+                    "Top": 0.354903078677309,
+                    "Width": 0.04393389762192664,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_3ac98043",
+            "BlockType": "WORD",
+            "Text": "adoption",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.19347037484885127,
+                    "Top": 0.354903078677309,
+                    "Width": 0.06247480854494156,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_59f56407",
+            "BlockType": "WORD",
+            "Text": "grew",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2619911326078194,
+                    "Top": 0.3571835803876853,
+                    "Width": 0.035872632003224506,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_45497453",
+            "BlockType": "WORD",
+            "Text": "across",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.30350665054413545,
+                    "Top": 0.3571835803876853,
+                    "Width": 0.04796453043127771,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_4ea962fc",
+            "BlockType": "WORD",
+            "Text": "all",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.35751713018943976,
+                    "Top": 0.354903078677309,
+                    "Width": 0.014913341394598953,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_0166348a",
+            "BlockType": "WORD",
+            "Text": "regions",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3792825473599355,
+                    "Top": 0.354903078677309,
+                    "Width": 0.053607416364369206,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_074bde4a",
+            "BlockType": "WORD",
+            "Text": "-",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.37400228050171036,
+                    "Width": 0.004030632809351068,
+                    "Height": 0.0008551881413911061
+                }
+            }
+        },
+        {
+            "Id": "WORD_d4b39619",
+            "BlockType": "WORD",
+            "Text": "Operational",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.1418782748891576,
+                    "Top": 0.36887115165336376,
+                    "Width": 0.08504635227730754,
+                    "Height": 0.011402508551881414
+                }
+            }
+        },
+        {
+            "Id": "WORD_627ec6c1",
+            "BlockType": "WORD",
+            "Text": "costs",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.23337363966142685,
+                    "Top": 0.36972633979475483,
+                    "Width": 0.03788794840790004,
+                    "Height": 0.008266818700114024
+                }
+            }
+        },
+        {
+            "Id": "WORD_ff314648",
+            "BlockType": "WORD",
+            "Text": "reduced",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2777106005642886,
+                    "Top": 0.3691562143671608,
+                    "Width": 0.058444175735590485,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_f5b89f96",
+            "BlockType": "WORD",
+            "Text": "by",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3430068520757759,
+                    "Top": 0.3691562143671608,
+                    "Width": 0.016122531237404272,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_a524b1ea",
+            "BlockType": "WORD",
+            "Text": "11%",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.365981459089077,
+                    "Top": 0.3691562143671608,
+                    "Width": 0.03143893591293833,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_452d3d51",
+            "BlockType": "WORD",
+            "Text": "-",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.3882554161915621,
+                    "Width": 0.004030632809351068,
+                    "Height": 0.0008551881413911061
+                }
+            }
+        },
+        {
+            "Id": "WORD_31885fc3",
+            "BlockType": "WORD",
+            "Text": "Employee",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.14268440145102781,
+                    "Top": 0.38340935005701254,
+                    "Width": 0.07255139056831923,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_d34180a1",
+            "BlockType": "WORD",
+            "Text": "satisfaction",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.22128174123337363,
+                    "Top": 0.38340935005701254,
+                    "Width": 0.08222490931076179,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_07c505bc",
+            "BlockType": "WORD",
+            "Text": "score",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.30995566303909716,
+                    "Top": 0.38568985176738885,
+                    "Width": 0.039500201531640466,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_e774ec19",
+            "BlockType": "WORD",
+            "Text": "reached",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.35630794034663443,
+                    "Top": 0.38340935005701254,
+                    "Width": 0.058444175735590485,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_7f643e50",
+            "BlockType": "WORD",
+            "Text": "8.9/10",
+            "Confidence": 92.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.4212011285771866,
+                    "Top": 0.38340935005701254,
+                    "Width": 0.04514308746473196,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_03204267",
+            "BlockType": "WORD",
+            "Text": "PERFORMANCE",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13260781942765015,
+                    "Top": 0.427309007981756,
+                    "Width": 0.18137847642079807,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_25aa1b08",
+            "BlockType": "WORD",
+            "Text": "METRICS",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3232567513099557,
+                    "Top": 0.427309007981756,
+                    "Width": 0.10358726320032245,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_10e62302",
+            "BlockType": "WORD",
+            "Text": "Tauarr|",
+            "Confidence": 0.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.1301894397420395,
+                    "Top": 0.44042189281641964,
+                    "Width": 0.08182184602982669,
+                    "Height": 0.03848346636259977
+                }
+            }
+        },
+        {
+            "Id": "WORD_c7852813",
+            "BlockType": "WORD",
+            "Text": "[Projects",
+            "Confidence": 58.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.4498186215235792,
+                    "Top": 0.45210946408209807,
+                    "Width": 0.19064893188230553,
+                    "Height": 0.019954389965792473
+                }
+            }
+        },
+        {
+            "Id": "WORD_24b4d573",
+            "BlockType": "WORD",
+            "Text": "[",
+            "Confidence": 62.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.5340588472390165,
+                    "Top": 0.44042189281641964,
+                    "Width": 0.009673518742442563,
+                    "Height": 0.03848346636259977
+                }
+            }
+        },
+        {
+            "Id": "WORD_179312a7",
+            "BlockType": "WORD",
+            "Text": "NPS",
+            "Confidence": 88.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.5521966948810964,
+                    "Top": 0.44042189281641964,
+                    "Width": 0.02781136638452237,
+                    "Height": 0.03848346636259977
+                }
+            }
+        },
+        {
+            "Id": "WORD_9b633c7f",
+            "BlockType": "WORD",
+            "Text": "Score",
+            "Confidence": 46.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.588472390165256,
+                    "Top": 0.45210946408209807,
+                    "Width": 0.05038291011688835,
+                    "Height": 0.019954389965792473
+                }
+            }
+        },
+        {
+            "Id": "WORD_0504fe1b",
+            "BlockType": "WORD",
+            "Text": "|",
+            "Confidence": 41.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3619508262797259,
+                    "Top": 0.4868871151653364,
+                    "Width": 0.002015316404675534,
+                    "Height": 0.0028506271379703536
+                }
+            }
+        },
+        {
+            "Id": "WORD_3be44be8",
+            "BlockType": "WORD",
+            "Text": "REGIONAL",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.5698403648802737,
+                    "Width": 0.12132204756146715,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_6aba9448",
+            "BlockType": "WORD",
+            "Text": "BREAKDOWN",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.26360338573155984,
+                    "Top": 0.5698403648802737,
+                    "Width": 0.154776299879081,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_8eff54d7",
+            "BlockType": "WORD",
+            "Text": "North",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13220475614671504,
+                    "Top": 0.5972063854047891,
+                    "Width": 0.03869407496977025,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_e07e5524",
+            "BlockType": "WORD",
+            "Text": "America:",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.177347843611447,
+                    "Top": 0.5972063854047891,
+                    "Width": 0.06449012494961709,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_5f2a622b",
+            "BlockType": "WORD",
+            "Text": "45%",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.24828698105602579,
+                    "Top": 0.5972063854047891,
+                    "Width": 0.032648125755743655,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_2862132d",
+            "BlockType": "WORD",
+            "Text": "of",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.28657799274486095,
+                    "Top": 0.5972063854047891,
+                    "Width": 0.012898024989923419,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_f8daba12",
+            "BlockType": "WORD",
+            "Text": "total",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3047158403869408,
+                    "Top": 0.5972063854047891,
+                    "Width": 0.030229746070133012,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_9667cb06",
+            "BlockType": "WORD",
+            "Text": "revenue",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3422007255139057,
+                    "Top": 0.5994868871151653,
+                    "Width": 0.058847239016525596,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_81a72629",
+            "BlockType": "WORD",
+            "Text": "Europe:",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13260781942765015,
+                    "Top": 0.6114595210946409,
+                    "Width": 0.05602579604997985,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_02e5a04a",
+            "BlockType": "WORD",
+            "Text": "30%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.1950826279725917,
+                    "Top": 0.6114595210946409,
+                    "Width": 0.032648125755743655,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_f00fe24e",
+            "BlockType": "WORD",
+            "Text": "of",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.23337363966142685,
+                    "Top": 0.6114595210946409,
+                    "Width": 0.012898024989923419,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_55bda5ac",
+            "BlockType": "WORD",
+            "Text": "total",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.25191455058444173,
+                    "Top": 0.6114595210946409,
+                    "Width": 0.030229746070133012,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_c03f8e36",
+            "BlockType": "WORD",
+            "Text": "revenue",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2889963724304716,
+                    "Top": 0.613740022805017,
+                    "Width": 0.058847239016525596,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_18954ae1",
+            "BlockType": "WORD",
+            "Text": "Asia",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.6257126567844926,
+                    "Width": 0.03184199919387344,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_cc3a0bd8",
+            "BlockType": "WORD",
+            "Text": "Pacific:",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.16968964127367997,
+                    "Top": 0.6257126567844926,
+                    "Width": 0.051592099959693674,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_6c8286ad",
+            "BlockType": "WORD",
+            "Text": "20%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.22773075372833534,
+                    "Top": 0.6257126567844926,
+                    "Width": 0.032648125755743655,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_da370cfd",
+            "BlockType": "WORD",
+            "Text": "of",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2660217654171705,
+                    "Top": 0.6257126567844926,
+                    "Width": 0.012898024989923419,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_f4f475b5",
+            "BlockType": "WORD",
+            "Text": "total",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2845626763401854,
+                    "Top": 0.6257126567844926,
+                    "Width": 0.030229746070133012,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_9766f3ac",
+            "BlockType": "WORD",
+            "Text": "revenue",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3216444981862152,
+                    "Top": 0.6279931584948689,
+                    "Width": 0.058847239016525596,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_1e51dfad",
+            "BlockType": "WORD",
+            "Text": "Other:",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.6396807297605474,
+                    "Width": 0.044740024183796856,
+                    "Height": 0.009122006841505131
+                }
+            }
+        },
+        {
+            "Id": "WORD_bd52975e",
+            "BlockType": "WORD",
+            "Text": "5%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.1829907295445385,
+                    "Top": 0.6399657924743444,
+                    "Width": 0.022974607013301087,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_c64476c1",
+            "BlockType": "WORD",
+            "Text": "of",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.21201128577186618,
+                    "Top": 0.6399657924743444,
+                    "Width": 0.012898024989923419,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_859ac5bf",
+            "BlockType": "WORD",
+            "Text": "total",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.230149133413946,
+                    "Top": 0.6399657924743444,
+                    "Width": 0.030229746070133012,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_1a1b34a3",
+            "BlockType": "WORD",
+            "Text": "revenue",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2676340185409109,
+                    "Top": 0.6422462941847207,
+                    "Width": 0.058444175735590485,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_c7a348d5",
+            "BlockType": "WORD",
+            "Text": "RECOMMENDATIONS",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.69327251995439,
+                    "Width": 0.2426440951229343,
+                    "Height": 0.012542759407069556
+                }
+            }
+        },
+        {
+            "Id": "WORD_62352ddf",
+            "BlockType": "WORD",
+            "Text": "1.",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13260781942765015,
+                    "Top": 0.7206385404789054,
+                    "Width": 0.010882708585247884,
+                    "Height": 0.00855188141391106
+                }
+            }
+        },
+        {
+            "Id": "WORD_93fbf1ea",
+            "BlockType": "WORD",
+            "Text": "Continue",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.15074566706972994,
+                    "Top": 0.7203534777651083,
+                    "Width": 0.06529625151148731,
+                    "Height": 0.009122006841505131
+                }
+            }
+        },
+        {
+            "Id": "WORD_dd03bb58",
+            "BlockType": "WORD",
+            "Text": "investment",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.22249093107617895,
+                    "Top": 0.7206385404789054,
+                    "Width": 0.07980652962515115,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_d7d1adb3",
+            "BlockType": "WORD",
+            "Text": "in",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3083434099153567,
+                    "Top": 0.7206385404789054,
+                    "Width": 0.010882708585247884,
+                    "Height": 0.00855188141391106
+                }
+            }
+        },
+        {
+            "Id": "WORD_4c6b8e84",
+            "BlockType": "WORD",
+            "Text": "digital",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.32567513099556633,
+                    "Top": 0.7206385404789054,
+                    "Width": 0.04232164449818621,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_3a271cd8",
+            "BlockType": "WORD",
+            "Text": "infrastructure",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.37484885126964934,
+                    "Top": 0.7206385404789054,
+                    "Width": 0.09592906086255543,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_fec9490b",
+            "BlockType": "WORD",
+            "Text": "2.",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.7348916761687572,
+                    "Width": 0.011688835147118097,
+                    "Height": 0.00855188141391106
+                }
+            }
+        },
+        {
+            "Id": "WORD_e2fc04cb",
+            "BlockType": "WORD",
+            "Text": "Expand",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.15114873035066506,
+                    "Top": 0.7348916761687572,
+                    "Width": 0.05441354292623942,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_96111a53",
+            "BlockType": "WORD",
+            "Text": "customer",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.21160822249093109,
+                    "Top": 0.7354618015963512,
+                    "Width": 0.06852075775896815,
+                    "Height": 0.008266818700114024
+                }
+            }
+        },
+        {
+            "Id": "WORD_4fa418ba",
+            "BlockType": "WORD",
+            "Text": "success",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2857718661829907,
+                    "Top": 0.7371721778791334,
+                    "Width": 0.0592503022974607,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_f79cded9",
+            "BlockType": "WORD",
+            "Text": "team",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.35066505441354295,
+                    "Top": 0.7354618015963512,
+                    "Width": 0.035872632003224506,
+                    "Height": 0.008266818700114024
+                }
+            }
+        },
+        {
+            "Id": "WORD_4f818840",
+            "BlockType": "WORD",
+            "Text": "by",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.39338976219266425,
+                    "Top": 0.7348916761687572,
+                    "Width": 0.016122531237404272,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_78844f6b",
+            "BlockType": "WORD",
+            "Text": "20%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.41555824264409513,
+                    "Top": 0.7348916761687572,
+                    "Width": 0.032245062474808545,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_b1f10771",
+            "BlockType": "WORD",
+            "Text": "3.",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.7491448118586089,
+                    "Width": 0.012091898428053204,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_cadc5752",
+            "BlockType": "WORD",
+            "Text": "Launch",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.15114873035066506,
+                    "Top": 0.7491448118586089,
+                    "Width": 0.05239822652156389,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_e43d5d24",
+            "BlockType": "WORD",
+            "Text": "new",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.21039903264812576,
+                    "Top": 0.7514253135689852,
+                    "Width": 0.029423619508262798,
+                    "Height": 0.006556442417331813
+                }
+            }
+        },
+        {
+            "Id": "WORD_abe211ce",
+            "BlockType": "WORD",
+            "Text": "product",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.24586860137041516,
+                    "Top": 0.7491448118586089,
+                    "Width": 0.054816606207174524,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_e0bbbac0",
+            "BlockType": "WORD",
+            "Text": "line",
+            "Confidence": 94.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3067311567916163,
+                    "Top": 0.7491448118586089,
+                    "Width": 0.02418379685610641,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_e5560b36",
+            "BlockType": "WORD",
+            "Text": "in",
+            "Confidence": 89.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3373639661426844,
+                    "Top": 0.7491448118586089,
+                    "Width": 0.010882708585247884,
+                    "Height": 0.00855188141391106
+                }
+            }
+        },
+        {
+            "Id": "WORD_f31b5679",
+            "BlockType": "WORD",
+            "Text": "Q2",
+            "Confidence": 91.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.354695687222894,
+                    "Top": 0.7488597491448119,
+                    "Width": 0.020959290608625555,
+                    "Height": 0.009407069555302166
+                }
+            }
+        },
+        {
+            "Id": "WORD_25cb952c",
+            "BlockType": "WORD",
+            "Text": "2026",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.38170092704554615,
+                    "Top": 0.7491448118586089,
+                    "Width": 0.035872632003224506,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_9861b24c",
+            "BlockType": "WORD",
+            "Text": "4.",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13139862958484483,
+                    "Top": 0.7633979475484607,
+                    "Width": 0.012091898428053204,
+                    "Height": 0.00855188141391106
+                }
+            }
+        },
+        {
+            "Id": "WORD_a9527455",
+            "BlockType": "WORD",
+            "Text": "Strengthen",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.15074566706972994,
+                    "Top": 0.7631128848346637,
+                    "Width": 0.07980652962515115,
+                    "Height": 0.011402508551881414
+                }
+            }
+        },
+        {
+            "Id": "WORD_2106267a",
+            "BlockType": "WORD",
+            "Text": "partnerships",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.23740427247077792,
+                    "Top": 0.7633979475484607,
+                    "Width": 0.09068923821039904,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_511fd411",
+            "BlockType": "WORD",
+            "Text": "in",
+            "Confidence": 92.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.33454252317613864,
+                    "Top": 0.7633979475484607,
+                    "Width": 0.010882708585247884,
+                    "Height": 0.00855188141391106
+                }
+            }
+        },
+        {
+            "Id": "WORD_8572be6b",
+            "BlockType": "WORD",
+            "Text": "APAC",
+            "Confidence": 93.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3518742442563482,
+                    "Top": 0.7631128848346637,
+                    "Width": 0.04433696090286175,
+                    "Height": 0.009122006841505131
+                }
+            }
+        },
+        {
+            "Id": "WORD_93f5b28f",
+            "BlockType": "WORD",
+            "Text": "region",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.4026602176541717,
+                    "Top": 0.7633979475484607,
+                    "Width": 0.04433696090286175,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_6437070f",
+            "BlockType": "WORD",
+            "Text": "5.",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13180169286577992,
+                    "Top": 0.7776510832383124,
+                    "Width": 0.011688835147118097,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_c22df1fb",
+            "BlockType": "WORD",
+            "Text": "Increase",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.15155179363160015,
+                    "Top": 0.7776510832383124,
+                    "Width": 0.06166868198307134,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_bc5e1ef0",
+            "BlockType": "WORD",
+            "Text": "R&D;",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.22007255139056833,
+                    "Top": 0.7776510832383124,
+                    "Width": 0.037484885126964934,
+                    "Height": 0.010262257696693273
+                }
+            }
+        },
+        {
+            "Id": "WORD_d77253c1",
+            "BlockType": "WORD",
+            "Text": "budget",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.26440951229343007,
+                    "Top": 0.7776510832383124,
+                    "Width": 0.049979846835953246,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_b70d7eaf",
+            "BlockType": "WORD",
+            "Text": "by",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.32043530834340994,
+                    "Top": 0.7776510832383124,
+                    "Width": 0.016122531237404272,
+                    "Height": 0.011117445838084378
+                }
+            }
+        },
+        {
+            "Id": "WORD_550f896a",
+            "BlockType": "WORD",
+            "Text": "15%",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3438129786376461,
+                    "Top": 0.7776510832383124,
+                    "Width": 0.031035872632003223,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_0ce46dc9",
+            "BlockType": "WORD",
+            "Text": "Confidential",
+            "Confidence": 92.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.13301088270858524,
+                    "Top": 0.8343785632839225,
+                    "Width": 0.08786779524385328,
+                    "Height": 0.009122006841505131
+                }
+            }
+        },
+        {
+            "Id": "WORD_7aeab911",
+            "BlockType": "WORD",
+            "Text": "\u2014",
+            "Confidence": 74.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.2253123740427247,
+                    "Top": 0.8395096921322691,
+                    "Width": 0.009270455461507456,
+                    "Height": 0.0008551881413911061
+                }
+            }
+        },
+        {
+            "Id": "WORD_97cf5ee3",
+            "BlockType": "WORD",
+            "Text": "Internal",
+            "Confidence": 95.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.24022571543732366,
+                    "Top": 0.8346636259977195,
+                    "Width": 0.055219669488109635,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_6cb755de",
+            "BlockType": "WORD",
+            "Text": "Use",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3010882708585248,
+                    "Top": 0.8346636259977195,
+                    "Width": 0.028214429665457477,
+                    "Height": 0.008836944127708095
+                }
+            }
+        },
+        {
+            "Id": "WORD_eb6deda1",
+            "BlockType": "WORD",
+            "Text": "Only",
+            "Confidence": 96.0,
+            "Page": 1,
+            "Geometry": {
+                "BoundingBox": {
+                    "Left": 0.3353486497380089,
+                    "Top": 0.8343785632839225,
+                    "Width": 0.03385731559854897,
+                    "Height": 0.011402508551881414
+                }
+            }
+        }
+    ]
+}
