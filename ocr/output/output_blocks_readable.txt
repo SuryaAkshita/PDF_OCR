@@ -2,56 +2,605 @@
 PAGE 1
 ================================================================================
 
-TECHNICAL REPORT
-----------------
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ○ 1A. Claimant's Full Name: [EMPTY]
+  ○ 2A. Gender: [EMPTY]
+  ○ 3A. Date of Birth (MM/DD/YY): [EMPTY]
+  ○ 4A. Current Mailing Address: [EMPTY]
+  ○ 5A. City: [EMPTY]
+  ○ 6A. State: [EMPTY]
+  ○ 8A. Country: [EMPTY]
+  ○ 9A. Primary Telephone: [EMPTY]
+  ○ 10A. Secondary Telephone: [EMPTY]
+  ○ 11A. Email Address: [EMPTY]
 
-  Prepared Date: January by: Research 12, 2026 Department
-  Document ID: RPT-2026-DEMO-001
+  Summary: 0 filled, 10 empty
 
-EXECUTIVE SUMMARY
------------------
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  submitted NOTE: Only one form Claimant's related to Statement the incident and for Authorization which form claiming, is required additional for each Claimant's episode of Statement care. If you is have not needed. already
+  Online Submission — Go to: Paper Form — Mail to:
+  https: //www.worldtrips.com/customer-resources WorldTrips
+  https: //worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124
+  PART A: CLAIMANT INFORMATION
+  1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):
+  5A. City: 6A. State: 7A: Postal Code: 8A. Country:
+  9A. Primary Telephone: 10A. Secondary Telephone: | 11A. Email Address:
+  IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:
+  13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)
 
-  This text extraction, report demonstrates key-value detection, a full range table of document recognition, understanding and logical section capabilities grouping. including The structured objective is
-  to showcase a Textract-like document analysis pipeline using open-source tools.
-
-KEY FINDINGS
+SECTIONS
+--------------------------------------------------------------------------------
+INSTRUCTIONS
 ------------
 
-  - Customer Revenue increased retention improved by 22% year-over-year to 95%
-  - - Digital adoption grew across all regions
-  - Operational Employee satisfaction costs reduced by reached 11% 8.9/10
-  - score
-  Tauarr| PERFORMANCE METRICS [ NPS
-  [Projects Score
-  |
+  COMPLETE ALL APPLICABLE PARTS OF THIS FORM.
+  submitted NOTE: Only one form Claimant's related to Statement the incident and for Authorization which form claiming, is required additional for each Claimant's episode of Statement care. If you is have not needed. already
+  a you are an
+  MEDICAL SERVICES OUTSIDE THE UNITED STATES
+  of If medical all itemized services bills took for service place outside and supplies. the United Please States, verify please that the complete documents this indicate form along with Supplement date of service, A. Attach diagnosis, copies
+  and the charge for each service. If you have already paid for these services, please include your receipts name, showing payment.
 
-REGIONAL BREAKDOWN
-------------------
+FORM SUBMISSION OPTIONS
+-----------------------
 
-  North Europe: America: 30% of 45% total of total revenue
-  Asia Pacific: 20% of total revenue revenue
-  Other: 5% of total revenue
+  If you of are the NOT methods completing below. and submitting this form online via Member Portal, you must send us the completed form using
+  one
+  Online Submission — Go to: Paper Form — Mail to:
+  https://www.worldtrips.com/customer-resources WorldTrips
+  OR PO Box 240358
+  https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124
+  U.S.A
 
-RECOMMENDATIONS
----------------
+QUESTIONS OR GUIDANCE
+---------------------
 
-  2. 1. Continue Expand investment in digital infrastructure by 20%
-  3. Launch customer product success line in team Q2 2026
-  4. Strengthen new partnerships in APAC region
-  5. Increase R&D; budget by 15%
-  Confidential — Internal Use Only
+  claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere
+  else in the world. When can calling, please us mention the country and area code that or you are calling from.
+  PART A: CLAIMANT INFORMATION
+  1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):
+  4A. Current Mailing Address:
+  5A. City: 6A. State: 7A: Postal Code: 8A. Country:
+  9A. Primary Telephone: 10A. Secondary Telephone: | 11A. Email Address:
+  IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:
+  Policy ID Card. can on your or
+  13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)
+  * Home Country is where you principally reside & receive regular mail.
+  Page 1 of 9
 
 
 TABLES
 --------------------------------------------------------------------------------
 
-  Document | ID: | RPT-2026-DEMO-001
+Table 1:
 
-  Asia | Pacific: | 20% | of | total | revenue | revenue
-  Other: | 5% | of | total | revenue
+  800-605-2282 / 1-317-262-2132                                                                                                                                                                                        |           
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  INDIANA insurer files LAW statement REQUIRES of US claim TO containing NOTIFY YOU OF false, THE incomplete, FOLLOWING: misleading A person who information knowingly commits and with felony. intent to defraud an   |           
 
-  3. | Launch | customer | product | success | line | in | team | Q2 | 2026
-  4. | Strengthen | new | partnerships | in | APAC | region
-  5. | Increase | R&D; | budget | by | 15%
+
+Table 2:
+
+  a you are an                                 |           
+  ---------------------------------------------+-----------
+  MEDICAL SERVICES OUTSIDE THE UNITED STATES   |           
+
+
+Table 3:
+
+  and the charge for each service. If you have already paid for these services, please include your receipts name, showing payment.   |           
+  ------------------------------------------------------------------------------------------------------------------------------------+-----------
+  FORM SUBMISSION OPTIONS                                                                                                             |           
+
+
+Table 4:
+
+  OR PO Box 240358                                                      |           
+  ----------------------------------------------------------------------+-----------
+  https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124   |           
+
+
+Table 5:
+
+  QUESTIONS OR GUIDANCE                                                                                                                                                                                                                       |           
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere   |           
+
+
+Table 6:
+
+  1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):   |                      
+  ----------------------------------------------------------------------+----------------------
+  4A. Current Mailing Address:                                          |                      
+  5A. City: 6A. State: 7A: Postal Code: 8A. Country:                    |                      
+  9A. Primary Telephone: 10A. Secondary Telephone:                      | 11A. Email Address:  
+
+
+Table 7:
+
+  IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct    | 12A. Policy Number or Certificate Number:  
+  ------------------------------------------------------------------------------------------------------------------+--------------------------------------------
+  Policy ID Card. can on your or                                                                                    |                                            
+  13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)   |                                            
+  * Home Country is where you principally reside & receive regular mail.                                            |                                            
+  Page 1 of 9                                                                                                       |                                            
+
+
+
+
+================================================================================
+PAGE 2
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ○ Name of School: [EMPTY]
+  ○ Address of School: [EMPTY]
+  ○ City: Postal Code: Country: [EMPTY]
+  ○ 17A. Are youemployed? []Yes [JNo [EMPTY]
+  ○ YY): [EMPTY]
+  ✓ 1B. Please check all you are applying for: → OO Travel 0
+
+  Summary: 1 filled, 5 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  PART A: CLAIMANT INFORMATION (Continued)
+  City: Postal Code: Country:
+  Name of Insurance Company: Policyholder: Policy Number: Effective Date (MM/DD/
+  PART B: TRAVEL ASSISTANCE AND OTHER CLAIMS
+
+CHECKBOXES
+--------------------------------------------------------------------------------
+  ☐ UNCHECKED: []Yes
+  ☐ UNCHECKED: []
+  ☐ UNCHECKED: []
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  PO Box 240358                                                                                                                                |           
+  ---------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  Apple Valley, MN 55124                                                                                                                       |           
+  800-605-2282 / 1-317-262-2132                                                                                                                |           
+  PART A: CLAIMANT INFORMATION (Continued)                                                                                                     |           
+  16A. Are you a full-time student? [J] Yes [No - If YES, please provide the following:                                                        |           
+  Name of School:                                                                                                                              |           
+  Address of School:                                                                                                                           |           
+  City: Postal Code: Country:                                                                                                                  |           
+  IMPORTANT - Be Sure to Attach:                                                                                                               |           
+  . If in the United States, a copy of your valid, education-related visa (F-1 or J-1 visa, OPT, etc.) and/or valid 1-20 / DS2019              |           
+  Proof of your full-time student status (please disregard this item only if you are submitting a copy of a valid F-1, including OPT, or J-1   |           
+
+
+Table 2:
+
+  17A. Are youemployed? []Yes [JNo                                                                                                                    |           
+  ----------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  18A. Do you have any other [Yes coverage ([JNo (medical, indemnity, or liability), other than that provided by WorldTrips, which might help cover   |           
+
+
+Table 3:
+
+  1B. Please check all you are applying for:                                                    |           
+  ----------------------------------------------------------------------------------------------+-----------
+  OO Travel Delay 0 Lost Checked Luggage (1 Trip Interruption                                   |           
+  0 Emergency Quarantine Indemnity Benefit — Covid-19 O Other                                   |           
+  2B. Please provide as detailed as possible (including dates, times, locations) of incident:   |           
+  Page 2 of 9                                                                                   |           
+
+
+
+
+================================================================================
+PAGE 3
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ○ Attending Physician’s Address: [EMPTY]
+  ✓ 3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo → YES, Insurance
+  ○ Employer Name: Employer Telephone: [EMPTY]
+  ○ Employer Address: [EMPTY]
+  ○ Postal Code: [EMPTY]
+
+  Summary: 1 filled, 4 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  PART C: MEDICAL INFORMATION
+  Date Treated (MM/DD/YY): Attending Physician’s Name: Attending Physician’s Telephone:
+  Insurance Company Name: Insurance Company Address: Insurance Company Telephone:
+  Employer Name: Employer Telephone:
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  PO Box 240358                                                               |                                                                              
+  ----------------------------------------------------------------------------+------------------------------------------------------------------------------
+  Apple Valley. MN 55124                                                      |                                                                              
+  800-605-2282 / 1-317-262-2132                                               |                                                                              
+  PART C: MEDICAL INFORMATION                                                 |                                                                              
+  1C. If regarding illness or injury, please provide the following details:   |                                                                              
+  Onset of illness or date and time of injury:                                | If accident, location of that accident (please be as specific as possible):  
+
+
+Table 2:
+
+  Date Treated (MM/DD/YY): Attending Physician’s Name: Attending Physician’s Telephone:   |           
+  ----------------------------------------------------------------------------------------+-----------
+  Attending Physician’s Address:                                                          |           
+  we =_ _                                                                                 |           
+  3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo                 |           
+
+
+Table 3:
+
+  Insurance Company Name: Insurance Company Address: Insurance Company Telephone:                                                                                                             |           
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  4C. Have OlYes you had (CINo any ailments, If YES, diseases, please provide illnesses, the conditions, following: or injuries, or have you taken any medications during the last 2 years?   |           
+
+
+Table 4:
+
+  Name/ Description of (MM/DD/YY) Date(s) Ph ysician . N Name Ph ysician . Add ress Ph ysician _. Teleph Telephone   |           
+  -------------------------------------------------------------------------------------------------------------------+-----------
+  Condition or Medication                                                                                            |           
+  5C. Was the incident related to your employment? (Yes [No If YES, please provide the following:                    |           
+
+
+
+
+================================================================================
+PAGE 4
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ✓ 1D. VERIFICATION → | verify
+  ✓ the date signed: → request. A copy of this
+
+  Summary: 2 filled, 0 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  PART D: MEDICAL RECORD AUTHORIZATION
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  PO Box 240358                          |           
+  ---------------------------------------+-----------
+  Apple Valley. MN 55124                 |           
+  800-605-2282 / 1-317-262-2132          |           
+  PART D: MEDICAL RECORD AUTHORIZATION   |           
+
+
+Table 2:
+
+  verify licensed that all doctor, information practitioner contained of the in healing this form arts, is true, hospital, correct, clinic, and health-related complete to facility, the best pharmacy, of my knowledge. government   | authorize  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------
+  any insurance company, group policyholder, employee, or benefit plan administrator having information as to the care, agency, advice,                                                                                               |            
+
+
+Table 3:
+
+  Print Name Date (MM/DD/YY)                                                                                                                                                                                           |           
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  insurer INDIANA files LAW statement REQUIRES of US claim TO NOTIFY containing YOU OF false, THE incomplete, FOLLOWING: A misleading person who information knowingly commits and with intent felony. to defraud an   |           
+
+
+
+
+================================================================================
+PAGE 5
+================================================================================
+
+— W orldTrips . ® . WorldTrips
+PO Box 240358
+Apple Valley. MN 55124
+800-605-2282 / 1-317-262-2132
+SUPPLEMENT A — CLAIM ITEMIZATION FORM
+This include form is required of for the itemization invoice / receipt of expenses for all being claimed being for listed. reimbursement Any by requesting the insured. payment Please ensure directly that to the
+you provider, please a copy indicate with “Pay to Provider”. If expenses you have no expenses to claim, expenses please list “N/A”.
+(MM/DD/YY) Date of Service Provider Diagnosis 8 Services Description of Currenc y Count ry Amount Charged
+Page 5 of 9
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  PO Box 240358                           |           
+  ----------------------------------------+-----------
+  Apple Valley. MN 55124                  |           
+  800-605-2282 / 1-317-262-2132           |           
+  SUPPLEMENT A — CLAIM ITEMIZATION FORM   |           
+
+
+Table 2:
+
+  (MM/DD/YY) Date of Service Provider Diagnosis 8 Services Description of Currenc y Count ry Amount Charged   |           
+  ------------------------------------------------------------------------------------------------------------+-----------
+  Page 5 of 9                                                                                                 |           
+
+
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ○ 4. Beneficiary Address: [EMPTY]
+  ✓ Special notes regarding international wires: → a) WorldTrips
+
+  Summary: 1 filled, 1 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):
+  5. City: eee 7. Postal Code: 8. Country:
+  Payment Type: (1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)
+  29. Account Holder Name: 30. Account Holder Address: 31. Account Holder City:
+  32. Account Holder State: 33. Account Holder Zip Code: 34. Bank Routing Number (9 digits):
+  35. Account Number: 36. Checking Account: [] Savings Account: [J
+
+CHECKBOXES
+--------------------------------------------------------------------------------
+  ☐ UNCHECKED: []
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  PO Box 240358                                         |           
+  ------------------------------------------------------+-----------
+  Apple Valley. MN 55124                                |           
+  800-605-2282 / 1-317-262-2132                         |           
+  SUPPLEMENT B — PAYMENT AUTHORIZATION AGREEMENT FORM   |           
+
+
+Table 2:
+
+  1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):   |                                                                      |                                |                                             
+  --------------------------------------------------------------------------------------------+----------------------------------------------------------------------+--------------------------------+---------------------------------------------
+  4. Beneficiary Address:                                                                     |                                                                      |                                |                                             
+  5. City: eee 7. Postal Code: 8. Country:                                                    |                                                                      |                                |                                             
+  to REQUIRED be made SIGNATURE either to FOR based PAYMENT the information AUTHORIZATION     | have provided AGREEMENT this FORM form PROCESSING: directly to the   | hereby third-party authorize   | have payment designated of benefits in the  
+
+
+Table 3:
+
+  Printed Name of the Party Completing Form                                                                  |           
+  -----------------------------------------------------------------------------------------------------------+-----------
+  Insured Signature Date (MM/DD/YY)                                                                          |           
+  Payment Type: (1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)   |           
+  Special notes regarding international wires:                                                               |           
+
+
+Table 4:
+
+  b) an Mexico wires must have may a CLABE # (18 digits) are payee.                                                                                                                                  |           
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  c) Great Britain - - wires in US dollars must have a bank account# and a Sort Code (6 digits)                                                                                                      |           
+  Domestic Payments (U.S. Banks)                                                                                                                                                                     |           
+  There number are to two identify methods for bank bank-to-bank will differ depending electronic payments: which payment Wire Transfer method and is used. Automated Clearing House (ACH) routing   |           
+
+
+Table 5:
+
+  35. Account Number: 36. Checking Account: [] Savings Account: [J   |           
+  -------------------------------------------------------------------+-----------
+  Page 6 of 9                                                        |           
+
+
+
+
+================================================================================
+PAGE 7
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ○ 2. Address: [EMPTY]
+
+  Summary: 0 filled, 1 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  SUPPLEMENT B: PAYMENT FORMS (Continued)
+  of Important: Intermediary If the receiving (correspondent) bank resides bank outside in order the to United receive States. wire transfer please inquire from from U.S. your bank. foreign If this is bank true, if then they please require obtain the use
+  20. Bank Name: 21. Bank City: 22. Bank State:
+  3. City: eee 5. Postal Code: 6. Country:
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  PO Box 240358                                                      |           
+  -------------------------------------------------------------------+-----------
+  Apple Valley, MN 55124                                             |           
+  800-605-2282 / 1-317-262-2132                                      |           
+  SUPPLEMENT B: PAYMENT FORMS (Continued)                            |           
+  International Bank Accounts (Banks outside of the United States)   |           
+
+
+Table 2:
+
+  23. ABA / Routing Number (9 digits): 24. Account Number (if applicable):   |           
+  ---------------------------------------------------------------------------+-----------
+  25. Any special instructions for forwarding payment:                       |           
+  PARENT / GUARDIAN OR THIRD-PARTY PAYMENT AUTHORIZATION                     |           
+
+
+Table 3:
+
+  3. City: eee 5. Postal Code: 6. Country:   |           
+  -------------------------------------------+-----------
+  Page 7 of 9                                |           
+
+
+
+
+================================================================================
+PAGE 8
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ✓ Insured Name: → Policy/Certificate
+  ○ Policy/Certificate Number: [EMPTY]
+  ○ disclosure being authorized): [EMPTY]
+
+  Summary: 1 filled, 2 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  SECTION A: Insured Authorizing Use and/or Disclosure
+  SECTION The information B: The to be Use used and/or and/or Disclosure disclosed is Being (select Authorized all that apply):
+  This SECTION authorization C: Expiration will expire (complete one):
+
+SECTIONS
+--------------------------------------------------------------------------------
+PROTECTED HEALTH INFORMATION
+----------------------------
+
+  You must fill out the sections below if you wish to authorize WorldTrips to disclose your
+  protected health information to another party.
+  Supplement specify. For the D authorizes of WorldTrips this form, to PHI use shall and/or be considered disclose your protected protected health health information, information which (“PHI’’) is individually to individuals identifiable you
+  health information purpose received from or maintained by WorldTrips. Without completing and signing Supplement D, Federal law
+  prohibits personal friends, WorldTrips other from personal releasing representatives your PHI to your unless spouse, parent, present adult children, at the time or of other disclosure. family members, close
+  or you are
+  *No benefits will be withheld from you if you refuse to sign Supplement D.*
+  SECTION A: Insured Authorizing Use and/or Disclosure
+  Insured Name:
+  Policy/Certificate Number:
+  SECTION The information B: The to be Use used and/or and/or Disclosure disclosed is Being (select Authorized all that apply):
+  0 Claims & payment data OO Eligibility and enrollment
+  O Bills, requests for payment (CO Payments or coverage under the policy / certificate
+  OC Other (please specify)
+  Purpose for this use and/or disclosure:
+  O At my request
+  O Other (please specify)
+  Persons this information may be disclosed to:
+  1. Relationship to insured
+  2. Relationship to insured
+  3.0 «Relationship to insured
+  4. Relationship to insured
+  This SECTION authorization C: Expiration will expire (complete one):
+  O On / / (MM/DD/YY)
+  0 On occurrence of the following event (which must relate to the individual or to the purpose of the use and/or
+  disclosure being authorized):
+  Page 8 of 9
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  PO Box 240358                                                    |           
+  -----------------------------------------------------------------+-----------
+  Apple Valley. MN 55124                                           |           
+  800-605-2282 / 1-317-262-2132                                    |           
+  SUPPLEMENT D — AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF   |           
+  PROTECTED HEALTH INFORMATION                                     |           
+
+
+Table 2:
+
+  0 Claims & payment data OO Eligibility and enrollment                                   |           
+  ----------------------------------------------------------------------------------------+-----------
+  O Bills, requests for payment (CO Payments or coverage under the policy / certificate   |           
+  OC Other (please specify)                                                               |           
+  Purpose for this use and/or disclosure:                                                 |           
+  O At my request                                                                         |           
+  O Other (please specify)                                                                |           
+  Persons this information may be disclosed to:                                           |           
+  1. Relationship to insured                                                              |           
+  2. Relationship to insured                                                              |           
+  3.0 «Relationship to insured                                                            |           
+  4. Relationship to insured                                                              |           
+  This SECTION authorization C: Expiration will expire (complete one):                    |           
+
+
+Table 3:
+
+  0 On occurrence of the following event (which must relate to the individual or to the purpose of the use and/or   |           
+  ------------------------------------------------------------------------------------------------------------------+-----------
+  disclosure being authorized):                                                                                     |           
+  Page 8 of 9                                                                                                       |           
+
+
+
+
+================================================================================
+PAGE 9
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ✓ Personal Representative’s Name: → Relationship
+
+  Summary: 1 filled, 0 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  SUPPLEMENT D: AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF
+  SECTION D: Important Information About Your Rights
+  Note: If requested, you must provide valid and current proof of your legal relationship as a personal representative.
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  e WorldTrips” WorldTrips                                                                                                     |                                                                                                                                |              
+  -----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+--------------
+  PO Box 240358                                                                                                                |                                                                                                                                |              
+  Apple Valley, MN 55124                                                                                                       |                                                                                                                                |              
+  800-605-2282 / 1-317-262-2132                                                                                                |                                                                                                                                |              
+  SUPPLEMENT D: AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF                                                                |                                                                                                                                |              
+  PROTECTED HEALTH INFORMATION (Continued)                                                                                     |                                                                                                                                |              
+  SECTION D: Important Information About Your Rights                                                                           |                                                                                                                                |              
+  have read and understood the following statements about my rights:                                                           |                                                                                                                                |              
+  *                                                                                                                            | may revoke this authorization at any time by notifying WorldTrips in writing, but the revocation will not have any effect on   |              
+  any actions that WorldTrips took before we received the revocation.                                                          |                                                                                                                                |              
+  *                                                                                                                            | may see and copy the information described on this form if                                                                     | ask for it.  
+  * lam not required to sign this form to receive health care benefits to which                                                | am otherwise entitled.                                                                                                         |              
+  * The information that is used or disclosed pursuant to this authorization may be re-disclosed by the receiving entity and   |                                                                                                                                |              
+  understand that the information may no longer be protected by the Health Insurance Portability Accountability Act of 1996    |                                                                                                                                |              
+  (also known as HIPAA).                                                                                                       |                                                                                                                                |              
+
+
+Table 2:
+
+  , having disclose had the protected full opportunity health information to read and consider indicated the above. contents of this authorization, hereby authorize WorldTrips to use and/   |           
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  or my as                                                                                                                                                                                    |           
+  Signature Date (MM/DD/YY)                                                                                                                                                                   |           
+  If this authorization is signed by a personal representative on behalf of the insured/ certificate holder,                                                                                  |           
+  complete the following:                                                                                                                                                                     |           
+  Personal Representative’s Name:                                                                                                                                                             |           
+  Relationship to Insured/ Certificate Holder for Whom This Authorization Applies:                                                                                                            |           
+  Note: If requested, you must provide valid and current proof of your legal relationship as a personal representative.                                                                       |           
+
 
 

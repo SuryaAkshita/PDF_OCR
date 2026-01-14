@@ -4,216 +4,266 @@
       "page": 1,
       "sections": [
         {
-          "title": "TECHNICAL REPORT",
+          "title": "INSTRUCTIONS",
           "content": [
             {
-              "text": "Prepared Date: January by: Research 12, 2026 Department",
+              "text": "COMPLETE ALL APPLICABLE PARTS OF THIS FORM.",
+              "confidence": 95.42857142857143,
+              "bbox": {
+                "Left": 0.05176470588235294,
+                "Top": 0.2287878787878788,
+                "Width": 0.4168627450980392,
+                "Height": 0.009696969696969704
+              }
+            },
+            {
+              "text": "submitted NOTE: Only one form Claimant's related to Statement the incident and for Authorization which form claiming, is required additional for each Claimant's episode of Statement care. If you is have not needed. already",
+              "confidence": 94.52941176470588,
+              "bbox": {
+                "Left": 0.05921568627450981,
+                "Top": 0.2593939393939394,
+                "Width": 0.8227450980392157,
+                "Height": 0.024545454545454537
+              }
+            },
+            {
+              "text": "a you are an",
               "confidence": 95.75,
               "bbox": {
-                "Left": 0.13220475614671504,
-                "Top": 0.12685290763968074,
-                "Width": 0.2700523982265215,
-                "Height": 0.025370581527936142
+                "Left": 0.13529411764705881,
+                "Top": 0.27545454545454545,
+                "Width": 0.41450980392156866,
+                "Height": 0.008484848484848484
               }
             },
             {
-              "text": "Document ID: RPT-2026-DEMO-001",
-              "confidence": 93.0,
+              "text": "MEDICAL SERVICES OUTSIDE THE UNITED STATES",
+              "confidence": 95.66666666666667,
               "bbox": {
-                "Left": 0.13220475614671504,
-                "Top": 0.15507411630558723,
-                "Width": 0.275292220878678,
-                "Height": 0.009122006841505131
+                "Left": 0.05254901960784314,
+                "Top": 0.30333333333333334,
+                "Width": 0.4094117647058823,
+                "Height": 0.009696969696969704
+              }
+            },
+            {
+              "text": "of If medical all itemized services bills took for service place outside and supplies. the United Please States, verify please that the complete documents this indicate form along with Supplement date of service, A. Attach diagnosis, copies",
+              "confidence": 95.62162162162163,
+              "bbox": {
+                "Left": 0.05921568627450981,
+                "Top": 0.3339393939393939,
+                "Width": 0.876078431372549,
+                "Height": 0.025151515151515202
+              }
+            },
+            {
+              "text": "and the charge for each service. If you have already paid for these services, please include your receipts name, showing payment.",
+              "confidence": 95.76190476190476,
+              "bbox": {
+                "Left": 0.058823529411764705,
+                "Top": 0.3503030303030303,
+                "Width": 0.8286274509803921,
+                "Height": 0.022424242424242458
               }
             }
           ]
         },
         {
-          "title": "EXECUTIVE SUMMARY",
+          "title": "FORM SUBMISSION OPTIONS",
           "content": [
             {
-              "text": "This text extraction, report demonstrates key-value detection, a full range table of document recognition, understanding and logical section capabilities grouping. including The structured objective is",
-              "confidence": 95.96,
+              "text": "If you of are the NOT methods completing below. and submitting this form online via Member Portal, you must send us the completed form using",
+              "confidence": 95.16,
               "bbox": {
-                "Left": 0.13139862958484483,
-                "Top": 0.2266248574686431,
-                "Width": 0.7335751713018944,
-                "Height": 0.025370581527936115
+                "Left": 0.06,
+                "Top": 0.4254545454545455,
+                "Width": 0.864313725490196,
+                "Height": 0.022424242424242402
               }
             },
             {
-              "text": "to showcase a Textract-like document analysis pipeline using open-source tools.",
-              "confidence": 95.4,
+              "text": "one",
+              "confidence": 94.0,
               "bbox": {
-                "Left": 0.13139862958484483,
-                "Top": 0.25513112884834666,
-                "Width": 0.5953244659411528,
-                "Height": 0.011117445838084383
+                "Left": 0.05921568627450981,
+                "Top": 0.4415151515151515,
+                "Width": 0.025098039215686277,
+                "Height": 0.006363636363636349
+              }
+            },
+            {
+              "text": "Online Submission — Go to: Paper Form — Mail to:",
+              "confidence": 92.4,
+              "bbox": {
+                "Left": 0.05921568627450981,
+                "Top": 0.46090909090909093,
+                "Width": 0.5572549019607843,
+                "Height": 0.011212121212121173
+              }
+            },
+            {
+              "text": "https://www.worldtrips.com/customer-resources WorldTrips",
+              "confidence": 90.5,
+              "bbox": {
+                "Left": 0.0596078431372549,
+                "Top": 0.4775757575757576,
+                "Width": 0.4717647058823529,
+                "Height": 0.013333333333333308
+              }
+            },
+            {
+              "text": "OR PO Box 240358",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.05921568627450981,
+                "Top": 0.49606060606060604,
+                "Width": 0.5074509803921569,
+                "Height": 0.011818181818181783
+              }
+            },
+            {
+              "text": "https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124",
+              "confidence": 90.0,
+              "bbox": {
+                "Left": 0.0596078431372549,
+                "Top": 0.5130303030303031,
+                "Width": 0.5607843137254902,
+                "Height": 0.015757575757575637
+              }
+            },
+            {
+              "text": "U.S.A",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.4568627450980392,
+                "Top": 0.5366666666666666,
+                "Width": 0.03686274509803922,
+                "Height": 0.008787878787878789
               }
             }
           ]
         },
         {
-          "title": "KEY FINDINGS",
+          "title": "QUESTIONS OR GUIDANCE",
           "content": [
             {
-              "text": "- Customer Revenue increased retention improved by 22% year-over-year to 95%",
-              "confidence": 95.36363636363636,
+              "text": "claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere",
+              "confidence": 94.37037037037037,
               "bbox": {
-                "Left": 0.13180169286577992,
-                "Top": 0.32639680729760545,
-                "Width": 0.32849657396211207,
-                "Height": 0.025370581527936198
+                "Left": 0.058823529411764705,
+                "Top": 0.5963636363636363,
+                "Width": 0.8596078431372549,
+                "Height": 0.024848484848484897
               }
             },
             {
-              "text": "- - Digital adoption grew across all regions",
+              "text": "else in the world. When can calling, please us mention the country and area code that or you are calling from.",
+              "confidence": 95.47619047619048,
+              "bbox": {
+                "Left": 0.058823529411764705,
+                "Top": 0.6124242424242424,
+                "Width": 0.7,
+                "Height": 0.022727272727272707
+              }
+            },
+            {
+              "text": "PART A: CLAIMANT INFORMATION",
               "confidence": 95.0,
               "bbox": {
-                "Left": 0.13180169286577992,
-                "Top": 0.34549600912200684,
-                "Width": 0.3010882708585248,
-                "Height": 0.020524515393386566
+                "Left": 0.052941176470588235,
+                "Top": 0.6563636363636364,
+                "Width": 0.3219607843137255,
+                "Height": 0.011818181818181839
               }
             },
             {
-              "text": "- Operational Employee satisfaction costs reduced by reached 11% 8.9/10",
-              "confidence": 94.8,
+              "text": "1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):",
+              "confidence": 87.36363636363636,
               "bbox": {
-                "Left": 0.13180169286577992,
-                "Top": 0.36887115165336376,
-                "Width": 0.33454252317613864,
-                "Height": 0.025655644241733166
+                "Left": 0.05254901960784314,
+                "Top": 0.6927272727272727,
+                "Width": 0.8941176470588235,
+                "Height": 0.010303030303030258
               }
             },
             {
-              "text": "- score",
+              "text": "4A. Current Mailing Address:",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.05215686274509804,
+                "Top": 0.7290909090909091,
+                "Width": 0.19450980392156864,
+                "Height": 0.010303030303030258
+              }
+            },
+            {
+              "text": "5A. City: 6A. State: 7A: Postal Code: 8A. Country:",
+              "confidence": 95.55555555555556,
+              "bbox": {
+                "Left": 0.05254901960784314,
+                "Top": 0.7654545454545455,
+                "Width": 0.7650980392156863,
+                "Height": 0.010303030303030258
+              }
+            },
+            {
+              "text": "9A. Primary Telephone: 10A. Secondary Telephone: | 11A. Email Address:",
+              "confidence": 92.8,
+              "bbox": {
+                "Left": 0.05254901960784314,
+                "Top": 0.8006060606060607,
+                "Width": 0.5776470588235294,
+                "Height": 0.012727272727272698
+              }
+            },
+            {
+              "text": "IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:",
               "confidence": 94.5,
               "bbox": {
-                "Left": 0.13180169286577992,
-                "Top": 0.38568985176738885,
-                "Width": 0.2176541717049577,
-                "Height": 0.006556442417331831
+                "Left": 0.052941176470588235,
+                "Top": 0.8369696969696969,
+                "Width": 0.736078431372549,
+                "Height": 0.023636363636363678
               }
             },
             {
-              "text": "Tauarr| PERFORMANCE METRICS [ NPS",
-              "confidence": 68.4,
+              "text": "Policy ID Card. can on your or",
+              "confidence": 95.28571428571429,
               "bbox": {
-                "Left": 0.1301894397420395,
-                "Top": 0.427309007981756,
-                "Width": 0.44981862152357927,
-                "Height": 0.05159635119726341
+                "Left": 0.052941176470588235,
+                "Top": 0.853030303030303,
+                "Width": 0.4274509803921569,
+                "Height": 0.019696969696969657
               }
             },
             {
-              "text": "[Projects Score",
-              "confidence": 52.0,
+              "text": "13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)",
+              "confidence": 93.625,
               "bbox": {
-                "Left": 0.4498186215235792,
-                "Top": 0.45210946408209807,
-                "Width": 0.19064893188230558,
-                "Height": 0.019954389965792463
+                "Left": 0.05254901960784314,
+                "Top": 0.8803030303030303,
+                "Width": 0.8862745098039215,
+                "Height": 0.010303030303030258
               }
             },
             {
-              "text": "|",
-              "confidence": 41.0,
+              "text": "* Home Country is where you principally reside & receive regular mail.",
+              "confidence": 94.83333333333333,
               "bbox": {
-                "Left": 0.3619508262797259,
-                "Top": 0.4868871151653364,
-                "Width": 0.00201531640467556,
-                "Height": 0.002850627137970352
-              }
-            }
-          ]
-        },
-        {
-          "title": "REGIONAL BREAKDOWN",
-          "content": [
-            {
-              "text": "North Europe: America: 30% of 45% total of total revenue",
-              "confidence": 95.6,
-              "bbox": {
-                "Left": 0.13220475614671504,
-                "Top": 0.5972063854047891,
-                "Width": 0.2688432083837162,
-                "Height": 0.025370581527936142
+                "Left": 0.045098039215686274,
+                "Top": 0.9175757575757576,
+                "Width": 0.43058823529411766,
+                "Height": 0.009696969696969648
               }
             },
             {
-              "text": "Asia Pacific: 20% of total revenue revenue",
-              "confidence": 96.0,
+              "text": "Page 1 of 9",
+              "confidence": 93.0,
               "bbox": {
-                "Left": 0.13139862958484483,
-                "Top": 0.613740022805017,
-                "Width": 0.249093107617896,
-                "Height": 0.020809578107183646
-              }
-            },
-            {
-              "text": "Other: 5% of total revenue",
-              "confidence": 96.0,
-              "bbox": {
-                "Left": 0.13180169286577992,
-                "Top": 0.6396807297605474,
-                "Width": 0.19427650141072145,
-                "Height": 0.009122006841505104
-              }
-            }
-          ]
-        },
-        {
-          "title": "RECOMMENDATIONS",
-          "content": [
-            {
-              "text": "2. 1. Continue Expand investment in digital infrastructure by 20%",
-              "confidence": 95.6,
-              "bbox": {
-                "Left": 0.13180169286577992,
-                "Top": 0.7203534777651083,
-                "Width": 0.33897621926642485,
-                "Height": 0.025655644241733278
-              }
-            },
-            {
-              "text": "3. Launch customer product success line in team Q2 2026",
-              "confidence": 94.6,
-              "bbox": {
-                "Left": 0.13139862958484483,
-                "Top": 0.7354618015963512,
-                "Width": 0.2861749294639258,
-                "Height": 0.024800456100342094
-              }
-            },
-            {
-              "text": "4. Strengthen new partnerships in APAC region",
-              "confidence": 95.0,
-              "bbox": {
-                "Left": 0.13139862958484483,
-                "Top": 0.7514253135689852,
-                "Width": 0.31559854897218864,
-                "Height": 0.02309007981755984
-              }
-            },
-            {
-              "text": "5. Increase R&D; budget by 15%",
-              "confidence": 96.0,
-              "bbox": {
-                "Left": 0.13180169286577992,
-                "Top": 0.7776510832383124,
-                "Width": 0.24304715840386942,
-                "Height": 0.011117445838084383
-              }
-            },
-            {
-              "text": "Confidential — Internal Use Only",
-              "confidence": 90.6,
-              "bbox": {
-                "Left": 0.13301088270858524,
-                "Top": 0.8343785632839225,
-                "Width": 0.23619508262797262,
-                "Height": 0.011402508551881407
+                "Left": 0.045098039215686274,
+                "Top": 0.9557575757575758,
+                "Width": 0.06588235294117648,
+                "Height": 0.009696969696969648
               }
             }
           ]
@@ -223,66 +273,1828 @@
         {
           "rows": [
             [
-              "Document",
-              "ID:",
-              "RPT-2026-DEMO-001"
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "INDIANA insurer files LAW statement REQUIRES of US claim TO containing NOTIFY YOU OF false, THE incomplete, FOLLOWING: misleading A person who information knowingly commits and with felony. intent to defraud an",
+              ""
             ]
-          ]
+          ],
+          "has_header": true
         },
         {
           "rows": [
             [
-              "Asia",
-              "Pacific:",
-              "20%",
-              "of",
-              "total",
-              "revenue",
-              "revenue"
+              "a you are an",
+              ""
             ],
             [
-              "Other:",
-              "5%",
-              "of",
-              "total",
-              "revenue"
+              "MEDICAL SERVICES OUTSIDE THE UNITED STATES",
+              ""
             ]
-          ]
+          ],
+          "has_header": true
         },
         {
           "rows": [
             [
-              "3.",
-              "Launch",
-              "customer",
-              "product",
-              "success",
-              "line",
-              "in",
-              "team",
-              "Q2",
-              "2026"
+              "and the charge for each service. If you have already paid for these services, please include your receipts name, showing payment.",
+              ""
             ],
             [
-              "4.",
-              "Strengthen",
-              "new",
-              "partnerships",
-              "in",
-              "APAC",
-              "region"
-            ],
-            [
-              "5.",
-              "Increase",
-              "R&D;",
-              "budget",
-              "by",
-              "15%"
+              "FORM SUBMISSION OPTIONS",
+              ""
             ]
-          ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "OR PO Box 240358",
+              ""
+            ],
+            [
+              "https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "QUESTIONS OR GUIDANCE",
+              ""
+            ],
+            [
+              "claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):",
+              ""
+            ],
+            [
+              "4A. Current Mailing Address:",
+              ""
+            ],
+            [
+              "5A. City: 6A. State: 7A: Postal Code: 8A. Country:",
+              ""
+            ],
+            [
+              "9A. Primary Telephone: 10A. Secondary Telephone:",
+              "11A. Email Address:"
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct",
+              "12A. Policy Number or Certificate Number:"
+            ],
+            [
+              "Policy ID Card. can on your or",
+              ""
+            ],
+            [
+              "13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)",
+              ""
+            ],
+            [
+              "* Home Country is where you principally reside & receive regular mail.",
+              ""
+            ],
+            [
+              "Page 1 of 9",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "1A. Claimant's Full Name:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.6927272727272727,
+            "Width": 0.8941176470588235,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "label": "2A. Gender:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.6927272727272727,
+            "Width": 0.8941176470588235,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "label": "3A. Date of Birth (MM/DD/YY):",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.6927272727272727,
+            "Width": 0.8941176470588235,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "label": "4A. Current Mailing Address:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.7290909090909091,
+            "Width": 0.19450980392156864,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "label": "5A. City:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.7654545454545455,
+            "Width": 0.7650980392156863,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "label": "6A. State:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.7654545454545455,
+            "Width": 0.7650980392156863,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "label": "8A. Country:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.7654545454545455,
+            "Width": 0.7650980392156863,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "label": "9A. Primary Telephone:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.8006060606060607,
+            "Width": 0.5776470588235294,
+            "Height": 0.012727272727272698
+          }
+        },
+        {
+          "label": "10A. Secondary Telephone:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.8006060606060607,
+            "Width": 0.5776470588235294,
+            "Height": 0.012727272727272698
+          }
+        },
+        {
+          "label": "11A. Email Address:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.8006060606060607,
+            "Width": 0.5776470588235294,
+            "Height": 0.012727272727272698
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "submitted NOTE",
+          "value": "Only one form Claimant's related to Statement the incident and for Authorization which form claiming, is required additional for each Claimant's episode of Statement care. If you is have not needed. already",
+          "bbox": {
+            "Left": 0.05921568627450981,
+            "Top": 0.2593939393939394,
+            "Width": 0.8227450980392157,
+            "Height": 0.024545454545454537
+          }
+        },
+        {
+          "key": "Online Submission — Go to",
+          "value": "Paper Form — Mail to:",
+          "bbox": {
+            "Left": 0.05921568627450981,
+            "Top": 0.46090909090909093,
+            "Width": 0.5572549019607843,
+            "Height": 0.011212121212121173
+          }
+        },
+        {
+          "key": "https",
+          "value": "//www.worldtrips.com/customer-resources WorldTrips",
+          "bbox": {
+            "Left": 0.0596078431372549,
+            "Top": 0.4775757575757576,
+            "Width": 0.4717647058823529,
+            "Height": 0.013333333333333308
+          }
+        },
+        {
+          "key": "https",
+          "value": "//worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124",
+          "bbox": {
+            "Left": 0.0596078431372549,
+            "Top": 0.5130303030303031,
+            "Width": 0.5607843137254902,
+            "Height": 0.015757575757575637
+          }
+        },
+        {
+          "key": "PART A",
+          "value": "CLAIMANT INFORMATION",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.6563636363636364,
+            "Width": 0.3219607843137255,
+            "Height": 0.011818181818181839
+          }
+        },
+        {
+          "key": "1A. Claimant's Full Name",
+          "value": "2A. Gender: 3A. Date of Birth (MM/DD/YY):",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.6927272727272727,
+            "Width": 0.8941176470588235,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "key": "5A. City",
+          "value": "6A. State: 7A: Postal Code: 8A. Country:",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.7654545454545455,
+            "Width": 0.7650980392156863,
+            "Height": 0.010303030303030258
+          }
+        },
+        {
+          "key": "9A. Primary Telephone",
+          "value": "10A. Secondary Telephone: | 11A. Email Address:",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.8006060606060607,
+            "Width": 0.5776470588235294,
+            "Height": 0.012727272727272698
+          }
+        },
+        {
+          "key": "IMPORTANT",
+          "value": "ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.8369696969696969,
+            "Width": 0.736078431372549,
+            "Height": 0.023636363636363678
+          }
+        },
+        {
+          "key": "13A. Citizenship",
+          "value": "14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.8803030303030303,
+            "Width": 0.8862745098039215,
+            "Height": 0.010303030303030258
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 2,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "PO Box 240358",
+              ""
+            ],
+            [
+              "Apple Valley, MN 55124",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "PART A: CLAIMANT INFORMATION (Continued)",
+              ""
+            ],
+            [
+              "16A. Are you a full-time student? [J] Yes [No - If YES, please provide the following:",
+              ""
+            ],
+            [
+              "Name of School:",
+              ""
+            ],
+            [
+              "Address of School:",
+              ""
+            ],
+            [
+              "City: Postal Code: Country:",
+              ""
+            ],
+            [
+              "IMPORTANT - Be Sure to Attach:",
+              ""
+            ],
+            [
+              ". If in the United States, a copy of your valid, education-related visa (F-1 or J-1 visa, OPT, etc.) and/or valid 1-20 / DS2019",
+              ""
+            ],
+            [
+              "Proof of your full-time student status (please disregard this item only if you are submitting a copy of a valid F-1, including OPT, or J-1",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "17A. Are youemployed? []Yes [JNo",
+              ""
+            ],
+            [
+              "18A. Do you have any other [Yes coverage ([JNo (medical, indemnity, or liability), other than that provided by WorldTrips, which might help cover",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "1B. Please check all you are applying for:",
+              ""
+            ],
+            [
+              "OO Travel Delay 0 Lost Checked Luggage (1 Trip Interruption",
+              ""
+            ],
+            [
+              "0 Emergency Quarantine Indemnity Benefit — Covid-19 O Other",
+              ""
+            ],
+            [
+              "2B. Please provide as detailed as possible (including dates, times, locations) of incident:",
+              ""
+            ],
+            [
+              "Page 2 of 9",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "Name of School:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.1621212121212121,
+            "Width": 0.11019607843137255,
+            "Height": 0.008181818181818179
+          }
+        },
+        {
+          "label": "Address of School:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.1984848484848485,
+            "Width": 0.12588235294117647,
+            "Height": 0.008181818181818179
+          }
+        },
+        {
+          "label": "City: Postal Code: Country:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.23484848484848486,
+            "Width": 0.788235294117647,
+            "Height": 0.010303030303030314
+          }
+        },
+        {
+          "label": "17A. Are youemployed? []Yes [JNo",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.34545454545454546,
+            "Width": 0.2654901960784314,
+            "Height": 0.010303030303030314
+          }
+        },
+        {
+          "label": "YY):",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.7819607843137255,
+            "Top": 0.41484848484848486,
+            "Width": 0.026274509803921542,
+            "Height": 0.009393939393939399
+          }
+        },
+        {
+          "label": "1B. Please check all you are applying for:",
+          "value": "OO Travel 0",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.6312121212121212,
+            "Width": 0.25725490196078427,
+            "Height": 0.009696969696969648
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "PART A",
+          "value": "CLAIMANT INFORMATION (Continued)",
+          "bbox": {
+            "Left": 0.04588235294117647,
+            "Top": 0.10787878787878788,
+            "Width": 0.4294117647058823,
+            "Height": 0.017878787878787883
+          }
+        },
+        {
+          "key": "City",
+          "value": "Postal Code: Country:",
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.23484848484848486,
+            "Width": 0.788235294117647,
+            "Height": 0.010303030303030314
+          }
+        },
+        {
+          "key": "Name of Insurance Company",
+          "value": "Policyholder: Policy Number: Effective Date (MM/DD/",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.3984848484848485,
+            "Width": 0.8866666666666667,
+            "Height": 0.012121212121212144
+          }
+        },
+        {
+          "key": "PART B",
+          "value": "TRAVEL ASSISTANCE AND OTHER CLAIMS",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.56,
+            "Width": 0.4788235294117647,
+            "Height": 0.011818181818181839
+          }
+        }
+      ],
+      "checkboxes": [
+        {
+          "text": "[]Yes",
+          "checked": false,
+          "value": "",
+          "bbox": {
+            "Left": 0.2227450980392157,
+            "Top": 0.34545454545454546,
+            "Width": 0.038431372549019606,
+            "Height": 0.01
+          }
+        },
+        {
+          "text": "[]",
+          "checked": false,
+          "value": "",
+          "bbox": {
+            "Left": 0.2164705882352941,
+            "Top": 0.5248484848484849,
+            "Width": 0.012941176470588235,
+            "Height": 0.01
+          }
+        },
+        {
+          "text": "[]",
+          "checked": false,
+          "value": "",
+          "bbox": {
+            "Left": 0.8125490196078431,
+            "Top": 0.5248484848484849,
+            "Width": 0.013333333333333334,
+            "Height": 0.01
+          }
         }
       ]
+    },
+    {
+      "page": 3,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "PO Box 240358",
+              ""
+            ],
+            [
+              "Apple Valley. MN 55124",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "PART C: MEDICAL INFORMATION",
+              ""
+            ],
+            [
+              "1C. If regarding illness or injury, please provide the following details:",
+              ""
+            ],
+            [
+              "Onset of illness or date and time of injury:",
+              "If accident, location of that accident (please be as specific as possible):"
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Date Treated (MM/DD/YY): Attending Physician’s Name: Attending Physician’s Telephone:",
+              ""
+            ],
+            [
+              "Attending Physician’s Address:",
+              ""
+            ],
+            [
+              "we =_ _",
+              ""
+            ],
+            [
+              "3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Insurance Company Name: Insurance Company Address: Insurance Company Telephone:",
+              ""
+            ],
+            [
+              "4C. Have OlYes you had (CINo any ailments, If YES, diseases, please provide illnesses, the conditions, following: or injuries, or have you taken any medications during the last 2 years?",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Name/ Description of (MM/DD/YY) Date(s) Ph ysician . N Name Ph ysician . Add ress Ph ysician _. Teleph Telephone",
+              ""
+            ],
+            [
+              "Condition or Medication",
+              ""
+            ],
+            [
+              "5C. Was the incident related to your employment? (Yes [No If YES, please provide the following:",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "Attending Physician’s Address:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.050980392156862744,
+            "Top": 0.4306060606060606,
+            "Width": 0.20901960784313728,
+            "Height": 0.010000000000000009
+          }
+        },
+        {
+          "label": "3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo",
+          "value": "YES, Insurance",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.05058823529411765,
+            "Top": 0.5075757575757576,
+            "Width": 0.5070588235294119,
+            "Height": 0.010606060606060619
+          }
+        },
+        {
+          "label": "Employer Name: Employer Telephone:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05137254901960785,
+            "Top": 0.8115151515151515,
+            "Width": 0.543921568627451,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "label": "Employer Address:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05137254901960785,
+            "Top": 0.8524242424242424,
+            "Width": 0.11725490196078432,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "label": "Postal Code:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.4647058823529412,
+            "Top": 0.8933333333333333,
+            "Width": 0.07843137254901955,
+            "Height": 0.007575757575757569
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "PART C",
+          "value": "MEDICAL INFORMATION",
+          "bbox": {
+            "Left": 0.05372549019607843,
+            "Top": 0.11424242424242424,
+            "Width": 0.3074509803921569,
+            "Height": 0.011818181818181825
+          }
+        },
+        {
+          "key": "Date Treated (MM/DD/YY)",
+          "value": "Attending Physician’s Name: Attending Physician’s Telephone:",
+          "bbox": {
+            "Left": 0.05137254901960785,
+            "Top": 0.3939393939393939,
+            "Width": 0.8870588235294118,
+            "Height": 0.010303030303030314
+          }
+        },
+        {
+          "key": "Insurance Company Name",
+          "value": "Insurance Company Address: Insurance Company Telephone:",
+          "bbox": {
+            "Left": 0.05137254901960785,
+            "Top": 0.5415151515151515,
+            "Width": 0.8615686274509804,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "key": "Employer Name",
+          "value": "Employer Telephone:",
+          "bbox": {
+            "Left": 0.05137254901960785,
+            "Top": 0.8115151515151515,
+            "Width": 0.543921568627451,
+            "Height": 0.009696969696969648
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 4,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "PO Box 240358",
+              ""
+            ],
+            [
+              "Apple Valley. MN 55124",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "PART D: MEDICAL RECORD AUTHORIZATION",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "verify licensed that all doctor, information practitioner contained of the in healing this form arts, is true, hospital, correct, clinic, and health-related complete to facility, the best pharmacy, of my knowledge. government",
+              "authorize"
+            ],
+            [
+              "any insurance company, group policyholder, employee, or benefit plan administrator having information as to the care, agency, advice,",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Print Name Date (MM/DD/YY)",
+              ""
+            ],
+            [
+              "insurer INDIANA files LAW statement REQUIRES of US claim TO NOTIFY containing YOU OF false, THE incomplete, FOLLOWING: A misleading person who information knowingly commits and with intent felony. to defraud an",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "1D. VERIFICATION",
+          "value": "| verify",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.15666666666666668,
+            "Width": 0.1415686274509804,
+            "Height": 0.009696969696969704
+          }
+        },
+        {
+          "label": "the date signed:",
+          "value": "request. A copy of this",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.058823529411764705,
+            "Top": 0.2706060606060606,
+            "Width": 0.11294117647058823,
+            "Height": 0.010909090909090924
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "PART D",
+          "value": "MEDICAL RECORD AUTHORIZATION",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.11666666666666667,
+            "Width": 0.41725490196078435,
+            "Height": 0.011818181818181811
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 5,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "PO Box 240358",
+              ""
+            ],
+            [
+              "Apple Valley. MN 55124",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "SUPPLEMENT A — CLAIM ITEMIZATION FORM",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "(MM/DD/YY) Date of Service Provider Diagnosis 8 Services Description of Currenc y Count ry Amount Charged",
+              ""
+            ],
+            [
+              "Page 5 of 9",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [],
+      "key_value_pairs": [],
+      "checkboxes": []
+    },
+    {
+      "page": 6,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "PO Box 240358",
+              ""
+            ],
+            [
+              "Apple Valley. MN 55124",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "SUPPLEMENT B — PAYMENT AUTHORIZATION AGREEMENT FORM",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):",
+              "",
+              "",
+              ""
+            ],
+            [
+              "4. Beneficiary Address:",
+              "",
+              "",
+              ""
+            ],
+            [
+              "5. City: eee 7. Postal Code: 8. Country:",
+              "",
+              "",
+              ""
+            ],
+            [
+              "to REQUIRED be made SIGNATURE either to FOR based PAYMENT the information AUTHORIZATION",
+              "have provided AGREEMENT this FORM form PROCESSING: directly to the",
+              "hereby third-party authorize",
+              "have payment designated of benefits in the"
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Printed Name of the Party Completing Form",
+              ""
+            ],
+            [
+              "Insured Signature Date (MM/DD/YY)",
+              ""
+            ],
+            [
+              "Payment Type: (1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)",
+              ""
+            ],
+            [
+              "Special notes regarding international wires:",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "b) an Mexico wires must have may a CLABE # (18 digits) are payee.",
+              ""
+            ],
+            [
+              "c) Great Britain - - wires in US dollars must have a bank account# and a Sort Code (6 digits)",
+              ""
+            ],
+            [
+              "Domestic Payments (U.S. Banks)",
+              ""
+            ],
+            [
+              "There number are to two identify methods for bank bank-to-bank will differ depending electronic payments: which payment Wire Transfer method and is used. Automated Clearing House (ACH) routing",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "35. Account Number: 36. Checking Account: [] Savings Account: [J",
+              ""
+            ],
+            [
+              "Page 6 of 9",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "4. Beneficiary Address:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.24393939393939393,
+            "Width": 0.14588235294117646,
+            "Height": 0.009696969696969676
+          }
+        },
+        {
+          "label": "Special notes regarding international wires:",
+          "value": "a) WorldTrips",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.05333333333333334,
+            "Top": 0.5772727272727273,
+            "Width": 0.30117647058823527,
+            "Height": 0.010909090909090868
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "1. Beneficiary Name",
+          "value": "2. Home Telephone (if applicable): 3. Email Address (if applicable):",
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.20303030303030303,
+            "Width": 0.8121568627450981,
+            "Height": 0.009696969696969704
+          }
+        },
+        {
+          "key": "5. City",
+          "value": "eee 7. Postal Code: 8. Country:",
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.2793939393939394,
+            "Width": 0.6847058823529413,
+            "Height": 0.042121212121212115
+          }
+        },
+        {
+          "key": "Payment Type",
+          "value": "(1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)",
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.5363636363636364,
+            "Width": 0.7811764705882352,
+            "Height": 0.011818181818181839
+          }
+        },
+        {
+          "key": "29. Account Holder Name",
+          "value": "30. Account Holder Address: 31. Account Holder City:",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.8193939393939393,
+            "Width": 0.739607843137255,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "key": "32. Account Holder State",
+          "value": "33. Account Holder Zip Code: 34. Bank Routing Number (9 digits):",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.8603030303030303,
+            "Width": 0.8168627450980392,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "key": "35. Account Number",
+          "value": "36. Checking Account: [] Savings Account: [J",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.9003030303030303,
+            "Width": 0.7686274509803921,
+            "Height": 0.010000000000000009
+          }
+        }
+      ],
+      "checkboxes": [
+        {
+          "text": "[]",
+          "checked": false,
+          "value": "",
+          "bbox": {
+            "Left": 0.6066666666666667,
+            "Top": 0.9003030303030303,
+            "Width": 0.012941176470588235,
+            "Height": 0.01
+          }
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "PO Box 240358",
+              ""
+            ],
+            [
+              "Apple Valley, MN 55124",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "SUPPLEMENT B: PAYMENT FORMS (Continued)",
+              ""
+            ],
+            [
+              "International Bank Accounts (Banks outside of the United States)",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "23. ABA / Routing Number (9 digits): 24. Account Number (if applicable):",
+              ""
+            ],
+            [
+              "25. Any special instructions for forwarding payment:",
+              ""
+            ],
+            [
+              "PARENT / GUARDIAN OR THIRD-PARTY PAYMENT AUTHORIZATION",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "3. City: eee 5. Postal Code: 6. Country:",
+              ""
+            ],
+            [
+              "Page 7 of 9",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "2. Address:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.7515151515151515,
+            "Width": 0.06901960784313727,
+            "Height": 0.007575757575757569
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "SUPPLEMENT B",
+          "value": "PAYMENT FORMS (Continued)",
+          "bbox": {
+            "Left": 0.04588235294117647,
+            "Top": 0.11151515151515151,
+            "Width": 0.43529411764705883,
+            "Height": 0.014242424242424251
+          }
+        },
+        {
+          "key": "of Important",
+          "value": "Intermediary If the receiving (correspondent) bank resides bank outside in order the to United receive States. wire transfer please inquire from from U.S. your bank. foreign If this is bank true, if then they please require obtain the use",
+          "bbox": {
+            "Left": 0.05450980392156863,
+            "Top": 0.43242424242424243,
+            "Width": 0.8815686274509804,
+            "Height": 0.024545454545454537
+          }
+        },
+        {
+          "key": "20. Bank Name",
+          "value": "21. Bank City: 22. Bank State:",
+          "bbox": {
+            "Left": 0.05450980392156863,
+            "Top": 0.4781818181818182,
+            "Width": 0.6835294117647058,
+            "Height": 0.009696969696969704
+          }
+        },
+        {
+          "key": "3. City",
+          "value": "eee 5. Postal Code: 6. Country:",
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.786969696969697,
+            "Width": 0.723921568627451,
+            "Height": 0.041818181818181865
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 8,
+      "sections": [
+        {
+          "title": "PROTECTED HEALTH INFORMATION",
+          "content": [
+            {
+              "text": "You must fill out the sections below if you wish to authorize WorldTrips to disclose your",
+              "confidence": 95.125,
+              "bbox": {
+                "Left": 0.13333333333333333,
+                "Top": 0.16757575757575757,
+                "Width": 0.719607843137255,
+                "Height": 0.012121212121212144
+              }
+            },
+            {
+              "text": "protected health information to another party.",
+              "confidence": 95.83333333333333,
+              "bbox": {
+                "Left": 0.3015686274509804,
+                "Top": 0.18272727272727274,
+                "Width": 0.38313725490196077,
+                "Height": 0.012121212121212116
+              }
+            },
+            {
+              "text": "Supplement specify. For the D authorizes of WorldTrips this form, to PHI use shall and/or be considered disclose your protected protected health health information, information which (“PHI’’) is individually to individuals identifiable you",
+              "confidence": 94.78787878787878,
+              "bbox": {
+                "Left": 0.05215686274509804,
+                "Top": 0.2112121212121212,
+                "Width": 0.8588235294117648,
+                "Height": 0.024545454545454565
+              }
+            },
+            {
+              "text": "health information purpose received from or maintained by WorldTrips. Without completing and signing Supplement D, Federal law",
+              "confidence": 94.58823529411765,
+              "bbox": {
+                "Left": 0.05254901960784314,
+                "Top": 0.22727272727272727,
+                "Width": 0.8741176470588234,
+                "Height": 0.022121212121212125
+              }
+            },
+            {
+              "text": "prohibits personal friends, WorldTrips other from personal releasing representatives your PHI to your unless spouse, parent, present adult children, at the time or of other disclosure. family members, close",
+              "confidence": 95.41379310344827,
+              "bbox": {
+                "Left": 0.05215686274509804,
+                "Top": 0.25212121212121213,
+                "Width": 0.8482352941176471,
+                "Height": 0.024545454545454537
+              }
+            },
+            {
+              "text": "or you are",
+              "confidence": 95.33333333333333,
+              "bbox": {
+                "Left": 0.1803921568627451,
+                "Top": 0.2681818181818182,
+                "Width": 0.35725490196078424,
+                "Height": 0.008484848484848484
+              }
+            },
+            {
+              "text": "*No benefits will be withheld from you if you refuse to sign Supplement D.*",
+              "confidence": 95.0,
+              "bbox": {
+                "Left": 0.05333333333333334,
+                "Top": 0.29303030303030303,
+                "Width": 0.5207843137254902,
+                "Height": 0.010909090909090924
+              }
+            },
+            {
+              "text": "SECTION A: Insured Authorizing Use and/or Disclosure",
+              "confidence": 95.85714285714286,
+              "bbox": {
+                "Left": 0.05215686274509804,
+                "Top": 0.33636363636363636,
+                "Width": 0.4513725490196079,
+                "Height": 0.011818181818181839
+              }
+            },
+            {
+              "text": "Insured Name:",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.05254901960784314,
+                "Top": 0.3660606060606061,
+                "Width": 0.09999999999999998,
+                "Height": 0.008484848484848484
+              }
+            },
+            {
+              "text": "Policy/Certificate Number:",
+              "confidence": 93.5,
+              "bbox": {
+                "Left": 0.05254901960784314,
+                "Top": 0.393030303030303,
+                "Width": 0.18588235294117644,
+                "Height": 0.010909090909090924
+              }
+            },
+            {
+              "text": "SECTION The information B: The to be Use used and/or and/or Disclosure disclosed is Being (select Authorized all that apply):",
+              "confidence": 95.1,
+              "bbox": {
+                "Left": 0.05215686274509804,
+                "Top": 0.43424242424242426,
+                "Width": 0.4819607843137256,
+                "Height": 0.025454545454545452
+              }
+            },
+            {
+              "text": "0 Claims & payment data OO Eligibility and enrollment",
+              "confidence": 81.44444444444444,
+              "bbox": {
+                "Left": 0.09058823529411765,
+                "Top": 0.4760606060606061,
+                "Width": 0.487843137254902,
+                "Height": 0.010909090909090924
+              }
+            },
+            {
+              "text": "O Bills, requests for payment (CO Payments or coverage under the policy / certificate",
+              "confidence": 87.5,
+              "bbox": {
+                "Left": 0.09058823529411765,
+                "Top": 0.5027272727272727,
+                "Width": 0.6729411764705882,
+                "Height": 0.01151515151515159
+              }
+            },
+            {
+              "text": "OC Other (please specify)",
+              "confidence": 84.5,
+              "bbox": {
+                "Left": 0.09058823529411765,
+                "Top": 0.5296969696969697,
+                "Width": 0.17411764705882354,
+                "Height": 0.011818181818181839
+              }
+            },
+            {
+              "text": "Purpose for this use and/or disclosure:",
+              "confidence": 95.66666666666667,
+              "bbox": {
+                "Left": 0.05254901960784314,
+                "Top": 0.5715151515151515,
+                "Width": 0.2709803921568627,
+                "Height": 0.010909090909090868
+              }
+            },
+            {
+              "text": "O At my request",
+              "confidence": 91.25,
+              "bbox": {
+                "Left": 0.09058823529411765,
+                "Top": 0.5987878787878788,
+                "Width": 0.1172549019607843,
+                "Height": 0.01090909090909098
+              }
+            },
+            {
+              "text": "O Other (please specify)",
+              "confidence": 92.0,
+              "bbox": {
+                "Left": 0.09058823529411765,
+                "Top": 0.6254545454545455,
+                "Width": 0.17411764705882354,
+                "Height": 0.011515151515151478
+              }
+            },
+            {
+              "text": "Persons this information may be disclosed to:",
+              "confidence": 95.14285714285714,
+              "bbox": {
+                "Left": 0.05254901960784314,
+                "Top": 0.6533333333333333,
+                "Width": 0.3168627450980392,
+                "Height": 0.01090909090909098
+              }
+            },
+            {
+              "text": "1. Relationship to insured",
+              "confidence": 94.5,
+              "bbox": {
+                "Left": 0.05215686274509804,
+                "Top": 0.6806060606060607,
+                "Width": 0.571764705882353,
+                "Height": 0.010909090909090868
+              }
+            },
+            {
+              "text": "2. Relationship to insured",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.05176470588235294,
+                "Top": 0.7078787878787879,
+                "Width": 0.572156862745098,
+                "Height": 0.010909090909090868
+              }
+            },
+            {
+              "text": "3.0 «Relationship to insured",
+              "confidence": 54.75,
+              "bbox": {
+                "Left": 0.05176470588235294,
+                "Top": 0.7351515151515151,
+                "Width": 0.572156862745098,
+                "Height": 0.010909090909090868
+              }
+            },
+            {
+              "text": "4. Relationship to insured",
+              "confidence": 95.5,
+              "bbox": {
+                "Left": 0.05176470588235294,
+                "Top": 0.7624242424242424,
+                "Width": 0.572156862745098,
+                "Height": 0.010909090909090868
+              }
+            },
+            {
+              "text": "This SECTION authorization C: Expiration will expire (complete one):",
+              "confidence": 94.33333333333333,
+              "bbox": {
+                "Left": 0.05176470588235294,
+                "Top": 0.803939393939394,
+                "Width": 0.3137254901960784,
+                "Height": 0.025454545454545507
+              }
+            },
+            {
+              "text": "O On / / (MM/DD/YY)",
+              "confidence": 93.0,
+              "bbox": {
+                "Left": 0.09058823529411765,
+                "Top": 0.8454545454545455,
+                "Width": 0.3066666666666667,
+                "Height": 0.010909090909090868
+              }
+            },
+            {
+              "text": "0 On occurrence of the following event (which must relate to the individual or to the purpose of the use and/or",
+              "confidence": 92.9047619047619,
+              "bbox": {
+                "Left": 0.09058823529411765,
+                "Top": 0.8781818181818182,
+                "Width": 0.775686274509804,
+                "Height": 0.01090909090909098
+              }
+            },
+            {
+              "text": "disclosure being authorized):",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.11098039215686274,
+                "Top": 0.8972727272727272,
+                "Width": 0.2011764705882353,
+                "Height": 0.010909090909090868
+              }
+            },
+            {
+              "text": "Page 8 of 9",
+              "confidence": 95.5,
+              "bbox": {
+                "Left": 0.045098039215686274,
+                "Top": 0.9557575757575758,
+                "Width": 0.06823529411764706,
+                "Height": 0.009696969696969648
+              }
+            }
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "rows": [
+            [
+              "PO Box 240358",
+              ""
+            ],
+            [
+              "Apple Valley. MN 55124",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "SUPPLEMENT D — AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF",
+              ""
+            ],
+            [
+              "PROTECTED HEALTH INFORMATION",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "0 Claims & payment data OO Eligibility and enrollment",
+              ""
+            ],
+            [
+              "O Bills, requests for payment (CO Payments or coverage under the policy / certificate",
+              ""
+            ],
+            [
+              "OC Other (please specify)",
+              ""
+            ],
+            [
+              "Purpose for this use and/or disclosure:",
+              ""
+            ],
+            [
+              "O At my request",
+              ""
+            ],
+            [
+              "O Other (please specify)",
+              ""
+            ],
+            [
+              "Persons this information may be disclosed to:",
+              ""
+            ],
+            [
+              "1. Relationship to insured",
+              ""
+            ],
+            [
+              "2. Relationship to insured",
+              ""
+            ],
+            [
+              "3.0 «Relationship to insured",
+              ""
+            ],
+            [
+              "4. Relationship to insured",
+              ""
+            ],
+            [
+              "This SECTION authorization C: Expiration will expire (complete one):",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "0 On occurrence of the following event (which must relate to the individual or to the purpose of the use and/or",
+              ""
+            ],
+            [
+              "disclosure being authorized):",
+              ""
+            ],
+            [
+              "Page 8 of 9",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "Insured Name:",
+          "value": "Policy/Certificate",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.3660606060606061,
+            "Width": 0.09999999999999998,
+            "Height": 0.008484848484848484
+          }
+        },
+        {
+          "label": "Policy/Certificate Number:",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.393030303030303,
+            "Width": 0.18588235294117644,
+            "Height": 0.010909090909090924
+          }
+        },
+        {
+          "label": "disclosure being authorized):",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.11098039215686274,
+            "Top": 0.8972727272727272,
+            "Width": 0.2011764705882353,
+            "Height": 0.010909090909090868
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "SECTION A",
+          "value": "Insured Authorizing Use and/or Disclosure",
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.33636363636363636,
+            "Width": 0.4513725490196079,
+            "Height": 0.011818181818181839
+          }
+        },
+        {
+          "key": "SECTION The information B",
+          "value": "The to be Use used and/or and/or Disclosure disclosed is Being (select Authorized all that apply):",
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.43424242424242426,
+            "Width": 0.4819607843137256,
+            "Height": 0.025454545454545452
+          }
+        },
+        {
+          "key": "This SECTION authorization C",
+          "value": "Expiration will expire (complete one):",
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.803939393939394,
+            "Width": 0.3137254901960784,
+            "Height": 0.025454545454545507
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 9,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "e WorldTrips” WorldTrips",
+              "",
+              ""
+            ],
+            [
+              "PO Box 240358",
+              "",
+              ""
+            ],
+            [
+              "Apple Valley, MN 55124",
+              "",
+              ""
+            ],
+            [
+              "800-605-2282 / 1-317-262-2132",
+              "",
+              ""
+            ],
+            [
+              "SUPPLEMENT D: AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF",
+              "",
+              ""
+            ],
+            [
+              "PROTECTED HEALTH INFORMATION (Continued)",
+              "",
+              ""
+            ],
+            [
+              "SECTION D: Important Information About Your Rights",
+              "",
+              ""
+            ],
+            [
+              "have read and understood the following statements about my rights:",
+              "",
+              ""
+            ],
+            [
+              "*",
+              "may revoke this authorization at any time by notifying WorldTrips in writing, but the revocation will not have any effect on",
+              ""
+            ],
+            [
+              "any actions that WorldTrips took before we received the revocation.",
+              "",
+              ""
+            ],
+            [
+              "*",
+              "may see and copy the information described on this form if",
+              "ask for it."
+            ],
+            [
+              "* lam not required to sign this form to receive health care benefits to which",
+              "am otherwise entitled.",
+              ""
+            ],
+            [
+              "* The information that is used or disclosed pursuant to this authorization may be re-disclosed by the receiving entity and",
+              "",
+              ""
+            ],
+            [
+              "understand that the information may no longer be protected by the Health Insurance Portability Accountability Act of 1996",
+              "",
+              ""
+            ],
+            [
+              "(also known as HIPAA).",
+              "",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              ", having disclose had the protected full opportunity health information to read and consider indicated the above. contents of this authorization, hereby authorize WorldTrips to use and/",
+              ""
+            ],
+            [
+              "or my as",
+              ""
+            ],
+            [
+              "Signature Date (MM/DD/YY)",
+              ""
+            ],
+            [
+              "If this authorization is signed by a personal representative on behalf of the insured/ certificate holder,",
+              ""
+            ],
+            [
+              "complete the following:",
+              ""
+            ],
+            [
+              "Personal Representative’s Name:",
+              ""
+            ],
+            [
+              "Relationship to Insured/ Certificate Holder for Whom This Authorization Applies:",
+              ""
+            ],
+            [
+              "Note: If requested, you must provide valid and current proof of your legal relationship as a personal representative.",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "Personal Representative’s Name:",
+          "value": "Relationship",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.04549019607843137,
+            "Top": 0.5333333333333333,
+            "Width": 0.22784313725490196,
+            "Height": 0.010909090909090868
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "SUPPLEMENT D",
+          "value": "AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF",
+          "bbox": {
+            "Left": 0.04588235294117647,
+            "Top": 0.10787878787878788,
+            "Width": 0.7043137254901961,
+            "Height": 0.011818181818181811
+          }
+        },
+        {
+          "key": "SECTION D",
+          "value": "Important Information About Your Rights",
+          "bbox": {
+            "Left": 0.045098039215686274,
+            "Top": 0.15363636363636363,
+            "Width": 0.4415686274509804,
+            "Height": 0.011818181818181811
+          }
+        },
+        {
+          "key": "Note",
+          "value": "If requested, you must provide valid and current proof of your legal relationship as a personal representative.",
+          "bbox": {
+            "Left": 0.04549019607843137,
+            "Top": 0.5878787878787879,
+            "Width": 0.7968627450980391,
+            "Height": 0.01090909090909098
+          }
+        }
+      ],
+      "checkboxes": []
     }
   ]
 }
