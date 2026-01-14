@@ -15,7 +15,7 @@ from ocr.readable_formatter import save_readable_output
 from ocr.form_parser import build_form_blocks
 
 
-PDF_PATH = "data/worldtrips_claimants_statement.pdf"
+PDF_PATH = "data/main_test_file.pdf"
 
 
 def run_ocr(pdf_path):

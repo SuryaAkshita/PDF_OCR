@@ -8,7 +8,7 @@
           "content": [
             {
               "text": "COMPLETE ALL APPLICABLE PARTS OF THIS FORM.",
-              "confidence": 95.42857142857143,
+              "confidence": 95.28571428571429,
               "bbox": {
                 "Left": 0.05176470588235294,
                 "Top": 0.2287878787878788,
@@ -38,7 +38,7 @@
             },
             {
               "text": "MEDICAL SERVICES OUTSIDE THE UNITED STATES",
-              "confidence": 95.66666666666667,
+              "confidence": 95.33333333333333,
               "bbox": {
                 "Left": 0.05254901960784314,
                 "Top": 0.30333333333333334,
@@ -92,50 +92,40 @@
               }
             },
             {
-              "text": "Online Submission — Go to: Paper Form — Mail to:",
-              "confidence": 92.4,
+              "text": "Online https://service.worldtrips.com/ Submission — Go to: WorldTrips Paper Form — Mail to:",
+              "confidence": 92.33333333333333,
               "bbox": {
                 "Left": 0.05921568627450981,
                 "Top": 0.46090909090909093,
-                "Width": 0.5572549019607843,
-                "Height": 0.011212121212121173
+                "Width": 0.4474509803921569,
+                "Height": 0.03121212121212119
               }
             },
             {
-              "text": "https://www.worldtrips.com/customer-resources WorldTrips",
-              "confidence": 90.5,
-              "bbox": {
-                "Left": 0.0596078431372549,
-                "Top": 0.4775757575757576,
-                "Width": 0.4717647058823529,
-                "Height": 0.013333333333333308
-              }
-            },
-            {
-              "text": "OR PO Box 240358",
+              "text": "Box No. 2005",
               "confidence": 96.0,
               "bbox": {
-                "Left": 0.05921568627450981,
-                "Top": 0.49606060606060604,
-                "Width": 0.5074509803921569,
-                "Height": 0.011818181818181783
+                "Left": 0.3474509803921569,
+                "Top": 0.4987878787878788,
+                "Width": 0.0937254901960784,
+                "Height": 0.008787878787878789
               }
             },
             {
-              "text": "https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124",
-              "confidence": 90.0,
+              "text": "Farmington Hills, Ml 48333-2005",
+              "confidence": 89.0,
               "bbox": {
-                "Left": 0.0596078431372549,
-                "Top": 0.5130303030303031,
-                "Width": 0.5607843137254902,
-                "Height": 0.015757575757575637
+                "Left": 0.3474509803921569,
+                "Top": 0.5175757575757576,
+                "Width": 0.2337254901960784,
+                "Height": 0.011212121212121118
               }
             },
             {
               "text": "U.S.A",
               "confidence": 96.0,
               "bbox": {
-                "Left": 0.4568627450980392,
+                "Left": 0.34705882352941175,
                 "Top": 0.5366666666666666,
                 "Width": 0.03686274509803922,
                 "Height": 0.008787878787878789
@@ -147,28 +137,28 @@
           "title": "QUESTIONS OR GUIDANCE",
           "content": [
             {
-              "text": "claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere",
-              "confidence": 94.37037037037037,
+              "text": "also For questions call toll-free or guidance at 800-605-2282 in filling out within this form, the U.S. please collect visit https://www.worldtrips.com/claims-resource-center. at 1-317-262-2132 from anywhere else in the world. When You can",
+              "confidence": 95.46875,
               "bbox": {
                 "Left": 0.058823529411764705,
                 "Top": 0.5963636363636363,
-                "Width": 0.8596078431372549,
+                "Width": 0.8654901960784314,
                 "Height": 0.024848484848484897
               }
             },
             {
-              "text": "else in the world. When can calling, please us mention the country and area code that or you are calling from.",
-              "confidence": 95.47619047619048,
+              "text": "calling, please us mention the country and area code that or you are calling from.",
+              "confidence": 95.4,
               "bbox": {
                 "Left": 0.058823529411764705,
                 "Top": 0.6124242424242424,
-                "Width": 0.7,
+                "Width": 0.5325490196078432,
                 "Height": 0.022727272727272707
               }
             },
             {
               "text": "PART A: CLAIMANT INFORMATION",
-              "confidence": 95.0,
+              "confidence": 95.5,
               "bbox": {
                 "Left": 0.052941176470588235,
                 "Top": 0.6563636363636364,
@@ -177,23 +167,33 @@
               }
             },
             {
-              "text": "1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):",
-              "confidence": 87.36363636363636,
+              "text": "1A. Ilyas Claimant's Malik Full Name: 2A. Male Gender: 3A. 07/03/2008 Date of Birth (MM/DD/YY):",
+              "confidence": 89.46666666666667,
               "bbox": {
                 "Left": 0.05254901960784314,
                 "Top": 0.6927272727272727,
                 "Width": 0.8941176470588235,
-                "Height": 0.010303030303030258
+                "Height": 0.023939393939393927
               }
             },
             {
-              "text": "4A. Current Mailing Address:",
+              "text": "4A. Current Sylvester Mailing Address:",
               "confidence": 96.0,
               "bbox": {
                 "Left": 0.05215686274509804,
                 "Top": 0.7290909090909091,
                 "Width": 0.19450980392156864,
-                "Height": 0.010303030303030258
+                "Height": 0.025757575757575646
+              }
+            },
+            {
+              "text": "69 Avenue",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.05529411764705883,
+                "Top": 0.7442424242424243,
+                "Width": 0.16862745098039217,
+                "Height": 0.008787878787878789
               }
             },
             {
@@ -207,6 +207,16 @@
               }
             },
             {
+              "text": "winchester MA 01890 USA",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.052941176470588235,
+                "Top": 0.7812121212121212,
+                "Width": 0.7054901960784313,
+                "Height": 0.008484848484848428
+              }
+            },
+            {
               "text": "9A. Primary Telephone: 10A. Secondary Telephone: | 11A. Email Address:",
               "confidence": 92.8,
               "bbox": {
@@ -217,8 +227,18 @@
               }
             },
             {
+              "text": "245549351 razmalik@gmail.com",
+              "confidence": 93.0,
+              "bbox": {
+                "Left": 0.05529411764705883,
+                "Top": 0.8184848484848485,
+                "Width": 0.6062745098039215,
+                "Height": 0.011212121212121229
+              }
+            },
+            {
               "text": "IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:",
-              "confidence": 94.5,
+              "confidence": 94.58333333333333,
               "bbox": {
                 "Left": 0.052941176470588235,
                 "Top": 0.8369696969696969,
@@ -227,12 +247,12 @@
               }
             },
             {
-              "text": "Policy ID Card. can on your or",
-              "confidence": 95.28571428571429,
+              "text": "Policy ID Card. can on your or 120392469",
+              "confidence": 95.0,
               "bbox": {
                 "Left": 0.052941176470588235,
                 "Top": 0.853030303030303,
-                "Width": 0.4274509803921569,
+                "Width": 0.5325490196078432,
                 "Height": 0.019696969696969657
               }
             },
@@ -247,6 +267,16 @@
               }
             },
             {
+              "text": "USA USA England, Turkey",
+              "confidence": 95.25,
+              "bbox": {
+                "Left": 0.05372549019607843,
+                "Top": 0.8966666666666666,
+                "Width": 0.5807843137254902,
+                "Height": 0.011212121212121229
+              }
+            },
+            {
               "text": "* Home Country is where you principally reside & receive regular mail.",
               "confidence": 94.83333333333333,
               "bbox": {
@@ -257,12 +287,12 @@
               }
             },
             {
-              "text": "Page 1 of 9",
-              "confidence": 93.0,
+              "text": "Page 1 of 10",
+              "confidence": 95.5,
               "bbox": {
                 "Left": 0.045098039215686274,
                 "Top": 0.9557575757575758,
-                "Width": 0.06588235294117648,
+                "Width": 0.07254901960784313,
                 "Height": 0.009696969696969648
               }
             }
@@ -272,6 +302,23 @@
       "tables": [
         {
           "rows": [
+            [
+              "DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167",
+              ""
+            ],
+            [
+              "WorldTrips* WorldTrips Box",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Farmington Hills. Ml 48333-2005",
+              ""
+            ],
             [
               "800-605-2282 / 1-317-262-2132",
               ""
@@ -312,11 +359,11 @@
         {
           "rows": [
             [
-              "OR PO Box 240358",
+              "Box No. 2005",
               ""
             ],
             [
-              "https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124",
+              "Farmington Hills, Ml 48333-2005",
               ""
             ]
           ],
@@ -329,7 +376,15 @@
               ""
             ],
             [
-              "claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere",
+              "also For questions call toll-free or guidance at 800-605-2282 in filling out within this form, the U.S. please collect visit https://www.worldtrips.com/claims-resource-center. at 1-317-262-2132 from anywhere else in the world. When You can",
+              ""
+            ],
+            [
+              "calling, please us mention the country and area code that or you are calling from.",
+              ""
+            ],
+            [
+              "PART A: CLAIMANT INFORMATION",
               ""
             ]
           ],
@@ -338,15 +393,24 @@
         {
           "rows": [
             [
-              "1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):",
+              "1A. Ilyas Claimant's Malik Full Name: 2A. Male Gender: 3A. 07/03/2008 Date of Birth (MM/DD/YY):",
               ""
             ],
             [
-              "4A. Current Mailing Address:",
+              "4A. Current Sylvester Mailing Address:",
               ""
-            ],
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
             [
               "5A. City: 6A. State: 7A: Postal Code: 8A. Country:",
+              ""
+            ],
+            [
+              "winchester MA 01890 USA",
               ""
             ],
             [
@@ -363,19 +427,24 @@
               "12A. Policy Number or Certificate Number:"
             ],
             [
-              "Policy ID Card. can on your or",
+              "Policy ID Card. can on your or 120392469",
               ""
             ],
             [
               "13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)",
               ""
-            ],
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
             [
               "* Home Country is where you principally reside & receive regular mail.",
               ""
             ],
             [
-              "Page 1 of 9",
+              "Page 1 of 10",
               ""
             ]
           ],
@@ -384,47 +453,47 @@
       ],
       "form_fields": [
         {
-          "label": "1A. Claimant's Full Name:",
+          "label": "1A. Ilyas Claimant's Malik Full Name:",
           "value": "",
           "has_value": false,
           "bbox": {
             "Left": 0.05254901960784314,
             "Top": 0.6927272727272727,
             "Width": 0.8941176470588235,
-            "Height": 0.010303030303030258
+            "Height": 0.023939393939393927
           }
         },
         {
-          "label": "2A. Gender:",
+          "label": "2A. Male Gender:",
           "value": "",
           "has_value": false,
           "bbox": {
             "Left": 0.05254901960784314,
             "Top": 0.6927272727272727,
             "Width": 0.8941176470588235,
-            "Height": 0.010303030303030258
+            "Height": 0.023939393939393927
           }
         },
         {
-          "label": "3A. Date of Birth (MM/DD/YY):",
+          "label": "3A. 07/03/2008 Date of Birth (MM/DD/YY):",
           "value": "",
           "has_value": false,
           "bbox": {
             "Left": 0.05254901960784314,
             "Top": 0.6927272727272727,
             "Width": 0.8941176470588235,
-            "Height": 0.010303030303030258
+            "Height": 0.023939393939393927
           }
         },
         {
-          "label": "4A. Current Mailing Address:",
-          "value": "",
-          "has_value": false,
+          "label": "4A. Mailing Address:",
+          "value": "Current Sylvester",
+          "has_value": true,
           "bbox": {
             "Left": 0.05215686274509804,
             "Top": 0.7290909090909091,
             "Width": 0.19450980392156864,
-            "Height": 0.010303030303030258
+            "Height": 0.025757575757575646
           }
         },
         {
@@ -496,43 +565,23 @@
       ],
       "key_value_pairs": [
         {
-          "key": "submitted NOTE",
-          "value": "Only one form Claimant's related to Statement the incident and for Authorization which form claiming, is required additional for each Claimant's episode of Statement care. If you is have not needed. already",
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
           "bbox": {
-            "Left": 0.05921568627450981,
-            "Top": 0.2593939393939394,
-            "Width": 0.8227450980392157,
-            "Height": 0.024545454545454537
+            "Left": 0.029019607843137254,
+            "Top": 0.014848484848484849,
+            "Width": 0.4027450980392157,
+            "Height": 0.009393939393939394
           }
         },
         {
-          "key": "Online Submission — Go to",
-          "value": "Paper Form — Mail to:",
+          "key": "Online https",
+          "value": "//service.worldtrips.com/ Submission — Go to: WorldTrips Paper Form — Mail to:",
           "bbox": {
             "Left": 0.05921568627450981,
             "Top": 0.46090909090909093,
-            "Width": 0.5572549019607843,
-            "Height": 0.011212121212121173
-          }
-        },
-        {
-          "key": "https",
-          "value": "//www.worldtrips.com/customer-resources WorldTrips",
-          "bbox": {
-            "Left": 0.0596078431372549,
-            "Top": 0.4775757575757576,
-            "Width": 0.4717647058823529,
-            "Height": 0.013333333333333308
-          }
-        },
-        {
-          "key": "https",
-          "value": "//worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124",
-          "bbox": {
-            "Left": 0.0596078431372549,
-            "Top": 0.5130303030303031,
-            "Width": 0.5607843137254902,
-            "Height": 0.015757575757575637
+            "Width": 0.4474509803921569,
+            "Height": 0.03121212121212119
           }
         },
         {
@@ -543,56 +592,6 @@
             "Top": 0.6563636363636364,
             "Width": 0.3219607843137255,
             "Height": 0.011818181818181839
-          }
-        },
-        {
-          "key": "1A. Claimant's Full Name",
-          "value": "2A. Gender: 3A. Date of Birth (MM/DD/YY):",
-          "bbox": {
-            "Left": 0.05254901960784314,
-            "Top": 0.6927272727272727,
-            "Width": 0.8941176470588235,
-            "Height": 0.010303030303030258
-          }
-        },
-        {
-          "key": "5A. City",
-          "value": "6A. State: 7A: Postal Code: 8A. Country:",
-          "bbox": {
-            "Left": 0.05254901960784314,
-            "Top": 0.7654545454545455,
-            "Width": 0.7650980392156863,
-            "Height": 0.010303030303030258
-          }
-        },
-        {
-          "key": "9A. Primary Telephone",
-          "value": "10A. Secondary Telephone: | 11A. Email Address:",
-          "bbox": {
-            "Left": 0.05254901960784314,
-            "Top": 0.8006060606060607,
-            "Width": 0.5776470588235294,
-            "Height": 0.012727272727272698
-          }
-        },
-        {
-          "key": "IMPORTANT",
-          "value": "ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:",
-          "bbox": {
-            "Left": 0.052941176470588235,
-            "Top": 0.8369696969696969,
-            "Width": 0.736078431372549,
-            "Height": 0.023636363636363678
-          }
-        },
-        {
-          "key": "13A. Citizenship",
-          "value": "14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)",
-          "bbox": {
-            "Left": 0.05254901960784314,
-            "Top": 0.8803030303030303,
-            "Width": 0.8862745098039215,
-            "Height": 0.010303030303030258
           }
         }
       ],
@@ -605,11 +604,19 @@
         {
           "rows": [
             [
-              "PO Box 240358",
+              "DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167",
               ""
             ],
             [
-              "Apple Valley, MN 55124",
+              "e WorldTrips” WorldTrips",
+              ""
+            ],
+            [
+              "Box No. 2005",
+              ""
+            ],
+            [
+              "Farmington Hills. Ml 48333-2005",
               ""
             ],
             [
@@ -621,19 +628,23 @@
               ""
             ],
             [
-              "16A. Are you a full-time student? [J] Yes [No - If YES, please provide the following:",
+              "16A. Are you a full-time student? [d Yes [No - If YES, please provide the following:",
               ""
             ],
             [
-              "Name of School:",
+              "Name of School: winchester High School",
               ""
             ],
             [
-              "Address of School:",
+              "Address of School: 80 Skillings Road",
               ""
             ],
             [
               "City: Postal Code: Country:",
+              ""
+            ],
+            [
+              "winchester 01890 USA",
               ""
             ],
             [
@@ -654,11 +665,11 @@
         {
           "rows": [
             [
-              "17A. Are youemployed? []Yes [JNo",
+              "17A. Are you employed? [Yes {[kjNo",
               ""
             ],
             [
-              "18A. Do you have any other [Yes coverage ([JNo (medical, indemnity, or liability), other than that provided by WorldTrips, which might help cover",
+              "18A. Do you have any other [Yes coverage [QJNo (medical, indemnity, or liability), other than that provided by WorldTrips, which might help cover",
               ""
             ]
           ],
@@ -681,10 +692,6 @@
             [
               "2B. Please provide as detailed as possible (including dates, times, locations) of incident:",
               ""
-            ],
-            [
-              "Page 2 of 9",
-              ""
             ]
           ],
           "has_header": true
@@ -692,47 +699,25 @@
       ],
       "form_fields": [
         {
-          "label": "Name of School:",
-          "value": "",
-          "has_value": false,
-          "bbox": {
-            "Left": 0.05254901960784314,
-            "Top": 0.1621212121212121,
-            "Width": 0.11019607843137255,
-            "Height": 0.008181818181818179
-          }
-        },
-        {
-          "label": "Address of School:",
-          "value": "",
-          "has_value": false,
-          "bbox": {
-            "Left": 0.05215686274509804,
-            "Top": 0.1984848484848485,
-            "Width": 0.12588235294117647,
-            "Height": 0.008181818181818179
-          }
-        },
-        {
           "label": "City: Postal Code: Country:",
-          "value": "",
-          "has_value": false,
+          "value": "winchester",
+          "has_value": true,
           "bbox": {
             "Left": 0.05215686274509804,
-            "Top": 0.23484848484848486,
+            "Top": 0.23363636363636364,
             "Width": 0.788235294117647,
-            "Height": 0.010303030303030314
+            "Height": 0.012727272727272726
           }
         },
         {
-          "label": "17A. Are youemployed? []Yes [JNo",
+          "label": "17A. Are you employed? [Yes {[kjNo",
           "value": "",
           "has_value": false,
           "bbox": {
             "Left": 0.05215686274509804,
             "Top": 0.34545454545454546,
             "Width": 0.2654901960784314,
-            "Height": 0.010303030303030314
+            "Height": 0.010606060606060619
           }
         },
         {
@@ -760,6 +745,16 @@
       ],
       "key_value_pairs": [
         {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.02862745098039216,
+            "Top": 0.014848484848484849,
+            "Width": 0.4031372549019608,
+            "Height": 0.009393939393939394
+          }
+        },
+        {
           "key": "PART A",
           "value": "CLAIMANT INFORMATION (Continued)",
           "bbox": {
@@ -770,13 +765,33 @@
           }
         },
         {
+          "key": "Name of School",
+          "value": "winchester High School",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.1621212121212121,
+            "Width": 0.24705882352941172,
+            "Height": 0.02303030303030304
+          }
+        },
+        {
+          "key": "Address of School",
+          "value": "80 Skillings Road",
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.1984848484848485,
+            "Width": 0.25411764705882356,
+            "Height": 0.018181818181818188
+          }
+        },
+        {
           "key": "City",
           "value": "Postal Code: Country:",
           "bbox": {
             "Left": 0.05215686274509804,
-            "Top": 0.23484848484848486,
+            "Top": 0.23363636363636364,
             "Width": 0.788235294117647,
-            "Height": 0.010303030303030314
+            "Height": 0.012727272727272726
           }
         },
         {
@@ -801,17 +816,6 @@
         }
       ],
       "checkboxes": [
-        {
-          "text": "[]Yes",
-          "checked": false,
-          "value": "",
-          "bbox": {
-            "Left": 0.2227450980392157,
-            "Top": 0.34545454545454546,
-            "Width": 0.038431372549019606,
-            "Height": 0.01
-          }
-        },
         {
           "text": "[]",
           "checked": false,
@@ -843,13 +847,18 @@
         {
           "rows": [
             [
-              "PO Box 240358",
+              "DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167",
               ""
             ],
             [
-              "Apple Valley. MN 55124",
+              "S WorldTrips 4 ® WorldTrips",
               ""
-            ],
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
             [
               "800-605-2282 / 1-317-262-2132",
               ""
@@ -865,6 +874,23 @@
             [
               "Onset of illness or date and time of injury:",
               "If accident, location of that accident (please be as specific as possible):"
+            ],
+            [
+              "July 8h (E N/A",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Fever, headaches, GI issues, Dizziness",
+              ""
+            ],
+            [
+              "2C. Have you ever had or been treated for the same kind of illness or injury? [Yes [No - If YES, please provide the following:",
+              ""
             ]
           ],
           "has_header": true
@@ -884,7 +910,7 @@
               ""
             ],
             [
-              "3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo",
+              "3C. If in an accident, was it involving a motorized vehicle? [Yes {[k]No",
               ""
             ]
           ],
@@ -897,7 +923,7 @@
               ""
             ],
             [
-              "4C. Have OlYes you had (CINo any ailments, If YES, diseases, please provide illnesses, the conditions, following: or injuries, or have you taken any medications during the last 2 years?",
+              "4C. Have OlYes you had K&INo any ailments, If YES, diseases, please provide illnesses, the conditions, following: or injuries, or have you taken any medications during the last 2 years?",
               ""
             ]
           ],
@@ -914,7 +940,11 @@
               ""
             ],
             [
-              "5C. Was the incident related to your employment? (Yes [No If YES, please provide the following:",
+              "if additional lines are needed, continue answers in the section titled “Supplement B - Iliness or Injury”",
+              ""
+            ],
+            [
+              "5C. Was the incident related to your employment? ClYes JNo _ If YES, please provide the following:",
               ""
             ]
           ],
@@ -934,7 +964,7 @@
           }
         },
         {
-          "label": "3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo",
+          "label": "3C. If in an accident, was it involving a motorized vehicle? [Yes {[k]No",
           "value": "YES, Insurance",
           "has_value": true,
           "bbox": {
@@ -950,7 +980,7 @@
           "has_value": false,
           "bbox": {
             "Left": 0.05137254901960785,
-            "Top": 0.8115151515151515,
+            "Top": 0.8266666666666667,
             "Width": 0.543921568627451,
             "Height": 0.009696969696969648
           }
@@ -961,7 +991,7 @@
           "has_value": false,
           "bbox": {
             "Left": 0.05137254901960785,
-            "Top": 0.8524242424242424,
+            "Top": 0.8675757575757576,
             "Width": 0.11725490196078432,
             "Height": 0.009696969696969648
           }
@@ -972,13 +1002,23 @@
           "has_value": false,
           "bbox": {
             "Left": 0.4647058823529412,
-            "Top": 0.8933333333333333,
+            "Top": 0.9084848484848485,
             "Width": 0.07843137254901955,
             "Height": 0.007575757575757569
           }
         }
       ],
       "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-622 1-461 D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.029019607843137254,
+            "Top": 0.013636363636363636,
+            "Width": 0.4027450980392157,
+            "Height": 0.012121212121212121
+          }
+        },
         {
           "key": "PART C",
           "value": "MEDICAL INFORMATION",
@@ -1014,7 +1054,7 @@
           "value": "Employer Telephone:",
           "bbox": {
             "Left": 0.05137254901960785,
-            "Top": 0.8115151515151515,
+            "Top": 0.8266666666666667,
             "Width": 0.543921568627451,
             "Height": 0.009696969696969648
           }
@@ -1029,13 +1069,18 @@
         {
           "rows": [
             [
-              "PO Box 240358",
+              "DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167",
               ""
             ],
             [
-              "Apple Valley. MN 55124",
+              "S WorldTrips 4 ® WorldTrips",
               ""
-            ],
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
             [
               "800-605-2282 / 1-317-262-2132",
               ""
@@ -1063,11 +1108,49 @@
         {
           "rows": [
             [
+              "the date signed:",
+              ""
+            ],
+            [
+              "tlyas D351 Malik PACKS a",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
               "Print Name Date (MM/DD/YY)",
               ""
             ],
             [
-              "insurer INDIANA files LAW statement REQUIRES of US claim TO NOTIFY containing YOU OF false, THE incomplete, FOLLOWING: A misleading person who information knowingly commits and with intent felony. to defraud an",
+              "2D. ASSIGNMENT OF BENEFITS AUTHORIZATION",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "service NOTE: “2D. provider Assignment and does of not Benefits apply Authorization” to claims that only have applies already been to claims paid that for. Failure are submitted to sign below directly to WorldTrips result in delay by a in",
+              ""
+            ],
+            [
+              "payment to the provider. may a",
+              ""
+            ],
+            [
+              "authorize payment of medical benefits to the doctor or other supplier of services submitting the attached bills.",
+              ""
+            ],
+            [
+              "as DocuSigned Mali by: 9/5/2023",
+              ""
+            ],
+            [
+              "Signature of insured Date (MM/DD/YY)",
               ""
             ]
           ],
@@ -1096,9 +1179,30 @@
             "Width": 0.11294117647058823,
             "Height": 0.010909090909090924
           }
+        },
+        {
+          "label": "2D. ASSIGNMENT OF BENEFITS AUTHORIZATION",
+          "value": "",
+          "has_value": false,
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.4178787878787879,
+            "Width": 0.3941176470588236,
+            "Height": 0.009696969696969704
+          }
         }
       ],
       "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-622 1-461 D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.029019607843137254,
+            "Top": 0.013636363636363636,
+            "Width": 0.4027450980392157,
+            "Height": 0.012121212121212121
+          }
+        },
         {
           "key": "PART D",
           "value": "MEDICAL RECORD AUTHORIZATION",
@@ -1107,6 +1211,16 @@
             "Top": 0.11666666666666667,
             "Width": 0.41725490196078435,
             "Height": 0.011818181818181811
+          }
+        },
+        {
+          "key": "| as DocuSigned Mali by",
+          "value": "9/5/2023",
+          "bbox": {
+            "Left": 0.09607843137254903,
+            "Top": 0.543939393939394,
+            "Width": 0.64,
+            "Height": 0.035757575757575655
           }
         }
       ],
@@ -1119,11 +1233,11 @@
         {
           "rows": [
             [
-              "PO Box 240358",
+              "Box No. 2005",
               ""
             ],
             [
-              "Apple Valley. MN 55124",
+              "Farmington Hills. Ml 48333-2005",
               ""
             ],
             [
@@ -1131,7 +1245,7 @@
               ""
             ],
             [
-              "SUPPLEMENT A — CLAIM ITEMIZATION FORM",
+              "SUPPLEMENT A — NON-U.S. CLAIM ITEMIZATION FORM",
               ""
             ]
           ],
@@ -1144,15 +1258,36 @@
               ""
             ],
             [
-              "Page 5 of 9",
-              ""
+              "07/09/23 ACIBADEM ospital Examination . . and",
+              "TL Turkey 4590.599"
             ]
           ],
           "has_header": true
         }
       ],
       "form_fields": [],
-      "key_value_pairs": [],
+      "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.029019607843137254,
+            "Top": 0.013636363636363636,
+            "Width": 0.4027450980392157,
+            "Height": 0.012424242424242426
+          }
+        },
+        {
+          "key": "07/09/23 ACIBADEM ospital",
+          "value": "virus . Medication TL Turkey 458.35",
+          "bbox": {
+            "Left": 0.06470588235294118,
+            "Top": 0.3206060606060606,
+            "Width": 0.8490196078431372,
+            "Height": 0.022727272727272707
+          }
+        }
+      ],
       "checkboxes": []
     },
     {
@@ -1162,11 +1297,11 @@
         {
           "rows": [
             [
-              "PO Box 240358",
+              "Box No. 2005",
               ""
             ],
             [
-              "Apple Valley. MN 55124",
+              "Farmington Hills. Ml 48333-2005",
               ""
             ],
             [
@@ -1174,7 +1309,87 @@
               ""
             ],
             [
-              "SUPPLEMENT B — PAYMENT AUTHORIZATION AGREEMENT FORM",
+              "SUPPLEMENT B — ILLNESS OR INJURY",
+              ""
+            ],
+            [
+              "Use the additional form fields below if needed for question 4C.",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Name/ Description of Date(s) Ph ysician . N Name Ph ysician . Add ress Ph ysician . Teleph Telephone",
+              ""
+            ],
+            [
+              "Condition or Medication (MM/DD/YY)",
+              ""
+            ],
+            [
+              "Page 6 of 10",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [],
+      "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.029019607843137254,
+            "Top": 0.014848484848484849,
+            "Width": 0.4027450980392157,
+            "Height": 0.009393939393939394
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 7,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167",
+              ""
+            ],
+            [
+              "S WorldTrips 4 ® WorldTrips",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "SUPPLEMENT C — PAYMENT AUTHORIZATION AGREEMENT FORM",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "The financial insured institution hereby authorizes named below. WORLDTRIPS It is also acknowledged to initiate credit that entries the origination to the account of WIRE indicated transactions below to at the the specified depository account",
+              ""
+            ],
+            [
+              "must comply with the provisions of U.S. law.",
               ""
             ]
           ],
@@ -1184,47 +1399,26 @@
           "rows": [
             [
               "1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):",
-              "",
-              "",
+              ""
+            ],
+            [
+              "Raheel Malik razmalik@gmail.com",
               ""
             ],
             [
               "4. Beneficiary Address:",
-              "",
-              "",
               ""
             ],
             [
-              "5. City: eee 7. Postal Code: 8. Country:",
-              "",
-              "",
+              "69 Sylvester Avenue",
               ""
             ],
             [
-              "to REQUIRED be made SIGNATURE either to FOR based PAYMENT the information AUTHORIZATION",
-              "have provided AGREEMENT this FORM form PROCESSING: directly to the",
-              "hereby third-party authorize",
-              "have payment designated of benefits in the"
-            ]
-          ],
-          "has_header": true
-        },
-        {
-          "rows": [
-            [
-              "Printed Name of the Party Completing Form",
+              "5. City: 6. State: 7. Postal Code: 8. Country:",
               ""
             ],
             [
-              "Insured Signature Date (MM/DD/YY)",
-              ""
-            ],
-            [
-              "Payment Type: (1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)",
-              ""
-            ],
-            [
-              "Special notes regarding international wires:",
+              "Winchester . MA 02890 USA",
               ""
             ]
           ],
@@ -1238,153 +1432,6 @@
             ],
             [
               "c) Great Britain - - wires in US dollars must have a bank account# and a Sort Code (6 digits)",
-              ""
-            ],
-            [
-              "Domestic Payments (U.S. Banks)",
-              ""
-            ],
-            [
-              "There number are to two identify methods for bank bank-to-bank will differ depending electronic payments: which payment Wire Transfer method and is used. Automated Clearing House (ACH) routing",
-              ""
-            ]
-          ],
-          "has_header": true
-        },
-        {
-          "rows": [
-            [
-              "35. Account Number: 36. Checking Account: [] Savings Account: [J",
-              ""
-            ],
-            [
-              "Page 6 of 9",
-              ""
-            ]
-          ],
-          "has_header": true
-        }
-      ],
-      "form_fields": [
-        {
-          "label": "4. Beneficiary Address:",
-          "value": "",
-          "has_value": false,
-          "bbox": {
-            "Left": 0.05176470588235294,
-            "Top": 0.24393939393939393,
-            "Width": 0.14588235294117646,
-            "Height": 0.009696969696969676
-          }
-        },
-        {
-          "label": "Special notes regarding international wires:",
-          "value": "a) WorldTrips",
-          "has_value": true,
-          "bbox": {
-            "Left": 0.05333333333333334,
-            "Top": 0.5772727272727273,
-            "Width": 0.30117647058823527,
-            "Height": 0.010909090909090868
-          }
-        }
-      ],
-      "key_value_pairs": [
-        {
-          "key": "1. Beneficiary Name",
-          "value": "2. Home Telephone (if applicable): 3. Email Address (if applicable):",
-          "bbox": {
-            "Left": 0.05176470588235294,
-            "Top": 0.20303030303030303,
-            "Width": 0.8121568627450981,
-            "Height": 0.009696969696969704
-          }
-        },
-        {
-          "key": "5. City",
-          "value": "eee 7. Postal Code: 8. Country:",
-          "bbox": {
-            "Left": 0.05176470588235294,
-            "Top": 0.2793939393939394,
-            "Width": 0.6847058823529413,
-            "Height": 0.042121212121212115
-          }
-        },
-        {
-          "key": "Payment Type",
-          "value": "(1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)",
-          "bbox": {
-            "Left": 0.05215686274509804,
-            "Top": 0.5363636363636364,
-            "Width": 0.7811764705882352,
-            "Height": 0.011818181818181839
-          }
-        },
-        {
-          "key": "29. Account Holder Name",
-          "value": "30. Account Holder Address: 31. Account Holder City:",
-          "bbox": {
-            "Left": 0.05254901960784314,
-            "Top": 0.8193939393939393,
-            "Width": 0.739607843137255,
-            "Height": 0.009696969696969648
-          }
-        },
-        {
-          "key": "32. Account Holder State",
-          "value": "33. Account Holder Zip Code: 34. Bank Routing Number (9 digits):",
-          "bbox": {
-            "Left": 0.052941176470588235,
-            "Top": 0.8603030303030303,
-            "Width": 0.8168627450980392,
-            "Height": 0.009696969696969648
-          }
-        },
-        {
-          "key": "35. Account Number",
-          "value": "36. Checking Account: [] Savings Account: [J",
-          "bbox": {
-            "Left": 0.052941176470588235,
-            "Top": 0.9003030303030303,
-            "Width": 0.7686274509803921,
-            "Height": 0.010000000000000009
-          }
-        }
-      ],
-      "checkboxes": [
-        {
-          "text": "[]",
-          "checked": false,
-          "value": "",
-          "bbox": {
-            "Left": 0.6066666666666667,
-            "Top": 0.9003030303030303,
-            "Width": 0.012941176470588235,
-            "Height": 0.01
-          }
-        }
-      ]
-    },
-    {
-      "page": 7,
-      "sections": [],
-      "tables": [
-        {
-          "rows": [
-            [
-              "PO Box 240358",
-              ""
-            ],
-            [
-              "Apple Valley, MN 55124",
-              ""
-            ],
-            [
-              "800-605-2282 / 1-317-262-2132",
-              ""
-            ],
-            [
-              "SUPPLEMENT B: PAYMENT FORMS (Continued)",
               ""
             ],
             [
@@ -1405,7 +1452,289 @@
               ""
             ],
             [
-              "PARENT / GUARDIAN OR THIRD-PARTY PAYMENT AUTHORIZATION",
+              "Page 7 of 10",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [
+        {
+          "label": "4. Beneficiary Address:",
+          "value": "69",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.24393939393939393,
+            "Width": 0.14588235294117646,
+            "Height": 0.009696969696969676
+          }
+        },
+        {
+          "label": "Special notes regarding international wires:",
+          "value": "a) WorldTrips",
+          "has_value": true,
+          "bbox": {
+            "Left": 0.05333333333333334,
+            "Top": 0.38606060606060605,
+            "Width": 0.30117647058823527,
+            "Height": 0.010909090909090924
+          }
+        }
+      ],
+      "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-622 1-461 D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.029019607843137254,
+            "Top": 0.013636363636363636,
+            "Width": 0.4027450980392157,
+            "Height": 0.012121212121212121
+          }
+        },
+        {
+          "key": "1. Beneficiary Name",
+          "value": "2. Home Telephone (if applicable): 3. Email Address (if applicable):",
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.20303030303030303,
+            "Width": 0.8121568627450981,
+            "Height": 0.009696969696969704
+          }
+        },
+        {
+          "key": "5. City",
+          "value": "6. State: 7. Postal Code: 8. Country:",
+          "bbox": {
+            "Left": 0.05176470588235294,
+            "Top": 0.28484848484848485,
+            "Width": 0.6847058823529413,
+            "Height": 0.009696969696969704
+          }
+        },
+        {
+          "key": "Payment Type",
+          "value": "{&] Check (Complete Above Section) [) Wire/ACH Transfer (Complete Applicable Section Below)",
+          "bbox": {
+            "Left": 0.05215686274509804,
+            "Top": 0.34363636363636363,
+            "Width": 0.7811764705882352,
+            "Height": 0.011818181818181839
+          }
+        },
+        {
+          "key": "9. Bank Name",
+          "value": "10. Bank City: 11. Bank Country:",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.5624242424242424,
+            "Width": 0.696078431372549,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "key": "12. Swift Code",
+          "value": "13. Account Name (Not Payee Name): 14. Account Holder Address:",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.6033333333333334,
+            "Width": 0.7650980392156863,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "key": "15. Account Holder City",
+          "value": "16. Account Holder Providence: 17. Account Holder Country:",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.6442424242424243,
+            "Width": 0.7619607843137255,
+            "Height": 0.009696969696969648
+          }
+        },
+        {
+          "key": "18. Bank Account Number",
+          "value": "19. IBAN Number (if applicable)",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.6851515151515152,
+            "Width": 0.6564705882352941,
+            "Height": 0.009999999999999898
+          }
+        },
+        {
+          "key": "20. Bank Name",
+          "value": "21. Bank City: 22. Bank State:",
+          "bbox": {
+            "Left": 0.05254901960784314,
+            "Top": 0.8242424242424242,
+            "Width": 0.6839215686274509,
+            "Height": 0.009696969696969648
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 8,
+      "sections": [
+        {
+          "title": "THIRD PARTY PAYMENT FORM",
+          "content": [
+            {
+              "text": "details Please complete to whom this benefit section should if payment be paid is to and be sign made to to indicate a third authorization party other than for the to insured. reimburse Please this provide the name and",
+              "confidence": 95.71794871794872,
+              "bbox": {
+                "Left": 0.05843137254901961,
+                "Top": 0.5596969696969697,
+                "Width": 0.8384313725490196,
+                "Height": 0.024242424242424288
+              }
+            },
+            {
+              "text": "any us person.",
+              "confidence": 96.0,
+              "bbox": {
+                "Left": 0.17176470588235293,
+                "Top": 0.5754545454545454,
+                "Width": 0.6341176470588236,
+                "Height": 0.00848484848484854
+              }
+            },
+            {
+              "text": "2. Address:",
+              "confidence": 95.0,
+              "bbox": {
+                "Left": 0.05176470588235294,
+                "Top": 0.64,
+                "Width": 0.06901960784313727,
+                "Height": 0.007575757575757569
+              }
+            },
+            {
+              "text": "3. City: eee 5. Postal Code: 6. Country:",
+              "confidence": 85.875,
+              "bbox": {
+                "Left": 0.05215686274509804,
+                "Top": 0.6754545454545454,
+                "Width": 0.723921568627451,
+                "Height": 0.041818181818181865
+              }
+            },
+            {
+              "text": "| authorize payment of benefits to the third party listed above.",
+              "confidence": 95.72727272727273,
+              "bbox": {
+                "Left": 0.04549019607843137,
+                "Top": 0.7263636363636363,
+                "Width": 0.42352941176470593,
+                "Height": 0.010606060606060619
+              }
+            },
+            {
+              "text": "Printed Name of the Party Completing Form",
+              "confidence": 95.57142857142857,
+              "bbox": {
+                "Left": 0.07725490196078431,
+                "Top": 0.8093939393939394,
+                "Width": 0.27999999999999997,
+                "Height": 0.009696969696969648
+              }
+            },
+            {
+              "text": "Signature Date (MM/DD/YY)",
+              "confidence": 95.66666666666667,
+              "bbox": {
+                "Left": 0.07725490196078431,
+                "Top": 0.8760606060606061,
+                "Width": 0.731764705882353,
+                "Height": 0.009696969696969648
+              }
+            },
+            {
+              "text": "Page 8 of 10",
+              "confidence": 95.75,
+              "bbox": {
+                "Left": 0.045098039215686274,
+                "Top": 0.9557575757575758,
+                "Width": 0.07490196078431371,
+                "Height": 0.009696969696969648
+              }
+            }
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "rows": [
+            [
+              "DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167",
+              ""
+            ],
+            [
+              "— WorldTrips 4 ® WorldTrips",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "800-605-2282 / 1-317-262-2132",
+              ""
+            ],
+            [
+              "SUPPLEMENT C: PAYMENT FORMS (Continued)",
+              ""
+            ],
+            [
+              "Domestic Payments (U.S. Banks)",
+              ""
+            ],
+            [
+              "There number are to two identify methods for bank bank-to-bank will differ depending electronic payments: which payment Wire Transfer method and is used. Automated Clearing House (ACH) routing",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "ACH (Automated Clearing House) — U.S. Bank Only",
+              ""
+            ],
+            [
+              "26. Bank Name: 27. Bank City: 28. Bank State",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "35. Account Number: 36. Checking Account: [J Savings Account: [J",
+              ""
+            ],
+            [
+              "Ilyas Malik [ts fei 9/5/2023",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "Printed Name of the Insured Person Insured Signature Date (MM/DD/YY)",
+              ""
+            ],
+            [
+              "THIRD PARTY PAYMENT FORM",
               ""
             ]
           ],
@@ -1418,7 +1747,19 @@
               ""
             ],
             [
-              "Page 7 of 9",
+              "authorize payment of benefits to the third party listed above.",
+              ""
+            ],
+            [
+              "Printed Name of the Party Completing Form",
+              ""
+            ],
+            [
+              "Signature Date (MM/DD/YY)",
+              ""
+            ],
+            [
+              "Page 8 of 10",
               ""
             ]
           ],
@@ -1432,7 +1773,7 @@
           "has_value": false,
           "bbox": {
             "Left": 0.05176470588235294,
-            "Top": 0.7515151515151515,
+            "Top": 0.64,
             "Width": 0.06901960784313727,
             "Height": 0.007575757575757569
           }
@@ -1440,33 +1781,63 @@
       ],
       "key_value_pairs": [
         {
-          "key": "SUPPLEMENT B",
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.02862745098039216,
+            "Top": 0.014848484848484849,
+            "Width": 0.4031372549019608,
+            "Height": 0.009393939393939394
+          }
+        },
+        {
+          "key": "SUPPLEMENT C",
           "value": "PAYMENT FORMS (Continued)",
           "bbox": {
             "Left": 0.04588235294117647,
             "Top": 0.11151515151515151,
-            "Width": 0.43529411764705883,
+            "Width": 0.4356862745098039,
             "Height": 0.014242424242424251
           }
         },
         {
-          "key": "of Important",
-          "value": "Intermediary If the receiving (correspondent) bank resides bank outside in order the to United receive States. wire transfer please inquire from from U.S. your bank. foreign If this is bank true, if then they please require obtain the use",
+          "key": "26. Bank Name",
+          "value": "27. Bank City: 28. Bank State",
           "bbox": {
-            "Left": 0.05450980392156863,
-            "Top": 0.43242424242424243,
-            "Width": 0.8815686274509804,
-            "Height": 0.024545454545454537
+            "Left": 0.05254901960784314,
+            "Top": 0.25696969696969696,
+            "Width": 0.6803921568627451,
+            "Height": 0.009696969696969704
           }
         },
         {
-          "key": "20. Bank Name",
-          "value": "21. Bank City: 22. Bank State:",
+          "key": "29. Account Holder Name",
+          "value": "30. Account Holder Address: 31. Account Holder City:",
           "bbox": {
-            "Left": 0.05450980392156863,
-            "Top": 0.4781818181818182,
-            "Width": 0.6835294117647058,
+            "Left": 0.05254901960784314,
+            "Top": 0.29787878787878785,
+            "Width": 0.739607843137255,
             "Height": 0.009696969696969704
+          }
+        },
+        {
+          "key": "32. Account Holder State",
+          "value": "33. Account Holder Zip Code: 34. Bank Routing Number (9 digits):",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.3387878787878788,
+            "Width": 0.8168627450980392,
+            "Height": 0.009696969696969704
+          }
+        },
+        {
+          "key": "35. Account Number",
+          "value": "36. Checking Account: [J Savings Account: [J",
+          "bbox": {
+            "Left": 0.052941176470588235,
+            "Top": 0.3787878787878788,
+            "Width": 0.7690196078431372,
+            "Height": 0.010303030303030314
           }
         },
         {
@@ -1474,7 +1845,7 @@
           "value": "eee 5. Postal Code: 6. Country:",
           "bbox": {
             "Left": 0.05215686274509804,
-            "Top": 0.786969696969697,
+            "Top": 0.6754545454545454,
             "Width": 0.723921568627451,
             "Height": 0.041818181818181865
           }
@@ -1483,7 +1854,7 @@
       "checkboxes": []
     },
     {
-      "page": 8,
+      "page": 9,
       "sections": [
         {
           "title": "PROTECTED HEALTH INFORMATION",
@@ -1749,12 +2120,12 @@
               }
             },
             {
-              "text": "Page 8 of 9",
-              "confidence": 95.5,
+              "text": "Page 9 of 10",
+              "confidence": 95.0,
               "bbox": {
                 "Left": 0.045098039215686274,
                 "Top": 0.9557575757575758,
-                "Width": 0.06823529411764706,
+                "Width": 0.07490196078431371,
                 "Height": 0.009696969696969648
               }
             }
@@ -1765,11 +2136,11 @@
         {
           "rows": [
             [
-              "PO Box 240358",
+              "Box No. 2005",
               ""
             ],
             [
-              "Apple Valley. MN 55124",
+              "Farmington Hills. Ml 48333-2005",
               ""
             ],
             [
@@ -1851,7 +2222,7 @@
               ""
             ],
             [
-              "Page 8 of 9",
+              "Page 9 of 10",
               ""
             ]
           ],
@@ -1895,6 +2266,16 @@
       ],
       "key_value_pairs": [
         {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-622 1-461 D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.029019607843137254,
+            "Top": 0.013636363636363636,
+            "Width": 0.4027450980392157,
+            "Height": 0.012121212121212121
+          }
+        },
+        {
           "key": "SECTION A",
           "value": "Insured Authorizing Use and/or Disclosure",
           "bbox": {
@@ -1902,16 +2283,6 @@
             "Top": 0.33636363636363636,
             "Width": 0.4513725490196079,
             "Height": 0.011818181818181839
-          }
-        },
-        {
-          "key": "SECTION The information B",
-          "value": "The to be Use used and/or and/or Disclosure disclosed is Being (select Authorized all that apply):",
-          "bbox": {
-            "Left": 0.05215686274509804,
-            "Top": 0.43424242424242426,
-            "Width": 0.4819607843137256,
-            "Height": 0.025454545454545452
           }
         },
         {
@@ -1928,23 +2299,28 @@
       "checkboxes": []
     },
     {
-      "page": 9,
+      "page": 10,
       "sections": [],
       "tables": [
         {
           "rows": [
+            [
+              "DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167",
+              "",
+              ""
+            ],
             [
               "e WorldTrips” WorldTrips",
               "",
               ""
             ],
             [
-              "PO Box 240358",
+              "Box No. 2005",
               "",
               ""
             ],
             [
-              "Apple Valley, MN 55124",
+              "Farmington Hills. Ml 48333-2005",
               "",
               ""
             ],
@@ -2034,11 +2410,11 @@
               ""
             ],
             [
-              "Personal Representative’s Name:",
+              "Personal Representative’s Name: Raheel Malik",
               ""
             ],
             [
-              "Relationship to Insured/ Certificate Holder for Whom This Authorization Applies:",
+              "Relationship to Insured/ Certificate Holder for Whom This Authorization Applies: Father",
               ""
             ],
             [
@@ -2047,22 +2423,33 @@
             ]
           ],
           "has_header": true
-        }
-      ],
-      "form_fields": [
+        },
         {
-          "label": "Personal Representative’s Name:",
-          "value": "Relationship",
-          "has_value": true,
-          "bbox": {
-            "Left": 0.04549019607843137,
-            "Top": 0.5333333333333333,
-            "Width": 0.22784313725490196,
-            "Height": 0.010909090909090868
-          }
+          "rows": [
+            [
+              "WorldTrips of insurance is on a service behalf of company the Lloyd's and underwriting a member of the members Tokio Marine of Lloyd's HCC Syndicate group of 4141, companies. which is WorldTrips managed has by HCC authority Underwriting to enter Agency, into contracts Ltd.",
+              ""
+            ],
+            [
+              "Page 10 of 10",
+              ""
+            ]
+          ],
+          "has_header": true
         }
       ],
+      "form_fields": [],
       "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.02862745098039216,
+            "Top": 0.014848484848484849,
+            "Width": 0.4031372549019608,
+            "Height": 0.009393939393939394
+          }
+        },
         {
           "key": "SUPPLEMENT D",
           "value": "AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF",
@@ -2084,6 +2471,16 @@
           }
         },
         {
+          "key": "Personal Representative’s Name",
+          "value": "Raheel Malik",
+          "bbox": {
+            "Left": 0.04549019607843137,
+            "Top": 0.5227272727272727,
+            "Width": 0.3462745098039216,
+            "Height": 0.021515151515151487
+          }
+        },
+        {
           "key": "Note",
           "value": "If requested, you must provide valid and current proof of your legal relationship as a personal representative.",
           "bbox": {
@@ -2091,6 +2488,108 @@
             "Top": 0.5878787878787879,
             "Width": 0.7968627450980391,
             "Height": 0.01090909090909098
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 11,
+      "sections": [],
+      "tables": [],
+      "form_fields": [],
+      "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.02862745098039216,
+            "Top": 0.014545454545454545,
+            "Width": 0.4031372549019608,
+            "Height": 0.009696969696969697
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 12,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167",
+              ""
+            ],
+            [
+              "Maktar Kev Matreh Kone Koy Tuter 17.04 Tuter 230.00 —",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [],
+      "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.02862745098039216,
+            "Top": 0.014848484848484849,
+            "Width": 0.4031372549019608,
+            "Height": 0.009393939393939394
+          }
+        }
+      ],
+      "checkboxes": []
+    },
+    {
+      "page": 13,
+      "sections": [],
+      "tables": [
+        {
+          "rows": [
+            [
+              "DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167",
+              ""
+            ],
+            [
+              "a vesTe ic 00000448-38C.D-3C42-E063-QAFAQSOASA0D",
+              ""
+            ]
+          ],
+          "has_header": true
+        },
+        {
+          "rows": [
+            [
+              "er eld Se Mal ee Hizrmet Tutan /",
+              ""
+            ],
+            [
+              ". - wu ARA TOPLAM/SUB TOTAL 4.250557.",
+              ""
+            ],
+            [
+              "D 7 * Onn,",
+              ""
+            ]
+          ],
+          "has_header": true
+        }
+      ],
+      "form_fields": [],
+      "key_value_pairs": [
+        {
+          "key": "DocuSign Envelope ID",
+          "value": "5208D50D-6221-461D-B926-C9BA6DF98167",
+          "bbox": {
+            "Left": 0.02862745098039216,
+            "Top": 0.014545454545454545,
+            "Width": 0.4031372549019608,
+            "Height": 0.009696969696969697
           }
         }
       ],

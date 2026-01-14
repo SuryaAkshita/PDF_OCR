@@ -4,10 +4,10 @@ PAGE 1
 
 FORM FIELDS
 --------------------------------------------------------------------------------
-  ○ 1A. Claimant's Full Name: [EMPTY]
-  ○ 2A. Gender: [EMPTY]
-  ○ 3A. Date of Birth (MM/DD/YY): [EMPTY]
-  ○ 4A. Current Mailing Address: [EMPTY]
+  ○ 1A. Ilyas Claimant's Malik Full Name: [EMPTY]
+  ○ 2A. Male Gender: [EMPTY]
+  ○ 3A. 07/03/2008 Date of Birth (MM/DD/YY): [EMPTY]
+  ✓ 4A. Mailing Address: → Current Sylvester
   ○ 5A. City: [EMPTY]
   ○ 6A. State: [EMPTY]
   ○ 8A. Country: [EMPTY]
@@ -15,20 +15,13 @@ FORM FIELDS
   ○ 10A. Secondary Telephone: [EMPTY]
   ○ 11A. Email Address: [EMPTY]
 
-  Summary: 0 filled, 10 empty
+  Summary: 1 filled, 9 empty
 
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
-  submitted NOTE: Only one form Claimant's related to Statement the incident and for Authorization which form claiming, is required additional for each Claimant's episode of Statement care. If you is have not needed. already
-  Online Submission — Go to: Paper Form — Mail to:
-  https: //www.worldtrips.com/customer-resources WorldTrips
-  https: //worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+  Online https: //service.worldtrips.com/ Submission — Go to: WorldTrips Paper Form — Mail to:
   PART A: CLAIMANT INFORMATION
-  1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):
-  5A. City: 6A. State: 7A: Postal Code: 8A. Country:
-  9A. Primary Telephone: 10A. Secondary Telephone: | 11A. Email Address:
-  IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:
-  13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)
 
 SECTIONS
 --------------------------------------------------------------------------------
@@ -47,27 +40,30 @@ FORM SUBMISSION OPTIONS
 
   If you of are the NOT methods completing below. and submitting this form online via Member Portal, you must send us the completed form using
   one
-  Online Submission — Go to: Paper Form — Mail to:
-  https://www.worldtrips.com/customer-resources WorldTrips
-  OR PO Box 240358
-  https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124
+  Online https://service.worldtrips.com/ Submission — Go to: WorldTrips Paper Form — Mail to:
+  Box No. 2005
+  Farmington Hills, Ml 48333-2005
   U.S.A
 
 QUESTIONS OR GUIDANCE
 ---------------------
 
-  claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere
-  else in the world. When can calling, please us mention the country and area code that or you are calling from.
+  also For questions call toll-free or guidance at 800-605-2282 in filling out within this form, the U.S. please collect visit https://www.worldtrips.com/claims-resource-center. at 1-317-262-2132 from anywhere else in the world. When You can
+  calling, please us mention the country and area code that or you are calling from.
   PART A: CLAIMANT INFORMATION
-  1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):
-  4A. Current Mailing Address:
+  1A. Ilyas Claimant's Malik Full Name: 2A. Male Gender: 3A. 07/03/2008 Date of Birth (MM/DD/YY):
+  4A. Current Sylvester Mailing Address:
+  69 Avenue
   5A. City: 6A. State: 7A: Postal Code: 8A. Country:
+  winchester MA 01890 USA
   9A. Primary Telephone: 10A. Secondary Telephone: | 11A. Email Address:
+  245549351 razmalik@gmail.com
   IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct | 12A. Policy Number or Certificate Number:
-  Policy ID Card. can on your or
+  Policy ID Card. can on your or 120392469
   13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)
+  USA USA England, Turkey
   * Home Country is where you principally reside & receive regular mail.
-  Page 1 of 9
+  Page 1 of 10
 
 
 TABLES
@@ -75,56 +71,77 @@ TABLES
 
 Table 1:
 
-  800-605-2282 / 1-317-262-2132                                                                                                                                                                                        |           
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
-  INDIANA insurer files LAW statement REQUIRES of US claim TO containing NOTIFY YOU OF false, THE incomplete, FOLLOWING: misleading A person who information knowingly commits and with felony. intent to defraud an   |           
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167   |           
+  -------------------------------------------------------------+-----------
+  WorldTrips* WorldTrips Box                                   |           
 
 
 Table 2:
+
+  Farmington Hills. Ml 48333-2005                                                                                                                                                                                      |           
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  800-605-2282 / 1-317-262-2132                                                                                                                                                                                        |           
+  INDIANA insurer files LAW statement REQUIRES of US claim TO containing NOTIFY YOU OF false, THE incomplete, FOLLOWING: misleading A person who information knowingly commits and with felony. intent to defraud an   |           
+
+
+Table 3:
 
   a you are an                                 |           
   ---------------------------------------------+-----------
   MEDICAL SERVICES OUTSIDE THE UNITED STATES   |           
 
 
-Table 3:
+Table 4:
 
   and the charge for each service. If you have already paid for these services, please include your receipts name, showing payment.   |           
   ------------------------------------------------------------------------------------------------------------------------------------+-----------
   FORM SUBMISSION OPTIONS                                                                                                             |           
 
 
-Table 4:
-
-  OR PO Box 240358                                                      |           
-  ----------------------------------------------------------------------+-----------
-  https://worldtrips.my.site.com/MemberPortal/ Apple Valley, MN 55124   |           
-
-
 Table 5:
 
-  QUESTIONS OR GUIDANCE                                                                                                                                                                                                                       |           
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
-  claims-process. For questions or You guidance also in filling call out toll-free this form, at 800-605-2282 please visit https://www.worldtrips.com/claims-resource-center/guide/ within the U.S. collect at 1-317-262-2132 from anywhere   |           
+  Box No. 2005                      |           
+  ----------------------------------+-----------
+  Farmington Hills, Ml 48333-2005   |           
 
 
 Table 6:
 
-  1A. Claimant's Full Name: 2A. Gender: 3A. Date of Birth (MM/DD/YY):   |                      
-  ----------------------------------------------------------------------+----------------------
-  4A. Current Mailing Address:                                          |                      
-  5A. City: 6A. State: 7A: Postal Code: 8A. Country:                    |                      
-  9A. Primary Telephone: 10A. Secondary Telephone:                      | 11A. Email Address:  
+  QUESTIONS OR GUIDANCE                                                                                                                                                                                                                             |           
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  also For questions call toll-free or guidance at 800-605-2282 in filling out within this form, the U.S. please collect visit https://www.worldtrips.com/claims-resource-center. at 1-317-262-2132 from anywhere else in the world. When You can   |           
+  calling, please us mention the country and area code that or you are calling from.                                                                                                                                                                |           
+  PART A: CLAIMANT INFORMATION                                                                                                                                                                                                                      |           
 
 
 Table 7:
 
+  1A. Ilyas Claimant's Malik Full Name: 2A. Male Gender: 3A. 07/03/2008 Date of Birth (MM/DD/YY):   |           
+  --------------------------------------------------------------------------------------------------+-----------
+  4A. Current Sylvester Mailing Address:                                                            |           
+
+
+Table 8:
+
+  5A. City: 6A. State: 7A: Postal Code: 8A. Country:   |                      
+  -----------------------------------------------------+----------------------
+  winchester MA 01890 USA                              |                      
+  9A. Primary Telephone: 10A. Secondary Telephone:     | 11A. Email Address:  
+
+
+Table 9:
+
   IMPORTANT: ID Number. You We CANNOT locate this process number your claims Policy without Document the correct    | 12A. Policy Number or Certificate Number:  
   ------------------------------------------------------------------------------------------------------------------+--------------------------------------------
-  Policy ID Card. can on your or                                                                                    |                                            
+  Policy ID Card. can on your or 120392469                                                                          |                                            
   13A. Citizenship: 14A. Home Country*: 15A. Countries Visited: (WorldTrips may request a copy of your passport.)   |                                            
-  * Home Country is where you principally reside & receive regular mail.                                            |                                            
-  Page 1 of 9                                                                                                       |                                            
+
+
+Table 10:
+
+  * Home Country is where you principally reside & receive regular mail.   |           
+  -------------------------------------------------------------------------+-----------
+  Page 1 of 10                                                             |           
 
 
 
@@ -135,25 +152,25 @@ PAGE 2
 
 FORM FIELDS
 --------------------------------------------------------------------------------
-  ○ Name of School: [EMPTY]
-  ○ Address of School: [EMPTY]
-  ○ City: Postal Code: Country: [EMPTY]
-  ○ 17A. Are youemployed? []Yes [JNo [EMPTY]
+  ✓ City: Postal Code: Country: → winchester
+  ○ 17A. Are you employed? [Yes {[kjNo [EMPTY]
   ○ YY): [EMPTY]
   ✓ 1B. Please check all you are applying for: → OO Travel 0
 
-  Summary: 1 filled, 5 empty
+  Summary: 2 filled, 2 empty
 
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
   PART A: CLAIMANT INFORMATION (Continued)
+  Name of School: winchester High School
+  Address of School: 80 Skillings Road
   City: Postal Code: Country:
   Name of Insurance Company: Policyholder: Policy Number: Effective Date (MM/DD/
   PART B: TRAVEL ASSISTANCE AND OTHER CLAIMS
 
 CHECKBOXES
 --------------------------------------------------------------------------------
-  ☐ UNCHECKED: []Yes
   ☐ UNCHECKED: []
   ☐ UNCHECKED: []
 
@@ -163,15 +180,18 @@ TABLES
 
 Table 1:
 
-  PO Box 240358                                                                                                                                |           
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167                                                                                   |           
   ---------------------------------------------------------------------------------------------------------------------------------------------+-----------
-  Apple Valley, MN 55124                                                                                                                       |           
+  e WorldTrips” WorldTrips                                                                                                                     |           
+  Box No. 2005                                                                                                                                 |           
+  Farmington Hills. Ml 48333-2005                                                                                                              |           
   800-605-2282 / 1-317-262-2132                                                                                                                |           
   PART A: CLAIMANT INFORMATION (Continued)                                                                                                     |           
-  16A. Are you a full-time student? [J] Yes [No - If YES, please provide the following:                                                        |           
-  Name of School:                                                                                                                              |           
-  Address of School:                                                                                                                           |           
+  16A. Are you a full-time student? [d Yes [No - If YES, please provide the following:                                                         |           
+  Name of School: winchester High School                                                                                                       |           
+  Address of School: 80 Skillings Road                                                                                                         |           
   City: Postal Code: Country:                                                                                                                  |           
+  winchester 01890 USA                                                                                                                         |           
   IMPORTANT - Be Sure to Attach:                                                                                                               |           
   . If in the United States, a copy of your valid, education-related visa (F-1 or J-1 visa, OPT, etc.) and/or valid 1-20 / DS2019              |           
   Proof of your full-time student status (please disregard this item only if you are submitting a copy of a valid F-1, including OPT, or J-1   |           
@@ -179,9 +199,9 @@ Table 1:
 
 Table 2:
 
-  17A. Are youemployed? []Yes [JNo                                                                                                                    |           
+  17A. Are you employed? [Yes {[kjNo                                                                                                                  |           
   ----------------------------------------------------------------------------------------------------------------------------------------------------+-----------
-  18A. Do you have any other [Yes coverage ([JNo (medical, indemnity, or liability), other than that provided by WorldTrips, which might help cover   |           
+  18A. Do you have any other [Yes coverage [QJNo (medical, indemnity, or liability), other than that provided by WorldTrips, which might help cover   |           
 
 
 Table 3:
@@ -191,7 +211,6 @@ Table 3:
   OO Travel Delay 0 Lost Checked Luggage (1 Trip Interruption                                   |           
   0 Emergency Quarantine Indemnity Benefit — Covid-19 O Other                                   |           
   2B. Please provide as detailed as possible (including dates, times, locations) of incident:   |           
-  Page 2 of 9                                                                                   |           
 
 
 
@@ -203,7 +222,7 @@ PAGE 3
 FORM FIELDS
 --------------------------------------------------------------------------------
   ○ Attending Physician’s Address: [EMPTY]
-  ✓ 3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo → YES, Insurance
+  ✓ 3C. If in an accident, was it involving a motorized vehicle? [Yes {[k]No → YES, Insurance
   ○ Employer Name: Employer Telephone: [EMPTY]
   ○ Employer Address: [EMPTY]
   ○ Postal Code: [EMPTY]
@@ -212,6 +231,7 @@ FORM FIELDS
 
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167
   PART C: MEDICAL INFORMATION
   Date Treated (MM/DD/YY): Attending Physician’s Name: Attending Physician’s Telephone:
   Insurance Company Name: Insurance Company Address: Insurance Company Telephone:
@@ -223,37 +243,51 @@ TABLES
 
 Table 1:
 
-  PO Box 240358                                                               |                                                                              
-  ----------------------------------------------------------------------------+------------------------------------------------------------------------------
-  Apple Valley. MN 55124                                                      |                                                                              
-  800-605-2282 / 1-317-262-2132                                               |                                                                              
-  PART C: MEDICAL INFORMATION                                                 |                                                                              
-  1C. If regarding illness or injury, please provide the following details:   |                                                                              
-  Onset of illness or date and time of injury:                                | If accident, location of that accident (please be as specific as possible):  
+  DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167   |           
+  ---------------------------------------------------------------+-----------
+  S WorldTrips 4 ® WorldTrips                                    |           
 
 
 Table 2:
+
+  800-605-2282 / 1-317-262-2132                                               |                                                                              
+  ----------------------------------------------------------------------------+------------------------------------------------------------------------------
+  PART C: MEDICAL INFORMATION                                                 |                                                                              
+  1C. If regarding illness or injury, please provide the following details:   |                                                                              
+  Onset of illness or date and time of injury:                                | If accident, location of that accident (please be as specific as possible):  
+  July 8h (E N/A                                                              |                                                                              
+
+
+Table 3:
+
+  Fever, headaches, GI issues, Dizziness                                                                                           |           
+  ---------------------------------------------------------------------------------------------------------------------------------+-----------
+  2C. Have you ever had or been treated for the same kind of illness or injury? [Yes [No - If YES, please provide the following:   |           
+
+
+Table 4:
 
   Date Treated (MM/DD/YY): Attending Physician’s Name: Attending Physician’s Telephone:   |           
   ----------------------------------------------------------------------------------------+-----------
   Attending Physician’s Address:                                                          |           
   we =_ _                                                                                 |           
-  3C. If in an accident, was it involving a motorized vehicle? [Yes ([JNo                 |           
+  3C. If in an accident, was it involving a motorized vehicle? [Yes {[k]No                |           
 
 
-Table 3:
+Table 5:
 
   Insurance Company Name: Insurance Company Address: Insurance Company Telephone:                                                                                                             |           
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
-  4C. Have OlYes you had (CINo any ailments, If YES, diseases, please provide illnesses, the conditions, following: or injuries, or have you taken any medications during the last 2 years?   |           
+  4C. Have OlYes you had K&INo any ailments, If YES, diseases, please provide illnesses, the conditions, following: or injuries, or have you taken any medications during the last 2 years?   |           
 
 
-Table 4:
+Table 6:
 
   Name/ Description of (MM/DD/YY) Date(s) Ph ysician . N Name Ph ysician . Add ress Ph ysician _. Teleph Telephone   |           
   -------------------------------------------------------------------------------------------------------------------+-----------
   Condition or Medication                                                                                            |           
-  5C. Was the incident related to your employment? (Yes [No If YES, please provide the following:                    |           
+  if additional lines are needed, continue answers in the section titled “Supplement B - Iliness or Injury”          |           
+  5C. Was the incident related to your employment? ClYes JNo _ If YES, please provide the following:                 |           
 
 
 
@@ -266,12 +300,15 @@ FORM FIELDS
 --------------------------------------------------------------------------------
   ✓ 1D. VERIFICATION → | verify
   ✓ the date signed: → request. A copy of this
+  ○ 2D. ASSIGNMENT OF BENEFITS AUTHORIZATION [EMPTY]
 
-  Summary: 2 filled, 0 empty
+  Summary: 2 filled, 1 empty
 
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167
   PART D: MEDICAL RECORD AUTHORIZATION
+  | as DocuSigned Mali by: 9/5/2023
 
 
 TABLES
@@ -279,25 +316,47 @@ TABLES
 
 Table 1:
 
-  PO Box 240358                          |           
-  ---------------------------------------+-----------
-  Apple Valley. MN 55124                 |           
-  800-605-2282 / 1-317-262-2132          |           
-  PART D: MEDICAL RECORD AUTHORIZATION   |           
+  DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167   |           
+  ---------------------------------------------------------------+-----------
+  S WorldTrips 4 ® WorldTrips                                    |           
 
 
 Table 2:
+
+  800-605-2282 / 1-317-262-2132          |           
+  ---------------------------------------+-----------
+  PART D: MEDICAL RECORD AUTHORIZATION   |           
+
+
+Table 3:
 
   verify licensed that all doctor, information practitioner contained of the in healing this form arts, is true, hospital, correct, clinic, and health-related complete to facility, the best pharmacy, of my knowledge. government   | authorize  
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------
   any insurance company, group policyholder, employee, or benefit plan administrator having information as to the care, agency, advice,                                                                                               |            
 
 
-Table 3:
+Table 4:
 
-  Print Name Date (MM/DD/YY)                                                                                                                                                                                           |           
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
-  insurer INDIANA files LAW statement REQUIRES of US claim TO NOTIFY containing YOU OF false, THE incomplete, FOLLOWING: A misleading person who information knowingly commits and with intent felony. to defraud an   |           
+  the date signed:           |           
+  ---------------------------+-----------
+  tlyas D351 Malik PACKS a   |           
+
+
+Table 5:
+
+  Print Name Date (MM/DD/YY)                 |           
+  -------------------------------------------+-----------
+  2D. ASSIGNMENT OF BENEFITS AUTHORIZATION   |           
+
+
+Table 6:
+
+  service NOTE: “2D. provider Assignment and does of not Benefits apply Authorization” to claims that only have applies already been to claims paid that for. Failure are submitted to sign below directly to WorldTrips result in delay by a in   |           
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  payment to the provider. may a                                                                                                                                                                                                                   |           
+  authorize payment of medical benefits to the doctor or other supplier of services submitting the attached bills.                                                                                                                                 |           
+  as DocuSigned Mali by: 9/5/2023                                                                                                                                                                                                                  |           
+  Signature of insured Date (MM/DD/YY)                                                                                                                                                                                                             |           
 
 
 
@@ -306,33 +365,43 @@ Table 3:
 PAGE 5
 ================================================================================
 
-— W orldTrips . ® . WorldTrips
-PO Box 240358
-Apple Valley. MN 55124
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+  07/09/23 ACIBADEM ospital: virus . Medication TL Turkey 458.35
+
+DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+S WorldTrips WorldTrips
+Box No. 2005
+Farmington Hills. Ml 48333-2005
 800-605-2282 / 1-317-262-2132
-SUPPLEMENT A — CLAIM ITEMIZATION FORM
-This include form is required of for the itemization invoice / receipt of expenses for all being claimed being for listed. reimbursement Any by requesting the insured. payment Please ensure directly that to the
-you provider, please a copy indicate with “Pay to Provider”. If expenses you have no expenses to claim, expenses please list “N/A”.
+SUPPLEMENT A — NON-U.S. CLAIM ITEMIZATION FORM
+This within form the is U.S. required and these for medical charges charges have already incurred been outside paid for, the please U.S. If list you them are filing below a otherwise claim for medical charges feel free incurred to skip
+Supplement A. you may
 (MM/DD/YY) Date of Service Provider Diagnosis 8 Services Description of Currenc y Count ry Amount Charged
-Page 5 of 9
+07/09/23 ACIBADEM ospital Examination . . and | TL Turkey 4590.599
+Lira) (Turkish
+07/09/23 ACIBADEM ospital : virus . Medication TL Turkey 458.35
+Lira) (Turkish
+Page 5 of 10 G
 
 TABLES
 --------------------------------------------------------------------------------
 
 Table 1:
 
-  PO Box 240358                           |           
-  ----------------------------------------+-----------
-  Apple Valley. MN 55124                  |           
-  800-605-2282 / 1-317-262-2132           |           
-  SUPPLEMENT A — CLAIM ITEMIZATION FORM   |           
+  Box No. 2005                                     |           
+  -------------------------------------------------+-----------
+  Farmington Hills. Ml 48333-2005                  |           
+  800-605-2282 / 1-317-262-2132                    |           
+  SUPPLEMENT A — NON-U.S. CLAIM ITEMIZATION FORM   |           
 
 
 Table 2:
 
-  (MM/DD/YY) Date of Service Provider Diagnosis 8 Services Description of Currenc y Count ry Amount Charged   |           
-  ------------------------------------------------------------------------------------------------------------+-----------
-  Page 5 of 9                                                                                                 |           
+  (MM/DD/YY) Date of Service Provider Diagnosis 8 Services Description of Currenc y Count ry Amount Charged   |                     
+  ------------------------------------------------------------------------------------------------------------+---------------------
+  07/09/23 ACIBADEM ospital Examination . . and                                                               | TL Turkey 4590.599  
 
 
 
@@ -341,71 +410,40 @@ Table 2:
 PAGE 6
 ================================================================================
 
-FORM FIELDS
---------------------------------------------------------------------------------
-  ○ 4. Beneficiary Address: [EMPTY]
-  ✓ Special notes regarding international wires: → a) WorldTrips
-
-  Summary: 1 filled, 1 empty
-
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
-  1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):
-  5. City: eee 7. Postal Code: 8. Country:
-  Payment Type: (1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)
-  29. Account Holder Name: 30. Account Holder Address: 31. Account Holder City:
-  32. Account Holder State: 33. Account Holder Zip Code: 34. Bank Routing Number (9 digits):
-  35. Account Number: 36. Checking Account: [] Savings Account: [J
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
 
-CHECKBOXES
---------------------------------------------------------------------------------
-  ☐ UNCHECKED: []
-
+DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+— W orl d Trips . ® . WorldTrips
+Box No. 2005
+Farmington Hills. Ml 48333-2005
+800-605-2282 / 1-317-262-2132
+SUPPLEMENT B — ILLNESS OR INJURY
+Use the additional form fields below if needed for question 4C.
+Name/ Description of Date(s) Ph ysician . N Name Ph ysician . Add ress Ph ysician . Teleph Telephone
+Condition or Medication (MM/DD/YY)
+Page 6 of 10
 
 TABLES
 --------------------------------------------------------------------------------
 
 Table 1:
 
-  PO Box 240358                                         |           
-  ------------------------------------------------------+-----------
-  Apple Valley. MN 55124                                |           
-  800-605-2282 / 1-317-262-2132                         |           
-  SUPPLEMENT B — PAYMENT AUTHORIZATION AGREEMENT FORM   |           
+  Box No. 2005                                                      |           
+  ------------------------------------------------------------------+-----------
+  Farmington Hills. Ml 48333-2005                                   |           
+  800-605-2282 / 1-317-262-2132                                     |           
+  SUPPLEMENT B — ILLNESS OR INJURY                                  |           
+  Use the additional form fields below if needed for question 4C.   |           
 
 
 Table 2:
 
-  1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):   |                                                                      |                                |                                             
-  --------------------------------------------------------------------------------------------+----------------------------------------------------------------------+--------------------------------+---------------------------------------------
-  4. Beneficiary Address:                                                                     |                                                                      |                                |                                             
-  5. City: eee 7. Postal Code: 8. Country:                                                    |                                                                      |                                |                                             
-  to REQUIRED be made SIGNATURE either to FOR based PAYMENT the information AUTHORIZATION     | have provided AGREEMENT this FORM form PROCESSING: directly to the   | hereby third-party authorize   | have payment designated of benefits in the  
-
-
-Table 3:
-
-  Printed Name of the Party Completing Form                                                                  |           
-  -----------------------------------------------------------------------------------------------------------+-----------
-  Insured Signature Date (MM/DD/YY)                                                                          |           
-  Payment Type: (1) Check (Complete Above Section) [ Wire/ACH Transfer (Complete Applicable Section Below)   |           
-  Special notes regarding international wires:                                                               |           
-
-
-Table 4:
-
-  b) an Mexico wires must have may a CLABE # (18 digits) are payee.                                                                                                                                  |           
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
-  c) Great Britain - - wires in US dollars must have a bank account# and a Sort Code (6 digits)                                                                                                      |           
-  Domestic Payments (U.S. Banks)                                                                                                                                                                     |           
-  There number are to two identify methods for bank bank-to-bank will differ depending electronic payments: which payment Wire Transfer method and is used. Automated Clearing House (ACH) routing   |           
-
-
-Table 5:
-
-  35. Account Number: 36. Checking Account: [] Savings Account: [J   |           
-  -------------------------------------------------------------------+-----------
-  Page 6 of 9                                                        |           
+  Name/ Description of Date(s) Ph ysician . N Name Ph ysician . Add ress Ph ysician . Teleph Telephone   |           
+  -------------------------------------------------------------------------------------------------------+-----------
+  Condition or Medication (MM/DD/YY)                                                                     |           
+  Page 6 of 10                                                                                           |           
 
 
 
@@ -416,16 +454,22 @@ PAGE 7
 
 FORM FIELDS
 --------------------------------------------------------------------------------
-  ○ 2. Address: [EMPTY]
+  ✓ 4. Beneficiary Address: → 69
+  ✓ Special notes regarding international wires: → a) WorldTrips
 
-  Summary: 0 filled, 1 empty
+  Summary: 2 filled, 0 empty
 
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
-  SUPPLEMENT B: PAYMENT FORMS (Continued)
-  of Important: Intermediary If the receiving (correspondent) bank resides bank outside in order the to United receive States. wire transfer please inquire from from U.S. your bank. foreign If this is bank true, if then they please require obtain the use
+  DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167
+  1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):
+  5. City: 6. State: 7. Postal Code: 8. Country:
+  Payment Type: {&] Check (Complete Above Section) [) Wire/ACH Transfer (Complete Applicable Section Below)
+  9. Bank Name: 10. Bank City: 11. Bank Country:
+  12. Swift Code: 13. Account Name (Not Payee Name): 14. Account Holder Address:
+  15. Account Holder City: 16. Account Holder Providence: 17. Account Holder Country:
+  18. Bank Account Number: 19. IBAN Number (if applicable)
   20. Bank Name: 21. Bank City: 22. Bank State:
-  3. City: eee 5. Postal Code: 6. Country:
 
 
 TABLES
@@ -433,33 +477,143 @@ TABLES
 
 Table 1:
 
-  PO Box 240358                                                      |           
-  -------------------------------------------------------------------+-----------
-  Apple Valley, MN 55124                                             |           
-  800-605-2282 / 1-317-262-2132                                      |           
-  SUPPLEMENT B: PAYMENT FORMS (Continued)                            |           
-  International Bank Accounts (Banks outside of the United States)   |           
+  DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167   |           
+  ---------------------------------------------------------------+-----------
+  S WorldTrips 4 ® WorldTrips                                    |           
 
 
 Table 2:
 
-  23. ABA / Routing Number (9 digits): 24. Account Number (if applicable):   |           
-  ---------------------------------------------------------------------------+-----------
-  25. Any special instructions for forwarding payment:                       |           
-  PARENT / GUARDIAN OR THIRD-PARTY PAYMENT AUTHORIZATION                     |           
+  800-605-2282 / 1-317-262-2132                         |           
+  ------------------------------------------------------+-----------
+  SUPPLEMENT C — PAYMENT AUTHORIZATION AGREEMENT FORM   |           
 
 
 Table 3:
 
-  3. City: eee 5. Postal Code: 6. Country:   |           
-  -------------------------------------------+-----------
-  Page 7 of 9                                |           
+  The financial insured institution hereby authorizes named below. WORLDTRIPS It is also acknowledged to initiate credit that entries the origination to the account of WIRE indicated transactions below to at the the specified depository account   |           
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  must comply with the provisions of U.S. law.                                                                                                                                                                                                         |           
+
+
+Table 4:
+
+  1. Beneficiary Name: 2. Home Telephone (if applicable): 3. Email Address (if applicable):   |           
+  --------------------------------------------------------------------------------------------+-----------
+  Raheel Malik razmalik@gmail.com                                                             |           
+  4. Beneficiary Address:                                                                     |           
+  69 Sylvester Avenue                                                                         |           
+  5. City: 6. State: 7. Postal Code: 8. Country:                                              |           
+  Winchester . MA 02890 USA                                                                   |           
+
+
+Table 5:
+
+  b) an Mexico wires must have may a CLABE # (18 digits) are payee.                               |           
+  ------------------------------------------------------------------------------------------------+-----------
+  c) Great Britain - - wires in US dollars must have a bank account# and a Sort Code (6 digits)   |           
+  International Bank Accounts (Banks outside of the United States)                                |           
+
+
+Table 6:
+
+  23. ABA / Routing Number (9 digits): 24. Account Number (if applicable):   |           
+  ---------------------------------------------------------------------------+-----------
+  25. Any special instructions for forwarding payment:                       |           
+  Page 7 of 10                                                               |           
 
 
 
 
 ================================================================================
 PAGE 8
+================================================================================
+
+FORM FIELDS
+--------------------------------------------------------------------------------
+  ○ 2. Address: [EMPTY]
+
+  Summary: 0 filled, 1 empty
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+  SUPPLEMENT C: PAYMENT FORMS (Continued)
+  26. Bank Name: 27. Bank City: 28. Bank State
+  29. Account Holder Name: 30. Account Holder Address: 31. Account Holder City:
+  32. Account Holder State: 33. Account Holder Zip Code: 34. Bank Routing Number (9 digits):
+  35. Account Number: 36. Checking Account: [J Savings Account: [J
+  3. City: eee 5. Postal Code: 6. Country:
+
+SECTIONS
+--------------------------------------------------------------------------------
+THIRD PARTY PAYMENT FORM
+------------------------
+
+  details Please complete to whom this benefit section should if payment be paid is to and be sign made to to indicate a third authorization party other than for the to insured. reimburse Please this provide the name and
+  any us person.
+  2. Address:
+  3. City: eee 5. Postal Code: 6. Country:
+  | authorize payment of benefits to the third party listed above.
+  Printed Name of the Party Completing Form
+  Signature Date (MM/DD/YY)
+  Page 8 of 10
+
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167   |           
+  -------------------------------------------------------------+-----------
+  — WorldTrips 4 ® WorldTrips                                  |           
+
+
+Table 2:
+
+  800-605-2282 / 1-317-262-2132                                                                                                                                                                      |           
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  SUPPLEMENT C: PAYMENT FORMS (Continued)                                                                                                                                                            |           
+  Domestic Payments (U.S. Banks)                                                                                                                                                                     |           
+  There number are to two identify methods for bank bank-to-bank will differ depending electronic payments: which payment Wire Transfer method and is used. Automated Clearing House (ACH) routing   |           
+
+
+Table 3:
+
+  ACH (Automated Clearing House) — U.S. Bank Only   |           
+  --------------------------------------------------+-----------
+  26. Bank Name: 27. Bank City: 28. Bank State      |           
+
+
+Table 4:
+
+  35. Account Number: 36. Checking Account: [J Savings Account: [J   |           
+  -------------------------------------------------------------------+-----------
+  Ilyas Malik [ts fei 9/5/2023                                       |           
+
+
+Table 5:
+
+  Printed Name of the Insured Person Insured Signature Date (MM/DD/YY)   |           
+  -----------------------------------------------------------------------+-----------
+  THIRD PARTY PAYMENT FORM                                               |           
+
+
+Table 6:
+
+  3. City: eee 5. Postal Code: 6. Country:                         |           
+  -----------------------------------------------------------------+-----------
+  authorize payment of benefits to the third party listed above.   |           
+  Printed Name of the Party Completing Form                        |           
+  Signature Date (MM/DD/YY)                                        |           
+  Page 8 of 10                                                     |           
+
+
+
+
+================================================================================
+PAGE 9
 ================================================================================
 
 FORM FIELDS
@@ -472,8 +626,8 @@ FORM FIELDS
 
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-622 1-461 D-B926-C9BA6DF98167
   SECTION A: Insured Authorizing Use and/or Disclosure
-  SECTION The information B: The to be Use used and/or and/or Disclosure disclosed is Being (select Authorized all that apply):
   This SECTION authorization C: Expiration will expire (complete one):
 
 SECTIONS
@@ -507,7 +661,7 @@ PROTECTED HEALTH INFORMATION
   O On / / (MM/DD/YY)
   0 On occurrence of the following event (which must relate to the individual or to the purpose of the use and/or
   disclosure being authorized):
-  Page 8 of 9
+  Page 9 of 10
 
 
 TABLES
@@ -515,9 +669,9 @@ TABLES
 
 Table 1:
 
-  PO Box 240358                                                    |           
+  Box No. 2005                                                     |           
   -----------------------------------------------------------------+-----------
-  Apple Valley. MN 55124                                           |           
+  Farmington Hills. Ml 48333-2005                                  |           
   800-605-2282 / 1-317-262-2132                                    |           
   SUPPLEMENT D — AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF   |           
   PROTECTED HEALTH INFORMATION                                     |           
@@ -545,37 +699,64 @@ Table 3:
   0 On occurrence of the following event (which must relate to the individual or to the purpose of the use and/or   |           
   ------------------------------------------------------------------------------------------------------------------+-----------
   disclosure being authorized):                                                                                     |           
-  Page 8 of 9                                                                                                       |           
+  Page 9 of 10                                                                                                      |           
 
 
 
 
 ================================================================================
-PAGE 9
+PAGE 10
 ================================================================================
-
-FORM FIELDS
---------------------------------------------------------------------------------
-  ✓ Personal Representative’s Name: → Relationship
-
-  Summary: 1 filled, 0 empty
 
 KEY-VALUE PAIRS
 --------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
   SUPPLEMENT D: AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF
   SECTION D: Important Information About Your Rights
+  Personal Representative’s Name: Raheel Malik
   Note: If requested, you must provide valid and current proof of your legal relationship as a personal representative.
 
+DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+e WorldTrips” WorldTrips
+Box No. 2005
+Farmington Hills. Ml 48333-2005
+800-605-2282 / 1-317-262-2132
+SUPPLEMENT D: AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF
+PROTECTED HEALTH INFORMATION (Continued)
+SECTION D: Important Information About Your Rights
+| have read and understood the following statements about my rights:
+* | may revoke this authorization at any time by notifying WorldTrips in writing, but the revocation will not have any effect on
+any actions that WorldTrips took before we received the revocation.
+* | may see and copy the information described on this form if | ask for it.
+* lam not required to sign this form to receive health care benefits to which | am otherwise entitled.
+* The information that is used or disclosed pursuant to this authorization may be re-disclosed by the receiving entity and |
+understand that the information may no longer be protected by the Health Insurance Portability Accountability Act of 1996
+(also known as HIPAA).
+Insured’s Signature
+|, having disclose had the protected full opportunity health information to read and consider indicated the above. contents of this authorization, hereby authorize WorldTrips to use and/
+or my as
+Signature Date (MM/DD/YY)
+If this authorization is signed by a personal representative on behalf of the insured/ certificate holder,
+complete the following:
+Personal Representative’s Name: Raheel Malik
+Relationship to Insured/ Certificate Holder for Whom This Authorization Applies: Father
+Note: If requested, you must provide valid and current proof of your legal relationship as a personal representative.
+YOU ARE ENTITLED TO A COPY OF THIS AUTHORIZATION AFTER YOU SIGN IT.
+A copy of this form may be used as if it were an original.
+WorldTrips Lloyd's
+WorldTrips of insurance is on a service behalf of company the Lloyd's and underwriting a member of the members Tokio Marine of Lloyd's HCC Syndicate group of 4141, companies. which is WorldTrips managed has by HCC authority Underwriting to enter Agency, into contracts Ltd.
+Page 10 of 10
 
 TABLES
 --------------------------------------------------------------------------------
 
 Table 1:
 
-  e WorldTrips” WorldTrips                                                                                                     |                                                                                                                                |              
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167                                                                   |                                                                                                                                |              
   -----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+--------------
-  PO Box 240358                                                                                                                |                                                                                                                                |              
-  Apple Valley, MN 55124                                                                                                       |                                                                                                                                |              
+  e WorldTrips” WorldTrips                                                                                                     |                                                                                                                                |              
+  Box No. 2005                                                                                                                 |                                                                                                                                |              
+  Farmington Hills. Ml 48333-2005                                                                                              |                                                                                                                                |              
   800-605-2282 / 1-317-262-2132                                                                                                |                                                                                                                                |              
   SUPPLEMENT D: AUTHORIZATION FORM FOR USE AND/OR DISCLOSURE OF                                                                |                                                                                                                                |              
   PROTECTED HEALTH INFORMATION (Continued)                                                                                     |                                                                                                                                |              
@@ -598,9 +779,86 @@ Table 2:
   Signature Date (MM/DD/YY)                                                                                                                                                                   |           
   If this authorization is signed by a personal representative on behalf of the insured/ certificate holder,                                                                                  |           
   complete the following:                                                                                                                                                                     |           
-  Personal Representative’s Name:                                                                                                                                                             |           
-  Relationship to Insured/ Certificate Holder for Whom This Authorization Applies:                                                                                                            |           
+  Personal Representative’s Name: Raheel Malik                                                                                                                                                |           
+  Relationship to Insured/ Certificate Holder for Whom This Authorization Applies: Father                                                                                                     |           
   Note: If requested, you must provide valid and current proof of your legal relationship as a personal representative.                                                                       |           
+
+
+Table 3:
+
+  WorldTrips of insurance is on a service behalf of company the Lloyd's and underwriting a member of the members Tokio Marine of Lloyd's HCC Syndicate group of 4141, companies. which is WorldTrips managed has by HCC authority Underwriting to enter Agency, into contracts Ltd.   |           
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------
+  Page 10 of 10                                                                                                                                                                                                                                                                       |           
+
+
+
+
+================================================================================
+PAGE 11
+================================================================================
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+
+DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+
+DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+Maktar Kev Matreh Kone Koy Tuter 17.04 Tuter 230.00 —
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167   |           
+  -------------------------------------------------------------+-----------
+  Maktar Kev Matreh Kone Koy Tuter 17.04 Tuter 230.00 —        |           
+
+
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+KEY-VALUE PAIRS
+--------------------------------------------------------------------------------
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+
+DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167
+a vesTe ic 00000448-38C.D-3C42-E063-QAFAQSOASA0D
+3533137
+er eld Se Mal ee Hizrmet Tutan /
+. - wu ARA TOPLAM/SUB TOTAL 4.250557.
+D 7 * Onn,
+
+TABLES
+--------------------------------------------------------------------------------
+
+Table 1:
+
+  DocuSign Envelope ID: 5208D50D-6221-461D-B926-C9BA6DF98167   |           
+  -------------------------------------------------------------+-----------
+  a vesTe ic 00000448-38C.D-3C42-E063-QAFAQSOASA0D             |           
+
+
+Table 2:
+
+  er eld Se Mal ee Hizrmet Tutan /        |           
+  ----------------------------------------+-----------
+  . - wu ARA TOPLAM/SUB TOTAL 4.250557.   |           
+  D 7 * Onn,                              |           
 
 
 
